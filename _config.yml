@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Paris'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  paris-project-exhibition: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'paris-project-exhibition' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'paris-project-exhibition.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/paris-project-exhibition' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +85,11 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      paris-project-exhibition:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
           - label
-          - _date
-          - object_type
-          - current_location
+          - image_caption
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -103,26 +99,30 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: 'Paris'
+    sub:
+      - label: 'Digital Edition'
+        link: 'https://ada.artsci.wustl.edu/paris/content/paris_current.xml'
+      - label: 'Facsimile'
+        link: 'http://omeka.wustl.edu/omeka/exhibits/show/paris-project/scans'
   - label: 'About'
     sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Exhibits'
+      - label: 'This Edition'
+        link: '/exhibits/c/'
+      - label: 'The Poem'
+        link: '/exhibits/d/'
+  - label: 'Contexts'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Hope Mirrlees'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'The Hogarth Press'
         link: '/exhibits/b/'
+      - label: 'Contextual Images'
+        link: 'Browse'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

@@ -1,0 +1,61 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/paris-project-exhibition.json",
+  "@type": "sc:Collection",
+  "label": "paris-project-exhibition",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_9"
+    }
+  ]
+}
