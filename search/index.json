@@ -5,7 +5,7 @@ layout: none
   {
     "pid": "pci_1",
     "label": "Notre Dame",
-    "image_caption": null,
+    "caption": "Cathédrale Notre-Dame de Paris, located on the Île de la Cité in the Seine between Paris's right and left banks, is one of the city's oldest and most recognizable landmarks. This photo was taken in May 1912.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_1/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_1",
@@ -13,83 +13,1505 @@ layout: none
   },
   {
     "pid": "pci_10",
-    "label": "L'Embarcation pour Cythere",
-    "image_caption": "Antoine Wasseau's 1717 painting Pélerinage à l'île de Cythère, dit L'Embarquement pour Cythère  (Pilgrimage to Cythera, so-called The Embarkation for Cythera), held by the Louvre. The painting depicts a large party of couples departing--or according to some interpretations, returning--from Cytheria, Venus's island of love.",
+    "label": "Le départ pour Cythère",
+    "caption": "Antoine Wasseau's 1717 painting Pélerinage à l'île de Cythère, dit L'Embarquement pour Cythère  (Pilgrimage to Cythera, so-called The Embarkation for Cythera), held by the Louvre. The painting depicts a large party of couples departing--or according to some interpretations, returning--from Cytheria, Venus's island of love.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_10/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_10",
     "lunr_id": 1
   },
   {
-    "pid": "pci_2",
-    "label": "Nord-Sud",
-    "image_caption": "The Nord-Sud line connecting Montmartre and Montparnasse opened to the public in November 1910. During the war years, the Nord-Sud station pictured in this image (February 1918) served as a refuge (\"abri\") from potential German air raids.",
+    "pid": "pci_100",
+    "label": "Fiacre",
+    "caption": null,
     "collection": "paris-project-exhibition",
-    "thumbnail": "/img/derivatives/iiif/images/pci_2/full/250,/0/default.jpg",
-    "permalink": "/paris-project-exhibition/pci_2",
+    "thumbnail": "/img/derivatives/iiif/images/pci_100/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_100",
     "lunr_id": 2
   },
   {
+    "pid": "pci_101",
+    "label": "Night club dancer",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_101/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_101",
+    "lunr_id": 3
+  },
+  {
+    "pid": "pci_102",
+    "label": "Pont Solférino",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_102/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_102",
+    "lunr_id": 4
+  },
+  {
+    "pid": "pci_103",
+    "label": "Petit-Palais",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_103/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_103",
+    "lunr_id": 5
+  },
+  {
+    "pid": "pci_104",
+    "label": "La Presse",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_104/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_104",
+    "lunr_id": 6
+  },
+  {
+    "pid": "pci_105",
+    "label": "La Liberté",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_105/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_105",
+    "lunr_id": 7
+  },
+  {
+    "pid": "pci_106",
+    "label": "Mme de Lafayette",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_106/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_106",
+    "lunr_id": 8
+  },
+  {
+    "pid": "pci_107",
+    "label": "Salon d'Automne",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_107/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_107",
+    "lunr_id": 9
+  },
+  {
+    "pid": "pci_108",
+    "label": "François VI, duc de La Rochefoucauld",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_108/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_108",
+    "lunr_id": 10
+  },
+  {
+    "pid": "pci_109",
+    "label": "Adèle Hugo née Foucher",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_109/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_109",
+    "lunr_id": 11
+  },
+  {
+    "pid": "pci_11",
+    "label": "Rue de la Goutte d'Or",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_11/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_11",
+    "lunr_id": 12
+  },
+  {
+    "pid": "pci_110",
+    "label": "Charles Saint-Beuve",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_110/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_110",
+    "lunr_id": 13
+  },
+  {
+    "pid": "pci_111",
+    "label": "Les Champs Élysées",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_111/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_111",
+    "lunr_id": 14
+  },
+  {
+    "pid": "pci_112",
+    "label": "Plaque Chateaubriand",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_112/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_112",
+    "lunr_id": 15
+  },
+  {
+    "pid": "pci_113",
+    "label": "Plaque Voltaire",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_113/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_113",
+    "lunr_id": 16
+  },
+  {
+    "pid": "pci_114",
+    "label": "Plaque Molière",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_114/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_114",
+    "lunr_id": 17
+  },
+  {
+    "pid": "pci_115",
+    "label": "Impasse des deux-anges",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_115/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_115",
+    "lunr_id": 18
+  },
+  {
+    "pid": "pci_116",
+    "label": "Eglise Saint-Thomas-d'Aquin",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_116/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_116",
+    "lunr_id": 19
+  },
+  {
+    "pid": "pci_117",
+    "label": "Place des Vosges",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_117/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_117",
+    "lunr_id": 20
+  },
+  {
+    "pid": "pci_118",
+    "label": "Hôtel de l'Élysée 3 rue de Beaune",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_118/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_118",
+    "lunr_id": 21
+  },
+  {
+    "pid": "pci_119",
+    "label": "Hôtel de Ville",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_119/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_119",
+    "lunr_id": 22
+  },
+  {
+    "pid": "pci_12",
+    "label": "Pissoirs",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_12/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_12",
+    "lunr_id": 23
+  },
+  {
+    "pid": "pci_120",
+    "label": "Palais Royal (Jardin)",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_120/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_120",
+    "lunr_id": 24
+  },
+  {
+    "pid": "pci_121",
+    "label": "Hôtel Ritz",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_121/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_121",
+    "lunr_id": 25
+  },
+  {
+    "pid": "pci_122",
+    "label": "Palais du Louvre Colonnade vue en perspective",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_122/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_122",
+    "lunr_id": 26
+  },
+  {
+    "pid": "pci_123",
+    "label": "First communion dresses",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_123/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_123",
+    "lunr_id": 27
+  },
+  {
+    "pid": "pci_124",
+    "label": "Galeries Lafayette exterior",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_124/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_124",
+    "lunr_id": 28
+  },
+  {
+    "pid": "pci_125",
+    "label": "Pont Neuf",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_125/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_125",
+    "lunr_id": 29
+  },
+  {
+    "pid": "pci_126",
+    "label": "Église Notre-Dame-des-Champs",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_126/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_126",
+    "lunr_id": 30
+  },
+  {
+    "pid": "pci_127",
+    "label": "Nuns in cornettes",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_127/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_127",
+    "lunr_id": 31
+  },
+  {
+    "pid": "pci_128",
+    "label": "Bois de Boulogne\n(aerial)",
+    "caption": "The Bois de Boulogne is a large public park on the Western edge of Paris's city limits. Formerly royal property, Napoleon III and Baron Haussman transformed the land into a center for leisure as part of a massive urban renewal program in the 1850s. This aerial photo depicts the Bois de Boulogne with the Seine in the background, c.1853 –70.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_128/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_128",
+    "lunr_id": 32
+  },
+  {
+    "pid": "pci_129",
+    "label": "Lait supérieur",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_129/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_129",
+    "lunr_id": 33
+  },
+  {
+    "pid": "pci_13",
+    "label": "Kiosk",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_13/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_13",
+    "lunr_id": 34
+  },
+  {
+    "pid": "pci_130",
+    "label": "Apéritifs",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_130/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_130",
+    "lunr_id": 35
+  },
+  {
+    "pid": "pci_131",
+    "label": "Emile Cottin Clemenceau assassination attempt",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_131/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_131",
+    "lunr_id": 36
+  },
+  {
+    "pid": "pci_132",
+    "label": "Photo of Hope Mirrlees",
+    "caption": "Hope Mirrlees",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_132/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_132",
+    "lunr_id": 37
+  },
+  {
+    "pid": "pci_133",
+    "label": "Photo of Mirrlees and Jane Ellen Harrison",
+    "caption": "Hope Mirrlees and Jane Ellen Harrison",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_133/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_133",
+    "lunr_id": 38
+  },
+  {
+    "pid": "pci_134",
+    "label": "Photo of Mirrlees and Phillip Edward Morell",
+    "caption": "Hope Mirrlees and Phillip Edward Morell",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_134/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_134",
+    "lunr_id": 39
+  },
+  {
+    "pid": "pci_135",
+    "label": "Paris scan 1",
+    "caption": "Paris scan 1",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_135/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_135",
+    "lunr_id": 40
+  },
+  {
+    "pid": "pci_136",
+    "label": "Paris scan 2",
+    "caption": "Paris scan 2",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_136/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_136",
+    "lunr_id": 41
+  },
+  {
+    "pid": "pci_137",
+    "label": "Paris scan 3",
+    "caption": "Paris scan 3",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_137/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_137",
+    "lunr_id": 42
+  },
+  {
+    "pid": "pci_138",
+    "label": "Paris scan 4",
+    "caption": "Paris scan 4",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_138/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_138",
+    "lunr_id": 43
+  },
+  {
+    "pid": "pci_139",
+    "label": "Paris scan 5",
+    "caption": "Paris scan 5",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_139/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_139",
+    "lunr_id": 44
+  },
+  {
+    "pid": "pci_14",
+    "label": "Sacre Coeur de Montmartre",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_14/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_14",
+    "lunr_id": 45
+  },
+  {
+    "pid": "pci_140",
+    "label": "Paris scan 6",
+    "caption": "Paris scan 6",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_140/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_140",
+    "lunr_id": 46
+  },
+  {
+    "pid": "pci_141",
+    "label": "Paris scan 7",
+    "caption": "Paris scan 7",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_141/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_141",
+    "lunr_id": 47
+  },
+  {
+    "pid": "pci_142",
+    "label": "Paris scan 8",
+    "caption": "Paris scan 8",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_142/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_142",
+    "lunr_id": 48
+  },
+  {
+    "pid": "pci_143",
+    "label": "Paris scan 9",
+    "caption": "Paris scan 9",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_143/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_143",
+    "lunr_id": 49
+  },
+  {
+    "pid": "pci_144",
+    "label": "Paris scan 10",
+    "caption": "Paris scan 10",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_144/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_144",
+    "lunr_id": 50
+  },
+  {
+    "pid": "pci_145",
+    "label": "Paris scan 11",
+    "caption": "Paris scan 11",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_145/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_145",
+    "lunr_id": 51
+  },
+  {
+    "pid": "pci_146",
+    "label": "Paris scan 12",
+    "caption": "Paris scan 12",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_146/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_146",
+    "lunr_id": 52
+  },
+  {
+    "pid": "pci_147",
+    "label": "Paris scan 13",
+    "caption": "Paris scan 13",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_147/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_147",
+    "lunr_id": 53
+  },
+  {
+    "pid": "pci_148",
+    "label": "Paris scan 14",
+    "caption": "Paris scan 14",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_148/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_148",
+    "lunr_id": 54
+  },
+  {
+    "pid": "pci_149",
+    "label": "Paris scan 15",
+    "caption": "Paris scan 15",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_149/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_149",
+    "lunr_id": 55
+  },
+  {
+    "pid": "pci_15",
+    "label": "24-hour shop [Deuil en 24 heures]",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_15/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_15",
+    "lunr_id": 56
+  },
+  {
+    "pid": "pci_150",
+    "label": "Paris scan 16",
+    "caption": "Paris scan 16",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_150/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_150",
+    "lunr_id": 57
+  },
+  {
+    "pid": "pci_151",
+    "label": "Paris scan 17",
+    "caption": "Paris scan 17",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_151/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_151",
+    "lunr_id": 58
+  },
+  {
+    "pid": "pci_152",
+    "label": "Paris scan 18",
+    "caption": "Paris scan 18",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_152/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_152",
+    "lunr_id": 59
+  },
+  {
+    "pid": "pci_153",
+    "label": "Paris scan 19",
+    "caption": "Paris scan 19",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_153/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_153",
+    "lunr_id": 60
+  },
+  {
+    "pid": "pci_154",
+    "label": "Paris scan 20",
+    "caption": "Paris scan 20",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_154/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_154",
+    "lunr_id": 61
+  },
+  {
+    "pid": "pci_155",
+    "label": "Paris scan 21",
+    "caption": "Paris scan 21",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_155/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_155",
+    "lunr_id": 62
+  },
+  {
+    "pid": "pci_156",
+    "label": "Paris scan 22",
+    "caption": "Paris scan 22",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_156/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_156",
+    "lunr_id": 63
+  },
+  {
+    "pid": "pci_157",
+    "label": "Paris scan 23",
+    "caption": "Paris scan 23",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_157/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_157",
+    "lunr_id": 64
+  },
+  {
+    "pid": "pci_158",
+    "label": "Paris scan 24",
+    "caption": "Paris scan 24",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_158/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_158",
+    "lunr_id": 65
+  },
+  {
+    "pid": "pci_159",
+    "label": "Paris scan 25",
+    "caption": "Paris scan 25",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_159/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_159",
+    "lunr_id": 66
+  },
+  {
+    "pid": "pci_16",
+    "label": "somethingsomething",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_16/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_16",
+    "lunr_id": 67
+  },
+  {
+    "pid": "pci_160",
+    "label": "Paris scan 26",
+    "caption": "Paris scan 26",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_160/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_160",
+    "lunr_id": 68
+  },
+  {
+    "pid": "pci_161",
+    "label": "Paris scan 27",
+    "caption": "Paris scan 27",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_161/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_161",
+    "lunr_id": 69
+  },
+  {
+    "pid": "pci_162",
+    "label": "Paris scan 28",
+    "caption": "Paris scan 28",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_162/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_162",
+    "lunr_id": 70
+  },
+  {
+    "pid": "pci_163",
+    "label": "Paris measurement overlay 1",
+    "caption": "Paris measurement overlay 1",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_163_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_163",
+    "lunr_id": 71
+  },
+  {
+    "pid": "pci_164",
+    "label": "Paris measurement overlay 2",
+    "caption": "Paris measurement overlay 2",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_164_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_164",
+    "lunr_id": 72
+  },
+  {
+    "pid": "pci_165",
+    "label": "Paris measurement overlay 3",
+    "caption": "Paris measurement overlay 3",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_165_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_165",
+    "lunr_id": 73
+  },
+  {
+    "pid": "pci_166",
+    "label": "Paris ideal measurements 1",
+    "caption": "Paris ideal measurements 1",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_166_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_166",
+    "lunr_id": 74
+  },
+  {
+    "pid": "pci_167",
+    "label": "Paris ideal measurements 2",
+    "caption": "Paris ideal measurements 2",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_167_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_167",
+    "lunr_id": 75
+  },
+  {
+    "pid": "pci_168",
+    "label": "Paris ideal measurements 3",
+    "caption": "Paris ideal measurements 3",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_168_0/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_168",
+    "lunr_id": 76
+  },
+  {
+    "pid": "pci_17",
+    "label": "Grand Guignol",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_17/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_17",
+    "lunr_id": 77
+  },
+  {
+    "pid": "pci_18",
+    "label": "President Wilson visiting Paris",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_18/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_18",
+    "lunr_id": 78
+  },
+  {
+    "pid": "pci_19",
+    "label": "The Chardins",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_19/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_19",
+    "lunr_id": 79
+  },
+  {
+    "pid": "pci_2",
+    "label": "Nord-Sud",
+    "caption": "The Nord-Sud line connecting Montmartre and Montparnasse opened to the public in November 1910. During the war years, the Nord-Sud station pictured in this image (February 1918) served as a refuge (\"abri\") from potential German air raids.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_2/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_2",
+    "lunr_id": 80
+  },
+  {
+    "pid": "pci_20",
+    "label": "Mantegna's Seven Deadly Sins",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_20/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_20",
+    "lunr_id": 81
+  },
+  {
+    "pid": "pci_21",
+    "label": "Pierrot (Gilles)",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_21/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_21",
+    "lunr_id": 82
+  },
+  {
+    "pid": "pci_22",
+    "label": "L'Olympe",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_22/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_22",
+    "lunr_id": 83
+  },
+  {
+    "pid": "pci_23",
+    "label": "Pieta de Villeneuve les avignon",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_23/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_23",
+    "lunr_id": 84
+  },
+  {
+    "pid": "pci_24",
+    "label": "Louvre 1914-1918",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_24/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_24",
+    "lunr_id": 85
+  },
+  {
+    "pid": "pci_25",
+    "label": "Mme Jacquemart-Andre",
+    "caption": "Nélie Jacquemart (1841-1912) was an art patron, collector, and painter in her own right. This c.1880 self portrait is held by the Musée Jacquemart-Andrée, which was established following\nNélie Jacquemart's death in her and husband Édouard André's former home on the Boulevard Haussman.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_25/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_25",
+    "lunr_id": 86
+  },
+  {
+    "pid": "pci_26",
+    "label": "Joseph Pernet-Ducher",
+    "caption": "This photograph of award-winning rosarian Joseph Pernet-Ducher and his specimens was originally included as a plate in a 1925 issue of Les Amis des roses: journal de la Société française de rosiéristes. Pernet-Ducher developed a new hybrid tea-rose in 1913 and named it \"Mme Edouard Herriot\" after the wife of the then mayor of Lyon.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_26/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_26",
+    "lunr_id": 87
+  },
+  {
+    "pid": "pci_27",
+    "label": "Portrait of Comtesse d'Haussonville by J.A.D. Ingres",
+    "caption": "J. A. D. Ingres (1780-1867) is best known today for his neoclassical paintings, but he also completed several commissioned portraits in the late years of his career. A hypothetical Ingres portrait of Mme Jacquemart-André might resemble his 1845 Portrait of Comtesse d'Haussonville, held by the  Frick Collection.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_27/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_27",
+    "lunr_id": 88
+  },
+  {
+    "pid": "pci_28",
+    "label": "Lyons Rose",
+    "caption": "This c.1910 engraving of a Lyon rose orignally appeared in France's Revue Horticole (Horitcultural Review). Lyon has been known for its expert breeding hybrid roses, including the scentless variety named after the city, since the nineteenth century.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_28/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_28",
+    "lunr_id": 89
+  },
+  {
+    "pid": "pci_29",
+    "label": "Au Bon Marché",
+    "caption": "Au Bon Marché, located between the rue de Babylone and the rue de Sevres in the left bank's fashionable 7eme arrondisement, was one of Paris's first modern department stores in the nineteenth century. This c.1920 poster advertises a general exposition at the store.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_29/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_29",
+    "lunr_id": 90
+  },
+  {
     "pid": "pci_3",
-    "label": "Zig-zag",
-    "image_caption": "Poster advertising Zig-Zag cigarette papers, c.1900. [illustrator unknown]",
+    "label": "Advertisement for Zig-Zag rolling papers",
+    "caption": "Poster advertising Zig-Zag cigarette papers, c.1900. [illustrator unknown]",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_3/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_3",
-    "lunr_id": 3
+    "lunr_id": 91
+  },
+  {
+    "pid": "pci_30",
+    "label": "Gallic Cock",
+    "caption": "The gallic cock serves as an unnoficial national symbol of France. This poster c.1915 uses the iconography of the Gallic cock to encourage the French people to support the war effort, reading, \"Deposit your gold for France. Gold fights for victory.\" The image depicts a German soldier in the process of being crushed by a gold coin imprinted with the Gallic cock.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_30/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_30",
+    "lunr_id": 92
+  },
+  {
+    "pid": "pci_31",
+    "label": "Chestnut seller [Vendeur de marrons]",
+    "caption": "This photograph depicts a hot-chestnut seller (vendeur des marrons-chauds) on the streets of Paris, c.1908.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_31/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_31",
+    "lunr_id": 93
+  },
+  {
+    "pid": "pci_32",
+    "label": "Rue Saint-Honoré",
+    "caption": "The rue Saint-Honoré is a major shopping street in the 1er arrondisement. This photograph shows the intersection of the rue Saint-Honoré and the rue Croix-des-Petits-Champs, just North of the Louvre, c.1910.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_32/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_32",
+    "lunr_id": 94
+  },
+  {
+    "pid": "pci_33",
+    "label": "Portrait of Cheateaubriand",
+    "caption": "Anne-Louis Girodet-Trioson's c.1808 painting Chateaubriand Meditating on the Ruins of Rome, held by the Museum of the History of the Town and the Pays Malouin in Chateaubriand's birthplace of Saint-Malo, Brittany. Chateaubriand was a famous writer and statesman in nineteenth century France.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_33/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_33",
+    "lunr_id": 95
+  },
+  {
+    "pid": "pci_34",
+    "label": "Portrait of Juliette Récamier",
+    "caption": "Jacques-Louis David's 1800 painting Portait of Madame Recamier, held by the Louvre. Juliette Recamier hosted a leading salon of early nineteenth century Paris, regularly attended by such literary stars as Chateaubriand.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_34/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_34",
+    "lunr_id": 96
+  },
+  {
+    "pid": "pci_35",
+    "label": "Spinario",
+    "caption": "The Spinaro (known as Tireur d'épine in French or Boy with Thorn in English) is a genre of ancient statue depicting a boy removing a thorn from the bottom of his foot. The most famous example of the Spinario genre is held by the Musei Capitolini in Rome, but there are many bronze copies dating from the Renaissance onwards.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_35/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_35",
+    "lunr_id": 97
+  },
+  {
+    "pid": "pci_36",
+    "label": "Women walking in the Bois de Boulogne",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_36/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_36",
+    "lunr_id": 98
+  },
+  {
+    "pid": "pci_37",
+    "label": "Musée du Luxembourg",
+    "caption": "This photograph depicts the Musée de Luxembourg's sculpture gallery, c.1912. French painter Gustave Caillebotte bequeathed his collection of impressionist paintings to the state, and the paintings were put on display in 1897 in a gallery named after Caillebotte in the Musée du Luxembourg.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_37/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_37",
+    "lunr_id": 99
+  },
+  {
+    "pid": "pci_38",
+    "label": "Arc de Triomphe",
+    "caption": "This photograph depicts the Arc de Triomphe de L'Étoile c.1909-1919. The Champs Élysées runs from the Arc de Triomphe in the West to the Place de la Concorde in the East. [The monument was commissed by Napoleon to commemorate his 1805 military victory at Austerlitz.] [A ceremony to commemorate the November 11, 1918 armistice takes place at the Arc each year, and it is also the location of France's Tomb of the Unknown Solider.]",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_38/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_38",
+    "lunr_id": 100
+  },
+  {
+    "pid": "pci_39",
+    "label": "L'Étoile",
+    "caption": "Twelve avenues, including the Avenue des Champs Élysées, intersect to form a star (étoile) pattern with the Arc de Triomphe at the center at the Place de L'Étoile. This aerial photograph of the Étoile was taken c.1909-19.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_39/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_39",
+    "lunr_id": 101
   },
   {
     "pid": "pci_4",
     "label": "Lion Noir",
-    "image_caption": "Poster advertising Lion Noir (Black Lion) shoe polish, c.1900.\n[Illustrated by Louis Méry]",
+    "caption": "Poster advertising Lion Noir (Black Lion) shoe polish, c.1900.\n[Illustrated by Louis Méry]",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_4/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_4",
-    "lunr_id": 4
+    "lunr_id": 102
+  },
+  {
+    "pid": "pci_40",
+    "label": "Portrait of the Duchess of Alba",
+    "caption": "Francisco Goya's 1795 painting The White Duchess, held by the Liria Palace in Spain. Goya painted María Cayetana de Silva, 13th Duchess of Alba, on several occasions, including in The Black Duchess (1797), which depicts the duchess in morning following her husband's death.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_40/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_40",
+    "lunr_id": 103
+  },
+  {
+    "pid": "pci_41",
+    "label": "L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries",
+    "caption": "Photograph of L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries by Eugène Atget, c.1906.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_41/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_41",
+    "lunr_id": 104
+  },
+  {
+    "pid": "pci_42",
+    "label": "Gambetta Monument",
+    "caption": "Photograph of the monument to French statesman Leon Gambetta in the Cour Napoléon in the front of the musée du Louvre, c.1900-19. Gambetta played a significant role in the Franco-Prussian War (1870-71) and the founding of France's Third Republic (1870-1940).",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_42/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_42",
+    "lunr_id": 105
+  },
+  {
+    "pid": "pci_43",
+    "label": "Port-Royal",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_43/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_43",
+    "lunr_id": 106
+  },
+  {
+    "pid": "pci_44",
+    "label": null,
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_44/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_44",
+    "lunr_id": 107
+  },
+  {
+    "pid": "pci_45",
+    "label": "Jardin des Tuileries",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_45/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_45",
+    "lunr_id": 108
+  },
+  {
+    "pid": "pci_46",
+    "label": null,
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_46/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_46",
+    "lunr_id": 109
+  },
+  {
+    "pid": "pci_47",
+    "label": "German tank in Place de la Concorde",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_47/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_47",
+    "lunr_id": 110
+  },
+  {
+    "pid": "pci_48",
+    "label": "Bouquinistes",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_48/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_48",
+    "lunr_id": 111
+  },
+  {
+    "pid": "pci_49",
+    "label": "The Fronde",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_49/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_49",
+    "lunr_id": 112
   },
   {
     "pid": "pci_5",
-    "label": "Cacao Blooker",
-    "image_caption": "Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910",
+    "label": "Advertisement for Cacao Blooker",
+    "caption": "Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_5/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_5",
-    "lunr_id": 5
+    "lunr_id": 113
+  },
+  {
+    "pid": "pci_50",
+    "label": "Dubonnet",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_50/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_50",
+    "lunr_id": 114
+  },
+  {
+    "pid": "pci_51",
+    "label": "Painting by Jacques-Louis David",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_51/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_51",
+    "lunr_id": 115
+  },
+  {
+    "pid": "pci_52",
+    "label": "Prise de la Bastille",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_52/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_52",
+    "lunr_id": 116
+  },
+  {
+    "pid": "pci_53",
+    "label": "Les Journées de Juin",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_53/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_53",
+    "lunr_id": 117
+  },
+  {
+    "pid": "pci_54",
+    "label": "Place des Pyramides",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_54/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_54",
+    "lunr_id": 118
+  },
+  {
+    "pid": "pci_55",
+    "label": "Nord-Sud metro line",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_55/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_55",
+    "lunr_id": 119
+  },
+  {
+    "pid": "pci_56",
+    "label": "Notre Dame in wartime",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_56/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_56",
+    "lunr_id": 120
+  },
+  {
+    "pid": "pci_57",
+    "label": "Notre Dame",
+    "caption": "Cathédrale Notre-Dame de Paris, located on the Île de la Cité in the Seine between Paris's right and left banks, is one of the city's oldest and most recognizable landmarks. This photo was taken in May 1912.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_57/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_57",
+    "lunr_id": 121
+  },
+  {
+    "pid": "pci_58",
+    "label": "Jacques-Louis David",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_58/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_58",
+    "lunr_id": 122
+  },
+  {
+    "pid": "pci_59",
+    "label": "Poilus",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_59/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_59",
+    "lunr_id": 123
   },
   {
     "pid": "pci_6",
     "label": "Chambre des Députés station",
-    "image_caption": "Photograph of the platform of the Chambre des Députés Station on the Nord-Sud line (date?)",
+    "caption": "Photograph of the platform of the Chambre des Députés Station on the Nord-Sud line (date?)",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_6/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_6",
-    "lunr_id": 6
+    "lunr_id": 124
+  },
+  {
+    "pid": "pci_60",
+    "label": "Poilus banner",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_60/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_60",
+    "lunr_id": 125
+  },
+  {
+    "pid": "pci_61",
+    "label": "Tour Eiffel",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_61/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_61",
+    "lunr_id": 126
+  },
+  {
+    "pid": "pci_62",
+    "label": "Place du Carrousel",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_62/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_62",
+    "lunr_id": 127
+  },
+  {
+    "pid": "pci_63",
+    "label": "1919 strikes",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_63/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_63",
+    "lunr_id": 128
+  },
+  {
+    "pid": "pci_64",
+    "label": "The First of May in 1909",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_64/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_64",
+    "lunr_id": 129
+  },
+  {
+    "pid": "pci_65",
+    "label": "M. Poincaré",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_65/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_65",
+    "lunr_id": 130
+  },
+  {
+    "pid": "pci_66",
+    "label": "Crepe veils",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_66/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_66",
+    "lunr_id": 131
+  },
+  {
+    "pid": "pci_67",
+    "label": "Soldier examining a German trench",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_67/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_67",
+    "lunr_id": 132
+  },
+  {
+    "pid": "pci_68",
+    "label": "Uniforms from the 19th century Armée française - Zouaves",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_68/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_68",
+    "lunr_id": 133
+  },
+  {
+    "pid": "pci_69",
+    "label": "Marne",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_69/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_69",
+    "lunr_id": 134
   },
   {
     "pid": "pci_7",
-    "label": "Byrrh",
-    "image_caption": "Poster advertising Byrrh wine-based apéritif, c.1909.\n[Illustrated by Jules Alexandre Grün.]",
+    "label": "Beer advertisement",
+    "caption": "Poster advertising Byrrh wine-based apéritif, c.1909.\n[Illustrated by Jules Alexandre Grün.]",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_7/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_7",
-    "lunr_id": 7
+    "lunr_id": 135
+  },
+  {
+    "pid": "pci_70",
+    "label": "Les Grands Boulevards in May 1919",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_70/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_70",
+    "lunr_id": 136
+  },
+  {
+    "pid": "pci_71",
+    "label": "Monument with inscription Mort au champ d'honneur",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_71/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_71",
+    "lunr_id": 137
+  },
+  {
+    "pid": "pci_72",
+    "label": "Henri Rousseau Le lion, ayant faim, se jette sur l’antilope (The Hungry Lion Attacking an Antelope)",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_72/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_72",
+    "lunr_id": 138
+  },
+  {
+    "pid": "pci_73",
+    "label": "Père Lachaise",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_73/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_73",
+    "lunr_id": 139
+  },
+  {
+    "pid": "pci_74",
+    "label": "Père Lachaise (cemetary)",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_74/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_74",
+    "lunr_id": 140
+  },
+  {
+    "pid": "pci_75",
+    "label": "Fête des morts 1917 au Père Lachaise",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_75/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_75",
+    "lunr_id": 141
+  },
+  {
+    "pid": "pci_76",
+    "label": "Portrait of Jacques-Bénigne Bossuet",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_76/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_76",
+    "lunr_id": 142
+  },
+  {
+    "pid": "pci_77",
+    "label": "learned seal at the Nouveau Cirque",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_77/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_77",
+    "lunr_id": 143
+  },
+  {
+    "pid": "pci_78",
+    "label": "Poster for Nouveau Cirque",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_78/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_78",
+    "lunr_id": 144
+  },
+  {
+    "pid": "pci_79",
+    "label": "Poster in support of the eight-hour workday",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_79/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_79",
+    "lunr_id": 145
   },
   {
     "pid": "pci_8",
     "label": "Place de la Concorde",
-    "image_caption": "The Place de la Concorde is an important public square on the right bank of Paris. This photograph of the Place de la Concorde was taken from the Pont de la Concorde with the Luxor Obélisque visible in the background, c.1906-7.  [During the French Revolution the Place de la Concorde was renamed Place de la Révolution, and Louis XVI was famously executed there in 1793.]",
+    "caption": "The Place de la Concorde is an important public square on the right bank of Paris. This photograph of the Place de la Concorde was taken from the Pont de la Concorde with the Luxor Obélisque visible in the background, c.1906-7.  [During the French Revolution the Place de la Concorde was renamed Place de la Révolution, and Louis XVI was famously executed there in 1793.]",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_8/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_8",
-    "lunr_id": 8
+    "lunr_id": 146
+  },
+  {
+    "pid": "pci_80",
+    "label": "The Louvre & gardens",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_80/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_80",
+    "lunr_id": 147
+  },
+  {
+    "pid": "pci_81",
+    "label": "Moulin Rouge",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_81/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_81",
+    "lunr_id": 148
+  },
+  {
+    "pid": "pci_82",
+    "label": "Rue Saint Antoine",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_82/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_82",
+    "lunr_id": 149
+  },
+  {
+    "pid": "pci_83",
+    "label": "Île Saint-Louis",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_83/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_83",
+    "lunr_id": 150
+  },
+  {
+    "pid": "pci_84",
+    "label": "Louvre",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_84/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_84",
+    "lunr_id": 151
+  },
+  {
+    "pid": "pci_85",
+    "label": "Bon Marché interior",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_85/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_85",
+    "lunr_id": 152
+  },
+  {
+    "pid": "pci_86",
+    "label": "Woman selling lillies of the valley",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_86/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_86",
+    "lunr_id": 153
+  },
+  {
+    "pid": "pci_87",
+    "label": "Advertisement for Banania",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_87/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_87",
+    "lunr_id": 154
+  },
+  {
+    "pid": "pci_88",
+    "label": "HOLD FOR LABEL",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_88/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_88",
+    "lunr_id": 155
+  },
+  {
+    "pid": "pci_89",
+    "label": "Portrait of Queen Henrietta Maria",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_89/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_89",
+    "lunr_id": 156
   },
   {
     "pid": "pci_9",
-    "label": "Jardin des Tuileries",
-    "image_caption": "The Tuileries are a large public garden in between the Place de la Concorde and the Louvre on the right bank of Paris. This aerial photograph of the Jardin des Tuileries contains one of the garden's several decorative fountains and shows the left bank in the background on the other side of the Seine, c.1878.",
+    "label": "The Tuileries",
+    "caption": "The Tuileries are a large public garden in between the Place de la Concorde and the Louvre on the right bank of Paris. This aerial photograph of the Jardin des Tuileries contains one of the garden's several decorative fountains and shows the left bank in the background on the other side of the Seine, c.1878.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_9/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_9",
-    "lunr_id": 9
+    "lunr_id": 157
+  },
+  {
+    "pid": "pci_90",
+    "label": "Newspaper article about murderer Henri Landru",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_90/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_90",
+    "lunr_id": 158
+  },
+  {
+    "pid": "pci_91",
+    "label": "Empty gallery at the Louvre",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_91/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_91",
+    "lunr_id": 159
+  },
+  {
+    "pid": "pci_92",
+    "label": "Advertisement for mourning clothes",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_92/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_92",
+    "lunr_id": 160
+  },
+  {
+    "pid": "pci_93",
+    "label": "Illustration of ursa major",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_93/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_93",
+    "lunr_id": 161
+  },
+  {
+    "pid": "pci_94",
+    "label": "Painting of Marjorie Strachey",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_94/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_94",
+    "lunr_id": 162
+  },
+  {
+    "pid": "pci_95",
+    "label": "Charcuterie Comestibles",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "",
+    "permalink": "/paris-project-exhibition/pci_95",
+    "lunr_id": 163
+  },
+  {
+    "pid": "pci_96",
+    "label": "M. et Mme. Poincaré",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_96/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_96",
+    "lunr_id": 164
+  },
+  {
+    "pid": "pci_97",
+    "label": "Advertisement for absinthe",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_97/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_97",
+    "lunr_id": 165
+  },
+  {
+    "pid": "pci_98",
+    "label": "Paul Verlaine",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_98/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_98",
+    "lunr_id": 166
+  },
+  {
+    "pid": "pci_99",
+    "label": "Line of taxis",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_99/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_99",
+    "lunr_id": 167
   }
 ]

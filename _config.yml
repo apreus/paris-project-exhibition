@@ -21,7 +21,7 @@
 title:            'Paris'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+baseurl:          '/apreus'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -89,7 +89,7 @@ search:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
-          - image_caption
+          - caption
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -99,7 +99,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Paris'
+  - label: 'The Poem'
     sub:
       - label: 'Digital Edition'
         link: 'https://ada.artsci.wustl.edu/paris/content/paris_current.xml'
@@ -118,7 +118,7 @@ menu:
       - label: 'The Hogarth Press'
         link: '/exhibits/b/'
       - label: 'Contextual Images'
-        link: 'Browse'
+        link: '/collection/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
