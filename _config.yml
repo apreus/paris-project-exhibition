@@ -104,7 +104,7 @@ menu:
       - label: 'Digital Edition'
         link: 'https://ada.artsci.wustl.edu/paris/content/paris_current.xml'
       - label: 'Facsimile'
-        link: 'http://omeka.wustl.edu/omeka/exhibits/show/paris-project/scans'
+        link: 'https://apreus.github.io/paris-flipbook/'
   - label: 'About'
     sub:
       - label: 'This Edition'

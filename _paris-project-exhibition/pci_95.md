@@ -21,7 +21,7 @@ caption:
 order: '094'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/pci_95/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/pci_95/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/pci_95/manifest.json"
 ---

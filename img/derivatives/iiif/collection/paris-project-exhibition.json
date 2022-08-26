@@ -823,6 +823,11 @@ layout: none
       "label": "pci_94"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_95/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_95"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_96/manifest.json",
       "@type": "sc:Manifest",
       "label": "pci_96"
