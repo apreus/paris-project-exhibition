@@ -13,7 +13,3 @@ __The Paris Project__ is a digital edition of Hope Mirrlees's groundbreaking mod
 [View the digital edition >>](https://ada.artsci.wustl.edu/paris/content/paris_current.xml)
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_135' %}
-
-### Browse the Collection
-
-{% include collection_gallery.html facet_by='object_type' collection='paris-project-exhibition' %}
