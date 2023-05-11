@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Paris: a Poem'
+title:            'Paris: A Poem'
 description:      'Digital edition of Hope Mirrlees's Paris: A Poem'
 url:              'https://apreus.github.io'
 baseurl:          'paris-project-exhibition/'
