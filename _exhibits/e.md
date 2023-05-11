@@ -4,17 +4,17 @@ title: 'The Project'
 permalink: /exhibits/e/
 ---
 
-The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis.
+The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries, which is also the copy represented in the facsimile.
 
 **Contributors**
 
-[Jaleen Grove](https://www.risd.edu/academics/illustration/faculty/jaleen-grove)
-[Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)
-[Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)
-[Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)
-[Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)
-[Sophie Levin](https://english.wustl.edu/people/sophie-levin)
-[Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)
+[Jaleen Grove](https://www.risd.edu/academics/illustration/faculty/jaleen-grove)<br>
+[Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)<br>
+[Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)<br>
+[Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)<br>
+[Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)<br>
+[Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
+[Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)<br>
 
 **Process**
 
