@@ -4,7 +4,8 @@ title: 'The Project'
 permalink: /exhibits/e/
 ---
 
-The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries, which is also the copy represented in the facsimile.
+The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries.
+
 
 **Contributors**
 
@@ -15,6 +16,7 @@ The Paris Project is a collaboratively created digital edition of Hope Mirrlees'
 [Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)<br>
 [Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
 [Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)<br>
+
 
 **Process**
 
@@ -48,8 +50,11 @@ We also transcribed Julia Briggs's original notes to the poem into TEI. We then 
 
 Once we had mounted the poem online, we were able to begin thinking about our initial goals again and started thinking about how to create a website that was useful and engaging to contemporary readers. To this end, we gathered historical images to include in the edition, added Briggs's notes, built a website using the minimal computing platform Wax, added contextual essays, and created more display options for the poem, including a facsimile of the copy of the 1920 first edition held by the Librares at Washington University in St. Louis. The project has been shaped throughout by the labor and insights of a tremendously generous group of collaborators without whose contributions this edition would not have been possible.
 
-By Melanie Micir and Anna Preus 
+*By Melanie Micir and Anna Preus* 
+
 
 **Credits**
 
-The website was created using [Wax](https://minicomp.github.io/wax/). The digital edition was created using [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/). The notes included in the digital edition were written by Julia Briggs. All the files and code used for the project are available on [Github](https://github.com/apreus).
+The website was created using [Wax](https://minicomp.github.io/wax/). The digital edition was created using [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/). The notes included in the digital edition were written by Julia Briggs. 
+
+All the files and code used for the project are available on [Github](https://github.com/apreus).
