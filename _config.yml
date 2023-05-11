@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Paris: A Poem'
-description:      'Digital edition of Hope Mirrlees's Paris: A Poem'
+description:      "Digital edition of Hope Mirrlees's Paris: A Poem"
 url:              'https://apreus.github.io'
 baseurl:          'paris-project-exhibition/'
-copyright:        'Copyright Melanie Micir and Anna Preus, 2023'
+copyright:        'Website copyright Melanie Micir and Anna Preus, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
