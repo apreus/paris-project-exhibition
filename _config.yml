@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Paris: a Poem'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'Digital edition of Hope Mirrlees's Paris: A Poem'
 url:              'https://apreus.github.io'
 baseurl:          'paris-project-exhibition/'
-copyright:        'Example copyright org, 2019'
+copyright:        'Copyright Melanie Micir and Anna Preus, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -132,11 +132,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/apreus/paris-project-exhibition'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'https://github.com/apreus/paris-project-exhibition'
   logos:
     - img: '/img/logo.png'
 
