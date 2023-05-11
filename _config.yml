@@ -107,7 +107,9 @@ menu:
         link: 'https://apreus.github.io/paris-flipbook/'
   - label: 'About'
     sub:
-      - label: 'This Edition'
+      - label: 'The Project'
+        link: '/exhibits/e/'
+      - label: 'The Edition'
         link: '/exhibits/c/'
       - label: 'The Poem'
         link: '/exhibits/d/'
