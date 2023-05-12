@@ -4,7 +4,7 @@ title: 'The Project'
 permalink: /exhibits/e/
 ---
 
-The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries.
+The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of the copy of the first edition held by Washington University Libraries.
 
 
 **Contributors**
