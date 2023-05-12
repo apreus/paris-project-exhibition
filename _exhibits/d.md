@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'The Poem'
-permalink: /exhibits/d/
+permalink: /exhibits/the-poem/
 ---
 
 *Paris: A Poem* was a product of Mirrlees’s life in the eponymous city in 1919, where she was studying Russian at the École des Langues Orientales, observing current events, and reading avant-garde poetry.[^1] Contemporary reviews were mixed. The poem’s typographical play drew particular attention: “This little effusion” with its “tricks of type” seems meant “to give an ensemble of the sensations offered to a pilgrim through Paris. But it is certainly not a ‘Poem,’” wrote the anonymous reviewer in the Times Literary Supplement.[^2]The reviewer in The Athenaeum was more positive, explicitly linking Mirrlees’s work to “the idiom of the younger French poets,” including Blaise Cendrars and others known for typographical innovation. “‘Paris’ is immensely literary and immensely accomplished,” the review reads. “One reads it with pleasure and interest, admiring the author’s learning and wit, and the skill with which the verse is handled.”[^3]

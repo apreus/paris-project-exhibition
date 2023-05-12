@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'The Project'
-permalink: /exhibits/e/
+permalink: /exhibits/the-project/
 ---
 
 The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of the copy of the first edition held by Washington University Libraries.
@@ -24,7 +24,7 @@ In 2017, we set out to create a digital edition of *Paris* that would make the p
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
 
-In the first year of this project we were fortunate to work with Jaleen Grove, a historian of illustration and graphic design, who encouraged us to look not just at the words on the page, but to see each page as a visual construction in its own right. Given the poem’s layout, the idea that it existed as both text and image conceptually made sense, but it was hard to build that idea into the structure of our digital edition, the basis of which is an XML file that adheres to the Text Encoding Initiative (TEI) Guidelines–a collaboratively built schema for marking up texts in a form that is both human- and machine-readable. Recording the poem’s original layout within the TEI guidelines for encoding verse turned out to be quite difficult, though, since the spacing and layout was so varied. 
+In the first year of this project we were fortunate to work with Jaleen Grove, a historian of illustration and graphic design, who encouraged us to look not just at the words on the page, but to see each page as a visual construction in its own right. Given the poem’s layout, the idea that it existed as both text and image conceptually made sense, but it was hard to build that idea into the structure of our digital edition, the basis of which is an XML file that adheres to the [Text Encoding Initiative (TEI)](https://tei-c.org/) Guidelines–a collaboratively built schema for marking up texts in a form that is both human- and machine-readable. Recording the poem’s original layout within the TEI guidelines for encoding verse turned out to be quite difficult, though, since the spacing and layout was so varied. 
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
 

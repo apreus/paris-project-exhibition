@@ -1,7 +1,7 @@
 ---
 layout: exhibit
-title: 'This Edition'
-permalink: /exhibits/c/
+title: 'The Edition'
+permalink: /exhibits/the-edition/
 ---
 
 Like so many modernist texts, Hope Mirrlees’s *Paris: A Poem* is not easy to read. Written during 1919 and published in a print run of 175 copies by Leonard and Virginia Woolf’s Hogarth Press in 1920, Paris is a formally experimental depiction of a woman’s movement across the postwar City of Lights over the course of a single day.

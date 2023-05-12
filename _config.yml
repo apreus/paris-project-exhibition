@@ -22,7 +22,7 @@ title:            'Paris: A Poem'
 description:      "Digital edition of Hope Mirrlees's 'Paris'"
 url:              'https://apreus.github.io'
 baseurl:          'paris-project-exhibition/'
-copyright:        'Website copyright Melanie Micir and Anna Preus, 2023'
+copyright:        'Copyright Melanie Micir and Anna Preus, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------

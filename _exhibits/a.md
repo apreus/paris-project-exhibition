@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Hope Mirrlees'
-permalink: /exhibits/a/
+permalink: /exhibits/mirrlees-bio/
 ---
 
 Helen Hope Mirrlees was born in 1887 to Scottish parents William Julius Mirrlees, owner of a successful South African sugar business, and Lina Mirrlees, née Moncrieff, of Scotland’s aristocratic Moncrieff clan. Hope received a formal education at the prestigious St. Leonard’s girls school in St. Andrews and was presented at court as a debutante at the age of nineteen or twenty. She briefly attended the Royal Academy of Dramatic Art studying under the auspices of the actress Mrs. Patrick Campell, but found herself more interested in classics than drama. In 1910 she went up to Newnham College, Cambridge, one of the university’s two women’s colleges, to study classics. At Newnham she began an intimate relationship (the nature of which has been debated by scholars) with famed classicist Jane Ellen Harrison that lasted until Harrison’s death in 1928.
