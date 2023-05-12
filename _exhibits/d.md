@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'The Poem'
+title: 'About the Poem'
 permalink: /exhibits/the-poem/
 ---
 

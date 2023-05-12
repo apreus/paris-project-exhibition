@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'The Edition'
+title: 'About the Edition'
 permalink: /exhibits/the-edition/
 ---
 
