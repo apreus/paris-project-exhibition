@@ -6,11 +6,11 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_150",
   "protocol": "http://iiif.io/api/image",
   "width": 1308,
-  "height": 1888,
+  "height": 1891,
   "sizes": [
     {
       "width": 1308,
-      "height": 1888
+      "height": 1891
     },
     {
       "width": 250,
@@ -18,7 +18,7 @@ layout: none
     },
     {
       "width": 1140,
-      "height": 1646
+      "height": 1648
     }
   ],
   "profile": [

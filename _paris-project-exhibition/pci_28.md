@@ -1,7 +1,7 @@
 ---
 pid: pci_28
-label: Lyons Rose
-object_type: contextual images
+label: Engraving of a Lyon rose in Revue Horticole (Horitcultural Review)
+object_type: contextual-images
 note: 110-13
 word_tag: Scentless Lyons' roses
 item: Lyon rose

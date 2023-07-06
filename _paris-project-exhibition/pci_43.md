@@ -1,15 +1,15 @@
 ---
 pid: pci_43
-label: Port-Royal
-object_type: contextual images
+label: Photo of the courtyard of the Maternity Hospital, Port-Royal
+object_type: contextual-images
 note: '447'
 word_tag: the Abbaye of Port-Royal
 item: Port-Royal
 link: https://www.parismuseescollections.paris.fr/fr/node/765792
-notes: Cour de l’hôpital de la Maternité, Port-Royal, 14ème arrondissement, Paris
-rights: Musée carnavalet creative commons zero
+notes: Cour de l‚Äôh√¥pital de la Maternit√©, Port-Royal, 14√®me arrondissement, Paris
+rights: Mus√©e carnavalet creative commons zero
 selection: Which Port-Royal?
-caption: 
+caption: Courtyard of the Maternity Hospital, Port-Royal, 14√®me arrondissement
 order: '042'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

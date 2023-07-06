@@ -1,7 +1,7 @@
 ---
 pid: pci_62
-label: Place du Carrousel
-object_type: contextual images
+label: Photo of the Arc de Triomphe du Carrousel with tulips
+object_type: contextual-images
 note: '268'
 word_tag: Place du Carrousel
 item: Place du Carrousel
@@ -10,7 +10,7 @@ notes: 3 mai 1924 Arc de triomphe du carrousel les tulipes du Carrousel [avec vu
   sur l'arc de triomphe du Carrousel]
 rights: Gallica public domain
 selection: Which "garden islands"?
-caption: 
+caption: Photo of the Arc de Triomphe du Carrousel with tulips from May 3, 1924
 order: '061'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

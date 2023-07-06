@@ -1,7 +1,8 @@
 ---
 pid: pci_20
-label: Mantegna's Seven Deadly Sins
-object_type: contextual images
+label: Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of Virtue)
+  by Mantegna
+object_type: contextual-images
 note: 117-21
 word_tag: Mantegna's Seven Deadly Sins
 item: Mantegna's Seven Deadly Sins
@@ -9,7 +10,8 @@ link: https://commons.wikimedia.org/wiki/File:Minerve_chassant_les_Vices_du_jard
 notes: Andrea Mantegna Minerve chassant les Vices du jardin des Vertus c.1502
 rights: Wikimedia commons public domain
 selection: 
-caption: 
+caption: Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of
+  Virtue) by Mantegna c. 1502, held by the Louvre
 order: '019'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

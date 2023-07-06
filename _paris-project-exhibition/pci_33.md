@@ -1,7 +1,7 @@
 ---
 pid: pci_33
-label: Portrait of Cheateaubriand
-object_type: contextual images
+label: Chateaubriand Meditating on the Ruins of Rome by Anne-Louis Girodet-Trioson
+object_type: contextual-images
 note: 64-65
 word_tag: Chateaubriand
 item: Chateaubriand

@@ -14,8 +14,8 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_161",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 1336,
-    "height": 1872
+    "width": 1274,
+    "height": 1892
   },
   "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pci_161.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

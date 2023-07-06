@@ -1,15 +1,16 @@
 ---
 pid: pci_50
-label: Dubonnet
-object_type: contextual images
-note: 9-Jul
+label: Poster advertising Dubonnet, an apéritif
+object_type: contextual-images
+note: '45116'
 word_tag: "(DUBONNET)"
 item: Dubonnet
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/quinquina-dubonnetaperitif-dans-tous-les-cafes#infos-principales
-notes: 1896 Chéret, Jules (Paris, 31–05–1836 - Nice, 23–09–1932), dessinateur
-rights: Musée carnavalet creative commons zero
+notes: 1896 Ch√©ret, Jules (Paris, 31‚Äì05‚Äì1836 - Nice, 23‚Äì09‚Äì1932), dessinateur
+rights: Mus√©e carnavalet creative commons zero
 selection: Which Dubonnet?
-caption: 
+caption: Poster for Dubonnet, a sweet wine often served as an apéritif, designed by
+  Jules Chéret, c. 1896
 order: '049'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

@@ -1,7 +1,7 @@
 ---
 pid: pci_51
-label: Painting by Jacques-Louis David
-object_type: contextual images
+label: The Jeu de Paume Oath by Jacques-Louis David
+object_type: contextual-images
 note: 290-93
 word_tag: David
 item: Jacques-Louis David
@@ -11,7 +11,7 @@ notes: |-
   For more see https://histoire-image.org/fr/etudes/serment-jeu-paume-20-juin-1789
 rights: Wikimedia commons
 selection: 
-caption: 
+caption: The Jeu de Paume Oath by Jacques-Louis David, c. 1790 - 1792
 order: '050'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

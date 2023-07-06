@@ -1,21 +1,21 @@
 ---
 pid: pci_32
-label: Rue Saint-Honoré
-object_type: contextual images
+label: Photo of corner of Rue Saint-Honoré√© and rue Croix-des-Petits-Champs in 1910
+object_type: contextual-images
 note: 67-68
-word_tag: rue Saint-Honoré
-item: Saint-Honoré
+word_tag: rue Saint-Honor√©
+item: Saint-Honor√©
 link: https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002101637/0002
-notes: Paris. Rue Saint-Honoré, n° 170 et suivants, à l'angle de la rue Croix-des-Petits-Champs.
-  Devantures de boutiques et d'hôtels 1910
+notes: Paris. Rue Saint-Honor√©, n¬∞ 170 et suivants, √† l'angle de la rue Croix-des-Petits-Champs.
+  Devantures de boutiques et d'h√¥tels 1910
 rights: |-
   Droits
-  Reproduction réservée à un usage strictement privé. Mention de la source obligatoire.
+  Reproduction r√©serv√©e √† un usage strictement priv√©. Mention de la source obligatoire.
   Source
   Ville de Paris / BHVP
-selection: Which rue Saint-Honoré?
-caption: The rue Saint-Honoré is a major shopping street in the 1er arrondisement.
-  This photograph shows the intersection of the rue Saint-Honoré and the rue Croix-des-Petits-Champs,
+selection: Which rue Saint-Honor√©?
+caption: The rue Saint-Honor√© is a major shopping street in the 1er arrondisement.
+  This photograph shows the intersection of the rue Saint-Honor√© and the rue Croix-des-Petits-Champs,
   just North of the Louvre, c.1910.
 order: '031'
 layout: paris-project-exhibition

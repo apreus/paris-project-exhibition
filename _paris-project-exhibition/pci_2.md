@@ -1,12 +1,12 @@
 ---
 pid: pci_2
-label: Nord-Sud
-object_type: contextual images
+label: Photo of Nord-Sud metro station in 1918
+object_type: contextual-images
 note: '2'
 word_tag: NORD-SUD
 item: Nord-Sud
 link: https://gallica.bnf.fr/ark:/12148/btv1b53004338j
-notes: février 1918 Métro refuge en cas de raid aérien
+notes: f√©vrier 1918 M√©tro refuge en cas de raid a√©rien
 rights: Gallica public domain
 selection: 
 caption: The Nord-Sud line connecting Montmartre and Montparnasse opened to the public

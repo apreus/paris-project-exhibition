@@ -1,15 +1,17 @@
 ---
 pid: pci_16
-label: somethingsomething
-object_type: contextual images
-note: ";salkfj"
-word_tag: a;lskdfj
-item: A;SLDFJA
-link: A;SLDKFJA;SL
-notes: 
+label: Photo of butcher shop at 7, rue des Charbonniers in 1913
+object_type: contextual-images
+note: 144-145
+word_tag: |-
+  CHARCUTERIE
+  COMESTIBLES DE IRE CHOIX
+item: photo of butcher shop
+link: https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001887926
+notes: Photo of butcher shop at 7, rue des Charbonniers in 1913
 rights: 
 selection: 
-caption: 
+caption: Photo of butcher shop at 7, rue des Charbonniers in 1913
 order: '015'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

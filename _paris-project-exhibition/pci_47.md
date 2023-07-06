@@ -1,16 +1,17 @@
 ---
 pid: pci_47
-label: German tank in Place de la Concorde
-object_type: contextual images
+label: Photo of a German tank in Place de la Concorde in October 1918
+object_type: contextual-images
 note: '17'
 word_tag: CONCORDE
 item: Place de la Concorde (war)
 link: https://gallica.bnf.fr/ark:/12148/btv1b530056688
-notes: Tank allemand, place de la Concorde trophées de guerre, 20 octobre 1918, exposés
-  pour l'emprunt de la libération
+notes: Tank allemand, place de la Concorde troph√©es de guerre, 20 octobre 1918, expos√©s
+  pour l'emprunt de la lib√©ration
 rights: Gallica public domain
 selection: 
-caption: 
+caption: German tank in the Place de la Concorde on October 20, 1918, exhibited for
+  the loan of the liberation
 order: '046'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

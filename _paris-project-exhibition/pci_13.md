@@ -1,15 +1,15 @@
 ---
 pid: pci_13
-label: Kiosk
-object_type: contextual images
+label: Photo of a kiosk and carriages by Eug√®ne Atget
+object_type: contextual-images
 note: 150-154
 word_tag: Little temples of Mercury
 item: Kiosque
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/kiosque-et-fiacres-paris
-notes: c.1898-1902 Eugène Atget
-rights: Musée carnavalet creative commons zero
+notes: c.1898-1902 Eug√®ne Atget
+rights: Mus√©e carnavalet creative commons zero
 selection: Which kiosque?
-caption: 
+caption: Photo of a kiosk and carriages by Eug√®ne Atget, c.1898-1902
 order: '012'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

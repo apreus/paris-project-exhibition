@@ -1,15 +1,16 @@
 ---
 pid: pci_58
-label: Jacques-Louis David
-object_type: contextual images
+label: Photo of sphinx statue in the tuileries gardens
+object_type: contextual-images
 note: 275-79
 word_tag: sphinx
 item: gray sphinx of the Tuileries
 link: https://gallica.bnf.fr/ark:/12148/btv1b10516647g
-notes: c.  1908-1922 Eugène Atget Tuileries - Jardin de Robespierre
+notes: c.  1908-1922 Eug√®ne Atget Tuileries - Jardin de Robespierre
 rights: Gallica public domain
 selection: 
-caption: 
+caption: Photo of sphinx statue in the tuileries gardens in the Jardin de Robespierre.
+  By Eugène Atget, c.  1908-1922
 order: '057'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

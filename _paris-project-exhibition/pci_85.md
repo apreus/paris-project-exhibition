@@ -1,17 +1,16 @@
 ---
 pid: pci_85
-label: Bon Marché interior
-object_type: contextual images
+label: Photo of the interior of Bon March√© department store
+object_type: contextual-images
 note: 294-95
-word_tag: Bon Marché
-item: Bon Marché interior
+word_tag: Bon March√©
+item: Bon March√© interior
 link: https://commons.wikimedia.org/wiki/File:Le_Bon_March%C3%A9_%C3%A0_Paris_(1875).jpg
 notes: interior c1900
 rights: Wikimedia commons
-selection: |-
-  Which Bon Marché?
-  I can't find a decent exterior photo of Bon Marché in the public domain so this interior photo could be a good alternative -SL
-caption: 
+selection: Which Bon March√©? I can't find a decent exterior photo of Bon March√©
+  in the public domain so this interior photo could be a good alternative -SL
+caption: Photo of the interior of Bon March√© department store, c. 1900
 order: '084'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

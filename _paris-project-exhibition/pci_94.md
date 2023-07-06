@@ -1,16 +1,17 @@
 ---
 pid: pci_94
-label: Painting of Marjorie Strachey
-object_type: contextual images
+label: Portrait of Marjorie Strachey by Duncan Grant
+object_type: contextual-images
 note: 448-49
-word_tag: le Crime et le Châtiment
-item: Le Crime et le châtiment
+word_tag: le Crime et le Ch√¢timent
+item: Le Crime et le ch√¢timent
 link: https://mathomhouse.typepad.com/bluestocking/2011/04/despair.html
 notes: Duncan Grant painting of Marjorie Strachey after reading Crime and Punishment.
   Originally titled Despair. 1909
 rights: No idea
 selection: 
-caption: 
+caption: Portrait of Marjorie Strachey after reading Crime and Punishment, originally
+  titled Despair, by Duncan Grant, c. 1909
 order: '093'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

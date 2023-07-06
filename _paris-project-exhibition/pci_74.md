@@ -1,16 +1,17 @@
 ---
 pid: pci_74
-label: Père Lachaise (cemetary)
-object_type: contextual images
+label: Photo of graves damaged graves in Père Lachaise cemetery, April 1918
+object_type: contextual-images
 note: 175-77
-word_tag: Père Lachaise
-item: Père Lachaise
+word_tag: P√®re Lachaise
+item: P√®re Lachaise
 link: https://gallica.bnf.fr/ark:/12148/btv1b530044149
-notes: avril 1918 Père Lachaise [cimetière, Paris, 20e arrondissement, dégâts dûs
-  aux bombardements]
+notes: avril 1918 P√®re Lachaise [cimeti√®re, Paris, 20e arrondissement, d√©g√¢ts
+  d√ªs aux bombardements]
 rights: Gallica public domain
 selection: 
-caption: 
+caption: Photo of graves in Père Lachaise cemetery, damaged due to bombardments, from
+  April 1918
 order: '073'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

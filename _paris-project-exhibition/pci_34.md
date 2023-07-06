@@ -1,12 +1,12 @@
 ---
 pid: pci_34
-label: Portrait of Juliette Récamier
-object_type: contextual images
+label: Portrait of Juliette R√©camier by Jacques-Louis David
+object_type: contextual-images
 note: 64-65
-word_tag: Madame Récamiers
+word_tag: Madame R√©camiers
 item: Juliette Recamier
 link: https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_016.jpg
-notes: Jacques Louis David Portrait de Madame Récamier 1800 Louvre Paris
+notes: Jacques Louis David Portrait de Madame R√©camier 1800 Louvre Paris
 rights: This work is in the public domain in its country of origin and other countries
   and areas where the copyright term is the author's life plus 100 years or fewer.
 selection: 

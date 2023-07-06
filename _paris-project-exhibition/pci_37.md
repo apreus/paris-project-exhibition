@@ -1,19 +1,19 @@
 ---
 pid: pci_37
-label: Musée du Luxembourg
-object_type: contextual images
+label: Photo of the sculpture gallery at the Musée de Luxembourg in 1912
+object_type: contextual-images
 note: '58'
 word_tag: Salle Caillebotte
-item: Musée du Luxembourg
+item: Mus√©e du Luxembourg
 link: https://www.pop.culture.gouv.fr/notice/memoire/APMNLUG000002
 notes: 'c. 1912 Galerie de Sculpture, vers 1912 : vue d''ensemble'
-rights: Ministère de la Culture (France), Médiathèque de l'architecture et du patrimoine,
+rights: Minist√®re de la Culture (France), M√©diath√®que de l'architecture et du patrimoine,
   diffusion RMN-GP
 selection: 
-caption: This photograph depicts the Musée de Luxembourg's sculpture gallery, c.1912.
+caption: This photograph depicts the Mus√©e de Luxembourg's sculpture gallery, c.1912.
   French painter Gustave Caillebotte bequeathed his collection of impressionist paintings
   to the state, and the paintings were put on display in 1897 in a gallery named after
-  Caillebotte in the Musée du Luxembourg.
+  Caillebotte in the Mus√©e du Luxembourg.
 order: '036'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

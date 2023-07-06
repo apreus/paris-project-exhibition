@@ -1,16 +1,16 @@
 ---
 pid: pci_82
-label: Rue Saint Antoine
-object_type: contextual images
+label: Photo of Rue Sant Antoine
+object_type: contextual-images
 note: 339-40
 word_tag: rue Saint Antoine
 item: Rue Saint Antoine
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/133-rue-saint-antoine-perspective-de-la-rue-4eme-arrondissement-paris#infos-principales
 notes: 1917 Lansiaux, Charles Joseph Antoine 133 Rue Saint-Antoine, perspective de
-  la rue, 4ème arrondissement, Paris.
-rights: Musée Carnavalet creative commons zero
+  la rue, 4√®me arrondissement, Paris.
+rights: Mus√©e Carnavalet creative commons zero
 selection: Which rue Saint-Antoine?
-caption: 
+caption: Photo of Rue Sant Antoine in the 4th arondissement from 1917
 order: '081'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

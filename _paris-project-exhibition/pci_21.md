@@ -1,7 +1,7 @@
 ---
 pid: pci_21
-label: Pierrot (Gilles)
-object_type: contextual images
+label: Pierrot by Jean-Antoine Watteau, c. 1717-1719
+object_type: contextual-images
 note: 116-21
 word_tag: Giles
 item: Pierrot (Gilles)
@@ -9,7 +9,8 @@ link: https://commons.wikimedia.org/wiki/File:Jean-Antoine_Watteau_-_Pierrot,_di
 notes: Jean-Antoine Watteau, Pierrot, dit autrefois Gilles c.1717-1719 Louvre
 rights: Wikimedia commons public domain
 selection: 
-caption: 
+caption: Pierrot, formerly known as Gilles by Jean-Antoine Watteau c. 1717-1719 held
+  by the Louvre
 order: '020'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

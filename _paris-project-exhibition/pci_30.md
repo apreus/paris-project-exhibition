@@ -1,7 +1,7 @@
 ---
 pid: pci_30
-label: Gallic Cock
-object_type: contextual images
+label: Poster featuring the Gallic Cock, unofficial symbol of France
+object_type: contextual-images
 note: '77'
 word_tag: cock
 item: Gallic cock

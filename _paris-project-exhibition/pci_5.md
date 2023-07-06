@@ -1,8 +1,8 @@
 ---
 pid: pci_5
-label: Advertisement for Cacao Blooker
-object_type: contextual images
-note: 6-Mar
+label: Poster advertising Cacao Blooker Dutch chocolate
+object_type: contextual-images
+note: 3-6
 word_tag: 'CACAO BLOOKER
 
 '

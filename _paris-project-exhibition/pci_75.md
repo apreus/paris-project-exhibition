@@ -1,15 +1,15 @@
 ---
 pid: pci_75
-label: Fête des morts 1917 au Père Lachaise
-object_type: contextual images
+label: Photo of memorial for the dead at Père Lachaise cemetary on November 2, 1917
+object_type: contextual-images
 note: 175-77
-word_tag: Père Lachaise
-item: Père Lachaise
+word_tag: P√®re Lachaise
+item: P√®re Lachaise
 link: https://gallica.bnf.fr/ark:/12148/btv1b53003745s
-notes: '2 novembre 1917 Fête des morts 1917 au Père Lachaise :'
+notes: '2 novembre 1917 F√™te des morts 1917 au P√®re Lachaise :'
 rights: Gallica public domain
 selection: 
-caption: 
+caption: Photo of memorial for the dead at Père Lachaise cemetary on November 2, 1917
 order: '074'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

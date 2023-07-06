@@ -1,15 +1,17 @@
 ---
 pid: pci_18
-label: President Wilson visiting Paris
-object_type: contextual images
+label: 'Photo of Woodrow Wilson attending the Paris Peace Conference on January 18,
+  1919 '
+object_type: contextual-images
 note: 125-27
 word_tag: President Wilson
 item: Wilson
 link: https://gallica.bnf.fr/ark:/12148/btv1b53005804r
-notes: 18 janvier 1919 Conférence de la Paix, M. Wilson [au quai d'Orsay]
+notes: 18 janvier 1919 Conf√©rence de la Paix, M. Wilson [au quai d'Orsay]
 rights: 
 selection: Which Wilson?
-caption: 
+caption: 'Photo of Woodrow Wilson attending the Paris Peace Conference on January
+  18, 1919 '
 order: '017'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

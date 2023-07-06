@@ -1,16 +1,16 @@
 ---
 pid: pci_41
-label: L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries
-object_type: contextual images
+label: Photo of L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries
+object_type: contextual-images
 note: 30-34
 word_tag: nymphs
 item: Nymph
 link: https://gallica.bnf.fr/ark:/12148/btv1b10516302f
-notes: Lévêque Nymphe Tuileries mai 1906 Atget, Eugène (1857-1927)
+notes: L√©v√™que Nymphe Tuileries mai 1906 Atget, Eug√®ne (1857-1927)
 rights: Gallica public domain
 selection: Which nymph?
-caption: Photograph of L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries by
-  Eugène Atget, c.1906.
+caption: Photograph of L.A. L√©v√™que's Nymphe stautue in the Jardin des Tuileries
+  by Eug√®ne Atget, c.1906.
 order: '040'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

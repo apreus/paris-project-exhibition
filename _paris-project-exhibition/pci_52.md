@@ -1,7 +1,7 @@
 ---
 pid: pci_52
-label: Prise de la Bastille
-object_type: contextual images
+label: Anonymous painting of the storming of the Bastille
+object_type: contextual-images
 note: 290-93
 word_tag: Prise de la Bastille
 item: Prise de la Bastille
@@ -12,7 +12,7 @@ notes: |-
   For more see https://histoire-image.org/fr/etudes/prise-bastille-14-juillet-1789
 rights: Wikimedia commons
 selection: 
-caption: 
+caption: Anonymous painting of the Storming of the Bastille, July 14, 1789 at Versailles
 order: '051'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

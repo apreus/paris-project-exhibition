@@ -1,16 +1,17 @@
 ---
 pid: pci_60
-label: Poilus banner
-object_type: contextual images
+label: Photo of anner honoring soldiers from July 1919
+object_type: contextual-images
 note: 275-79
 word_tag: Poilus
 item: Poilus
 link: https://gallica.bnf.fr/ark:/12148/btv1b53017985w
-notes: 13 juillet 1919 Rue du Faubourg Poissonnière avec une banderole en l'honneur
+notes: 13 juillet 1919 Rue du Faubourg Poissonni√®re avec une banderole en l'honneur
   des poilus
 rights: Gallica public domain
 selection: 
-caption: 
+caption: Photo of a banner honoring soldiers on the Rue du Faubourg Poissonnière on
+  13 juillet 1919
 order: '059'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

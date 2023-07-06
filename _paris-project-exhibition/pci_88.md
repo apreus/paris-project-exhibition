@@ -1,15 +1,15 @@
 ---
 pid: pci_88
-label: HOLD FOR LABEL
-object_type: contextual images
-note: HOLD FOR LABEL
-word_tag: HOLD FOR LABEL
+label: Advertisement for Banania
+object_type: contextual-images
+note: '209'
+word_tag: Y'a bon!
 item: HOLD
 link: HOLD
-notes: HOLD
+notes: 1915 Banania y'a bon affiche
 rights: HOLD
 selection: 
-caption: 
+caption: Advertisement for Banania, a popular chocolate drink, from 1915
 order: '087'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

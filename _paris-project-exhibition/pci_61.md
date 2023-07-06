@@ -1,7 +1,7 @@
 ---
 pid: pci_61
-label: Tour Eiffel
-object_type: contextual images
+label: Photo of the Eiffel Tower in April 1919
+object_type: contextual-images
 note: 273-4
 word_tag: Eiffel Tower
 item: Tour Eiffel
@@ -9,7 +9,7 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b530147819
 notes: avril 1919 Tour Eiffel
 rights: Gallica public domain
 selection: Which Tour Eiffel photo?
-caption: 
+caption: Photo of the Eiffel Tower in April 1919
 order: '060'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

@@ -1,17 +1,17 @@
 ---
 pid: pci_36
-label: Women walking in the Bois de Boulogne
-object_type: contextual images
+label: Photo of women walking in the Bois de Boulogne in 1914
+object_type: contextual-images
 note: 60-61
 word_tag: The Bois bores me
 item: |-
   Bois de Boulogne
   (atmosphere)
 link: https://gallica.bnf.fr/ark:/12148/btv1b6928657r
-notes: Toilettes au Bois de Boulogne, deux femmes élégantes 5-2-14
+notes: Toilettes au Bois de Boulogne, deux femmes √©l√©gantes 5-2-14
 rights: Gallica public domain
 selection: 
-caption: 
+caption: Photo of women walking in the Bois de Boulogne in 1914
 order: '035'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

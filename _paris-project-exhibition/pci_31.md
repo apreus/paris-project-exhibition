@@ -1,7 +1,7 @@
 ---
 pid: pci_31
-label: Chestnut seller [Vendeur de marrons]
-object_type: contextual images
+label: Photo of a chestnut vender in 1908
+object_type: contextual-images
 note: '69'
 word_tag: Auvergnat
 item: Vendeur de marrons

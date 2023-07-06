@@ -1,7 +1,7 @@
 ---
 pid: pci_86
-label: Woman selling lillies of the valley
-object_type: contextual images
+label: Photo of a woman selling lillies of the valley on May 1
+object_type: contextual-images
 note: 235-59
 word_tag: Lily of the valley
 item: Lily of the valley
@@ -9,7 +9,7 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b69162102
 notes: 1er mai 1911, le muguet
 rights: Gallica public domain
 selection: Which lily of the vallley?
-caption: 
+caption: Photo of a woman selling lillies of the valley on May 1, 1911
 order: '085'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

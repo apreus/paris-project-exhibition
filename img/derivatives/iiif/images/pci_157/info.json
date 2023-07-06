@@ -5,20 +5,20 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_157",
   "protocol": "http://iiif.io/api/image",
-  "width": 1362,
-  "height": 1877,
+  "width": 1320,
+  "height": 1895,
   "sizes": [
     {
-      "width": 1362,
-      "height": 1877
+      "width": 1320,
+      "height": 1895
     },
     {
       "width": 250,
-      "height": 345
+      "height": 359
     },
     {
       "width": 1140,
-      "height": 1571
+      "height": 1637
     }
   ],
   "profile": [

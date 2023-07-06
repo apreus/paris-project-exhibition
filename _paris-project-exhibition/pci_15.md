@@ -1,15 +1,15 @@
 ---
 pid: pci_15
-label: 24-hour shop [Deuil en 24 heures]
-object_type: contextual images
+label: Photo of 24-hour shop at 6 rue de Sèvres
+object_type: contextual-images
 note: '148'
 word_tag: DEUIL EN 24 HEURES
 item: Deuil en 24 heures
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/immeuble-6-rue-de-sevres-6eme-arrondissement-paris
-notes: c.1893-98 Immeuble, 6 rue de Sèvres, 6ème arrondissement, Paris.
-rights: Musée carnavalet creative commons zero
+notes: Photo of 24-hour shop at 6 rue de Sèvres
+rights: Mus√©e carnavalet creative commons zero
 selection: 
-caption: 
+caption: Photo of 24-hour shop at 6 rue de Sèvres, 6th arrondissement, c. 1893-98
 order: '014'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

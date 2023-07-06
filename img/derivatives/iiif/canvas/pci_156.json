@@ -5,8 +5,8 @@ layout: none
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pci_156.json",
   "label": "front",
-  "width": 1307,
-  "height": 1887,
+  "width": 1362,
+  "height": 1877,
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_156/full/250,/0/default.jpg",
   "images": [
     {
@@ -22,8 +22,8 @@ layout: none
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_156",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
-        "width": 1307,
-        "height": 1887
+        "width": 1362,
+        "height": 1877
       },
       "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pci_156.json"
     }

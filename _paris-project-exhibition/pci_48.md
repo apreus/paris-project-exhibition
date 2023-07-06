@@ -1,16 +1,17 @@
 ---
 pid: pci_48
-label: Bouquinistes
-object_type: contextual images
+label: Photo of coachmen and booksellers at Quai Voltaire
+object_type: contextual-images
 note: 405-06
 word_tag: bouquinistes
 item: Bouquinistes
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/cochers-et-bouquinistes-quai-voltaire-7eme-arrondissement-paris#infos-principales
-notes: 1898 Eugène Atget Cochers et bouquinistes, quai Voltaire, 7ème arrondissement,
+notes: 1898 Eug√®ne Atget Cochers et bouquinistes, quai Voltaire, 7√®me arrondissement,
   Paris
-rights: Musée carnavalet creative commons zero
+rights: Mus√©e carnavalet creative commons zero
 selection: Which bouqinistes?
-caption: 
+caption: Coachmen and booksellers at Quai Voltaire, 7th arrondissement, Eugène Atget
+  c. 1898
 order: '047'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

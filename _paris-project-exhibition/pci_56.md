@@ -1,17 +1,17 @@
 ---
 pid: pci_56
-label: Notre Dame in wartime
-object_type: contextual images
+label: Photo of a door of Notre-Dame in 1918, covered with bags
+object_type: contextual-images
 note: Dedication
 word_tag: NOTRE DAME DE PARIS
 item: Notre Dame (war)
 link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/portail-de-notre-dame-portail-sainte-anne-recouvert-de-sacs-4eme#infos-principales
 notes: |-
   Notre Dame during the war years
-  1918 Portail de Notre-Dame, portail Sainte-Anne recouvert de sacs, 4ème arrondissement, Paris.
-rights: Musée carnavalet creative commons zero
+  1918 Portail de Notre-Dame, portail Sainte-Anne recouvert de sacs, 4√®me arrondissement, Paris.
+rights: Mus√©e carnavalet creative commons zero
 selection: 
-caption: 
+caption: Photo of a door of Notre-Dame during wartime, covered with bags, c. 1918
 order: '055'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

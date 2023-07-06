@@ -1,16 +1,17 @@
 ---
 pid: pci_63
-label: 1919 strikes
-object_type: contextual images
+label: Photo of metalworkers strike on June 8, 1919
+object_type: contextual-images
 note: '263'
-word_tag: La grève
+word_tag: La gr√®ve
 item: 1919 strikes
 link: https://gallica.bnf.fr/ark:/12148/btv1b9032018f
-notes: '08 juin 1919 La grève de la métallurgie : grévistes portant le drapeau rouge
-  à Billancourt'
+notes: '08 juin 1919 La gr√®ve de la m√©tallurgie : gr√©vistes portant le drapeau
+  rouge √† Billancourt'
 rights: Gallica public domain
-selection: Which grève image?
-caption: 
+selection: Which gr√®ve image?
+caption: 'Photo of metalworkers strike on June 8, 1919: strikers carrying the red
+  flag of Billancourt'
 order: '062'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
