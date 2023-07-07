@@ -1,7 +1,6 @@
 ---
 pid: pci_18
-label: 'Photo of Woodrow Wilson attending the Paris Peace Conference on January 18,
-  1919 '
+label: Woodrow Wilson attending the Paris Peace Conference in January 1919
 object_type: contextual-images
 note: 125-27
 word_tag: President Wilson
@@ -12,7 +11,7 @@ rights:
 selection: Which Wilson?
 caption: 'Photo of Woodrow Wilson attending the Paris Peace Conference on January
   18, 1919 '
-order: '017'
+order: '17'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_18/full/250,/0/default.jpg"

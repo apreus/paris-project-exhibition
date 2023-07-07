@@ -1,6 +1,6 @@
 ---
 pid: pci_81
-label: The Moulin Rouge in 1914
+label: the Moulin Rouge in 1914
 object_type: contextual-images
 note: '422'
 word_tag: Moulin Rouge
@@ -10,7 +10,7 @@ notes: 1914 Cabarets parisiens le Moulin Rouge
 rights: Gallica public domain
 selection: "Which Moulin Rouge \nexterior?"
 caption: Photo of the Moulin Rouge, famous cabaret, in 1914
-order: '080'
+order: '80'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_81/full/250,/0/default.jpg"

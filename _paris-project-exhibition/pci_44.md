@@ -1,6 +1,6 @@
 ---
 pid: pci_44
-label: Photo of pile of German helmets in the Place de la Concorde in October 1918
+label: German helmets in the Place de la Concorde in October 1918
 object_type: contextual-images
 note: 20-22
 word_tag: Tuileries
@@ -14,7 +14,7 @@ rights: Gallica public domain
 selection: 
 caption: German helmets at the Tuileries gardens, trophees of the campaign for the
   "Liberation Loan", October 20, 1918
-order: '043'
+order: '43'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_44/full/250,/0/default.jpg"

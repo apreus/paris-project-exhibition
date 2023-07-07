@@ -1,6 +1,6 @@
 ---
 pid: pci_8
-label: Photo of the Place de la Concorde from the Pont de la Concorde, around 1906-7
+label: Place de la Concorde
 object_type: contextual-images
 note: '17'
 word_tag: CONCORDE
@@ -14,7 +14,7 @@ caption: The Place de la Concorde is an important public square on the right ban
   la Concorde with the Luxor Ob√©lisque visible in the background, c.1906-7.  [During
   the French Revolution the Place de la Concorde was renamed Place de la R√©volution,
   and Louis XVI was famously executed there in 1793.]
-order: '007'
+order: '7'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_8/full/250,/0/default.jpg"

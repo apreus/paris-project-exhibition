@@ -1,6 +1,6 @@
 ---
 pid: pci_49
-label: Anonymous painting of the battle of faubourg Saint-Antoine, 1652
+label: anonymous painting of the battle of faubourg Saint-Antoine
 object_type: contextual-images
 note: 290-93
 word_tag: Fronde
@@ -14,7 +14,7 @@ selection:
 caption: Anonymous painting of the battle of faubourg Saint-Antoine, 1652. Combat
   of two horsemen during the Fronde, Faubourg Saint-Antoine, near the ramparts of
   the Bastille, Versailles
-order: '048'
+order: '48'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_49/full/250,/0/default.jpg"

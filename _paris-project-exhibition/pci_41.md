@@ -1,6 +1,6 @@
 ---
 pid: pci_41
-label: Photo of L.A. Lévêque's Nymphe stautue in the Jardin des Tuileries
+label: LA Lévêque's Nymphe stautue in the Jardin des Tuileries
 object_type: contextual-images
 note: 30-34
 word_tag: nymphs
@@ -11,7 +11,7 @@ rights: Gallica public domain
 selection: Which nymph?
 caption: Photograph of L.A. L√©v√™que's Nymphe stautue in the Jardin des Tuileries
   by Eug√®ne Atget, c.1906.
-order: '040'
+order: '40'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_41/full/250,/0/default.jpg"

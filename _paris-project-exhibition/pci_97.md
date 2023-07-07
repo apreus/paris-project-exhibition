@@ -1,6 +1,6 @@
 ---
 pid: pci_97
-label: Advertisement for absinthe
+label: advertisement for absinthe
 object_type: contextual-images
 note: '440'
 word_tag: 'Absynthe
@@ -14,7 +14,7 @@ rights: Gallica public domain
 selection: Which Absinthe?
 caption: Advertisement for Absinthe extra-superior J. Edouard Pernot, by Leonetto
   Cappiello, c. 1900
-order: '096'
+order: '96'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_97/full/250,/0/default.jpg"

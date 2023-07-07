@@ -1,6 +1,6 @@
 ---
 pid: pci_67
-label: Photo of soldier examining a German trench in September 1915
+label: soldier examining a German trench in September 1915
 object_type: contextual-images
 note: 204-5
 word_tag: Zouaves
@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of a Zouave examining a German trench through a telescope from September
   1915
-order: '066'
+order: '66'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_67/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_79
-label: Poster in support of the eight-hour workday
+label: poster in support of the eight-hour workday
 object_type: contextual-images
 note: '162'
 word_tag: La journ√©e de huit heures
@@ -16,7 +16,7 @@ rights: |-
 selection: 
 caption: Poster in support of the eight-hour workday from the Union des syndicat ourvriers
   de la Seine
-order: '078'
+order: '78'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_79/full/250,/0/default.jpg"

@@ -1,7 +1,6 @@
 ---
 pid: pci_65
-label: Photo of M. Poincaré, President of France, receiving a boquet from a young
-  widow in August 1919
+label: President of France Poincaré receiving a boquet from a young widow
 object_type: contextual-images
 note: 211-13
 word_tag: Crape veils
@@ -12,7 +11,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of Raymond Poincaré, President of France, receiving a boquet of flowers
   from a young widow on August 26, 1919
-order: '064'
+order: '64'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_65/full/250,/0/default.jpg"

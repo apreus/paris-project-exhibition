@@ -1,6 +1,6 @@
 ---
 pid: pci_89
-label: Portrait of Queen Henrietta Maria
+label: portrait of Queen Henrietta Maria
 object_type: contextual-images
 note: '166'
 word_tag: dead queens
@@ -12,7 +12,7 @@ rights: Wikimedia commons
 selection: Which Henrietta Maria portrait?
 caption: Portrait of Queen Henrietta Maria  with Sir Jeffrey Hudson by Anthony van
   Dyck, c. 1633, held by the National Gallery of Art
-order: '088'
+order: '88'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_89/full/250,/0/default.jpg"

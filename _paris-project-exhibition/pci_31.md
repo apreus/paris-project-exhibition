@@ -1,6 +1,6 @@
 ---
 pid: pci_31
-label: Photo of a chestnut vender in 1908
+label: chestnut vender
 object_type: contextual-images
 note: '69'
 word_tag: Auvergnat
@@ -11,7 +11,7 @@ rights: Gallica public domain
 selection: 
 caption: This photograph depicts a hot-chestnut seller (vendeur des marrons-chauds)
   on the streets of Paris, c.1908.
-order: '030'
+order: '30'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_31/full/250,/0/default.jpg"

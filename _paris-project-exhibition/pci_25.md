@@ -1,6 +1,6 @@
 ---
 pid: pci_25
-label: Nélie Jacquemart, self portrait c. 1880
+label: Nélie Jacquemart self portrait
 object_type: contextual-images
 note: 114-15
 word_tag: Madame Jacquemart-Andr√©
@@ -14,7 +14,7 @@ selection:
 caption: |-
   N√©lie Jacquemart (1841-1912) was an art patron, collector, and painter in her own right. This c.1880 self portrait is held by the Mus√©e Jacquemart-Andr√©e, which was established following
   N√©lie Jacquemart's death in her and husband √âdouard Andr√©'s former home on the Boulevard Haussman.
-order: '024'
+order: '24'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_25/full/250,/0/default.jpg"

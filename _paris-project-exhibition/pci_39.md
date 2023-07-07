@@ -1,6 +1,6 @@
 ---
 pid: pci_39
-label: Aerial photo of Place de L'étoile in 1909-19
+label: Place de L'étoile
 object_type: contextual-images
 note: 
 word_tag: I hate the Etoile
@@ -14,7 +14,7 @@ selection:
 caption: Twelve avenues, including the Avenue des Champs √âlys√©es, intersect to form
   a star (√©toile) pattern with the Arc de Triomphe at the center at the Place de
   L'√âtoile. This aerial photograph of the √âtoile was taken c.1909-19.
-order: '038'
+order: '38'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_39/full/250,/0/default.jpg"

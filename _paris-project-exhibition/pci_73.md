@@ -1,6 +1,6 @@
 ---
 pid: pci_73
-label: Copy of a portrait of Père Lachaise by Pierre Simon
+label: portrait of Père Lachaise by Pierre Simon
 object_type: contextual-images
 note: 175-77
 word_tag: P√®re Lachaise
@@ -22,7 +22,7 @@ selection:
 caption: Copy of a portrait of Père Lachaise painted by Pierre Simon known from an
   engraving by Gantrel (1694). From the collection of Louis-Philippe at the Château
   d'Eu (n¬∞231). Deposited at the Louvre √† Versailles on December 22, 1928.
-order: '072'
+order: '72'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_73/full/250,/0/default.jpg"

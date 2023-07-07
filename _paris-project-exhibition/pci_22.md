@@ -13,7 +13,7 @@ notes: Edouard Manet, Olympia 1863. Currently in the Mus√©e d'Orsay (founded 
 rights: Wikimedia commons public domain
 selection: 
 caption: Olympia by Edouard Manet c. 1863, held by Musée d'Orsay
-order: '021'
+order: '21'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_22/full/250,/0/default.jpg"

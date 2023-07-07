@@ -1,6 +1,6 @@
 ---
 pid: pci_76
-label: Portrait of Jacques-B√©nigne Bossuet
+label: portrait of Jacques-B√©nigne Bossuet
 object_type: contextual-images
 note: '166'
 word_tag: Bossuet
@@ -11,7 +11,7 @@ rights: Wikimedia commons
 selection: Which Bossuet portrait?
 caption: Portrait of Jacques-B√©nigne Bossuet by Hyacinthe Rigaud, c. 1702, held by
   the Louvre
-order: '075'
+order: '75'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_76/full/250,/0/default.jpg"

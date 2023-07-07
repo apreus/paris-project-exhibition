@@ -11,7 +11,7 @@ rights: Wikimedia commons public domain
 selection: 
 caption: Pieta de Villeneuve les avignon by Enguerrand Quarton c. 1455 held by the
   Louvre
-order: '022'
+order: '22'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_23/full/250,/0/default.jpg"

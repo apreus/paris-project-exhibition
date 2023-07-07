@@ -1,6 +1,6 @@
 ---
 pid: pci_40
-label: The White Duchess, portrait of the Duchess of Alba by Francisco Goya
+label: portrait of the Duchess of Alba by Francisco Goya
 object_type: contextual-images
 note: 43-50
 word_tag: Duchess of Alba
@@ -14,7 +14,7 @@ caption: Francisco Goya's 1795 painting The White Duchess, held by the Liria Pal
   in Spain. Goya painted Mar√≠a Cayetana de Silva, 13th Duchess of Alba, on several
   occasions, including in The Black Duchess (1797), which depicts the duchess in morning
   following her husband's death.
-order: '039'
+order: '39'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_40/full/250,/0/default.jpg"

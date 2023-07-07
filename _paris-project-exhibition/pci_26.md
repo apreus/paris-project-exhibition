@@ -1,7 +1,6 @@
 ---
 pid: pci_26
-label: Joseph Pernet-Ducher, who named a hybrid tea-rose "Mme Edouard Herriot" in
-  1913
+label: Joseph Pernet-Ducher
 object_type: contextual-images
 note: 111-14
 word_tag: Named after wives of Mayors.....
@@ -17,7 +16,7 @@ caption: 'This photograph of award-winning rosarian Joseph Pernet-Ducher and his
   de la Soci√©t√© fran√ßaise de rosi√©ristes. Pernet-Ducher developed a new hybrid
   tea-rose in 1913 and named it "Mme Edouard Herriot" after the wife of the then mayor
   of Lyon'
-order: '025'
+order: '25'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_26/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_51
-label: The Jeu de Paume Oath by Jacques-Louis David
+label: the Jeu de Paume Oath by Jacques-Louis David
 object_type: contextual-images
 note: 290-93
 word_tag: David
@@ -12,7 +12,7 @@ notes: |-
 rights: Wikimedia commons
 selection: 
 caption: The Jeu de Paume Oath by Jacques-Louis David, c. 1790 - 1792
-order: '050'
+order: '50'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_51/full/250,/0/default.jpg"

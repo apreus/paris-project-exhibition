@@ -1,6 +1,6 @@
 ---
 pid: pci_80
-label: Aerial photograph of he Louvre and gardens
+label: aerial photograph of he Louvre and gardens
 object_type: contextual-images
 note: 
 word_tag: Louvre
@@ -10,7 +10,7 @@ notes: aerial view C 1909
 rights: 
 selection: 
 caption: Aerial photograph of he Louvre and gardens, c. 1909
-order: '079'
+order: '79'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_80/full/250,/0/default.jpg"

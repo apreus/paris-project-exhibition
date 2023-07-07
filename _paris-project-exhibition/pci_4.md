@@ -1,6 +1,6 @@
 ---
 pid: pci_4
-label: Poster advertising Lion Noir shoe polish
+label: poster advertising Lion Noir shoe polish
 object_type: contextual-images
 note: 3-6
 word_tag: LION NOIR
@@ -16,7 +16,7 @@ selection:
 caption: |-
   Poster advertising Lion Noir (Black Lion) shoe polish, c.1900.
   [Illustrated by Louis M√©ry]
-order: '003'
+order: '3'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_4/full/250,/0/default.jpg"

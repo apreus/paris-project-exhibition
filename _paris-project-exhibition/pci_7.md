@@ -1,6 +1,6 @@
 ---
 pid: pci_7
-label: Poster advertising Byrrh wine-based ap√©ritif
+label: poster advertising Byrrh wine-based ap√©ritif
 object_type: contextual-images
 note: 12-13
 word_tag: BYRRH
@@ -14,7 +14,7 @@ selection:
 caption: |-
   Poster advertising Byrrh wine-based ap√©ritif, c.1909.
   [Illustrated by Jules Alexandre Gr√ºn.]
-order: '006'
+order: '6'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_7/full/250,/0/default.jpg"

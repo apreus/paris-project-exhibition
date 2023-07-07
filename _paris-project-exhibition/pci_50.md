@@ -1,6 +1,6 @@
 ---
 pid: pci_50
-label: Poster advertising Dubonnet, an apéritif
+label: poster advertising the apéritif Dubonnet
 object_type: contextual-images
 note: '45116'
 word_tag: "(DUBONNET)"
@@ -11,7 +11,7 @@ rights: Mus√©e carnavalet creative commons zero
 selection: Which Dubonnet?
 caption: Poster for Dubonnet, a sweet wine often served as an apéritif, designed by
   Jules Chéret, c. 1896
-order: '049'
+order: '49'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_50/full/250,/0/default.jpg"

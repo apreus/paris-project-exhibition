@@ -1,6 +1,6 @@
 ---
 pid: pci_70
-label: Photo of the Grands Boulevards in May 1919
+label: the Grands Boulevards in May 1919
 object_type: contextual-images
 note: '198'
 word_tag: Grands Boulevards
@@ -10,7 +10,7 @@ notes: mai 1919 Paris, les Grands boulevards
 rights: Gallica public domain
 selection: Which Grands Boulevards?
 caption: Photo of the Grands Boulevards in May 1919
-order: '069'
+order: '69'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_70/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_82
-label: Photo of Rue Sant Antoine
+label: Rue Sant Antoine
 object_type: contextual-images
 note: 339-40
 word_tag: rue Saint Antoine
@@ -11,7 +11,7 @@ notes: 1917 Lansiaux, Charles Joseph Antoine 133 Rue Saint-Antoine, perspective 
 rights: Mus√©e Carnavalet creative commons zero
 selection: Which rue Saint-Antoine?
 caption: Photo of Rue Sant Antoine in the 4th arondissement from 1917
-order: '081'
+order: '81'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_82/full/250,/0/default.jpg"

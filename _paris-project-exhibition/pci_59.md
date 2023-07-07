@@ -12,7 +12,7 @@ rights: Minist√®re de la Culture (France), M√©diath√®que de l'architect
   diffusion RMN-GP
 selection: Which Poilus autochrome?
 caption: Autochrome of soldiers having lunch in April 1917 by Paul Castelnau
-order: '058'
+order: '58'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_59/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_74
-label: Photo of graves damaged graves in Père Lachaise cemetery, April 1918
+label: damaged graves in Père Lachaise cemetery
 object_type: contextual-images
 note: 175-77
 word_tag: P√®re Lachaise
@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of graves in Père Lachaise cemetery, damaged due to bombardments, from
   April 1918
-order: '073'
+order: '73'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_74/full/250,/0/default.jpg"

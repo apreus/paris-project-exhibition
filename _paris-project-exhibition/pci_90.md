@@ -1,6 +1,6 @@
 ---
 pid: pci_90
-label: Newspaper article about murderer Henri Landru
+label: newspaper article about murderer Henri Landru
 object_type: contextual-images
 note: '163'
 word_tag: Landru
@@ -11,7 +11,7 @@ rights: Gallica public domain
 selection: Which Landru image?  (1919)
 caption: Newspaper article about murderer Henri Landru a few weeks afte rhis arrest
   in 1919
-order: '089'
+order: '89'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_90/full/250,/0/default.jpg"

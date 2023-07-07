@@ -1,6 +1,6 @@
 ---
 pid: pci_9
-label: Aerial photo of the Tuileries gardens
+label: aerial photo of the Tuileries gardens
 object_type: contextual-images
 note: 20-22
 word_tag: Tuileries
@@ -19,7 +19,7 @@ caption: The Tuileries are a large public garden in between the Place de la Conc
   and the Louvre on the right bank of Paris. This aerial photograph of the Jardin
   des Tuileries contains one of the garden's several decorative fountains and shows
   the left bank in the background on the other side of the Seine, c.1878.
-order: '008'
+order: '8'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_9/full/250,/0/default.jpg"

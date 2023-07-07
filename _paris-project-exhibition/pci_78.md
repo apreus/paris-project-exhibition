@@ -1,6 +1,6 @@
 ---
 pid: pci_78
-label: Poster for Nouveau Cirque
+label: poster for the Nouveau Cirque
 object_type: contextual-images
 note: '164'
 word_tag: Nouveau Cirque
@@ -10,7 +10,7 @@ notes: '1894 Nouveau Cirque. Les Ours comiques : [affiche]'
 rights: Gallica public domain
 selection: Which Nouveau Cirque poster?
 caption: Poster for the Nouveau Cirque from 1894
-order: '077'
+order: '77'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_78/full/250,/0/default.jpg"

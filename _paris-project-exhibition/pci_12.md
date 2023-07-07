@@ -1,6 +1,6 @@
 ---
 pid: pci_12
-label: Photo of urinal in square des Batignolles by Charles Marville
+label: urinal in square des Batignolles
 object_type: contextual-images
 note: 150-154
 word_tag: A golden drop of Harpagon's blood
@@ -12,7 +12,7 @@ rights: Mus√©e carnavalet creative commons zero
 selection: Which pissoir?
 caption: Urinal with a raised screen in a masonry stall in the square des Batignolles,
   17th arrondissement, Paris, c. 1858-78
-order: '011'
+order: '11'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_12/full/250,/0/default.jpg"

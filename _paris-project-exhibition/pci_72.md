@@ -14,7 +14,7 @@ selection: Which Rousseau painting?
 caption: Le lion, ayant faim, se jette sur l‚Äôantilope (The Hungry Lion Attacking
   an Antelope) Henri Rousseau, c. 1905. Held by the  Beyeler Foundation, Basel  and
   exhibited at the Salon d'automne in 1905
-order: '071'
+order: '71'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_72/full/250,/0/default.jpg"

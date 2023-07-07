@@ -13,7 +13,7 @@ selection:
 caption: Jacques-Louis David's 1800 painting Portait of Madame Recamier, held by the
   Louvre. Juliette Recamier hosted a leading salon of early nineteenth century Paris,
   regularly attended by such literary stars as Chateaubriand.
-order: '033'
+order: '33'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_34/full/250,/0/default.jpg"

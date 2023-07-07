@@ -1,6 +1,6 @@
 ---
 pid: pci_29
-label: Poster for the department store, Au Bon Marche
+label: Poster for Au Bon Marche
 object_type: contextual-images
 note: 94-94
 word_tag: |-
@@ -20,7 +20,7 @@ caption: Au Bon March√©, located between the rue de Babylone and the rue de S
   in the left bank's fashionable 7eme arrondisement, was one of Paris's first modern
   department stores in the nineteenth century. This c.1920 poster advertises a general
   exposition at the store.
-order: '028'
+order: '28'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_29/full/250,/0/default.jpg"

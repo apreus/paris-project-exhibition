@@ -1,6 +1,6 @@
 ---
 pid: pci_95
-label: Photo of butcher shop at 7, rue des Charbonniers in 1913
+label: butcher shop at 7 rue des Charbonniers
 object_type: contextual-images
 note: 144-45
 word_tag: CHARCUTERIE COMESTIBLES DE IRE CHOIX
@@ -12,7 +12,7 @@ notes: 1913 Boutiques parisiennes. Boucherie, charcuterie. Charcuterie, comestib
 rights: Droits domaine public Source Ville de Paris / BHVP
 selection: Which Charcuterie-Comestibles?
 caption: Photo of butcher shop at 7, rue des Charbonniers in 1913
-order: '094'
+order: '94'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_95/full/250,/0/default.jpg"

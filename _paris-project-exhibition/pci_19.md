@@ -1,6 +1,6 @@
 ---
 pid: pci_19
-label: The Ray by Jean Siméon Chardin, c. 1728
+label: The Ray by Jean Siméon Chardin
 object_type: contextual-images
 note: 117-21
 word_tag: The Chardins
@@ -10,7 +10,7 @@ notes: J.B.S. Chardin most famous painting in my opinion, held by the Louvre
 rights: Wikimedia commons public domain
 selection: 
 caption: The Ray by Jean Siméon Chardin c. 1728, held by the Louvre
-order: '018'
+order: '18'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_19/full/250,/0/default.jpg"

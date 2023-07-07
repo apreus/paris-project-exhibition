@@ -1,7 +1,6 @@
 ---
 pid: pci_53
-label: The Barricade, Rue de la Mortellerie, June 1848,  or Remembrance of Civil War
-  by Ernest Messonier
+label: Remembrance of Civil War by Ernest Messonier
 object_type: contextual-images
 note: 290-93
 word_tag: Massacres des Jours de Juin
@@ -16,7 +15,7 @@ rights: Wikimedia commons
 selection: 
 caption: The Barricade, Rue de la Mortellerie, June 1848,  or Remembrance of Civil
   War by Ernest Messonierv
-order: '052'
+order: '52'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_53/full/250,/0/default.jpg"

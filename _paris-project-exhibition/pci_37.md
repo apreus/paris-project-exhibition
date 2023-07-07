@@ -1,6 +1,6 @@
 ---
 pid: pci_37
-label: Photo of the sculpture gallery at the Musée de Luxembourg in 1912
+label: sculpture gallery at the Musée de Luxembourg
 object_type: contextual-images
 note: '58'
 word_tag: Salle Caillebotte
@@ -14,7 +14,7 @@ caption: This photograph depicts the Mus√©e de Luxembourg's sculpture gallery
   French painter Gustave Caillebotte bequeathed his collection of impressionist paintings
   to the state, and the paintings were put on display in 1897 in a gallery named after
   Caillebotte in the Mus√©e du Luxembourg.
-order: '036'
+order: '36'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_37/full/250,/0/default.jpg"

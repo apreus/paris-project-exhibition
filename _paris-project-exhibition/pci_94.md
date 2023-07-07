@@ -1,6 +1,6 @@
 ---
 pid: pci_94
-label: Portrait of Marjorie Strachey by Duncan Grant
+label: portrait of Marjorie Strachey by Duncan Grant
 object_type: contextual-images
 note: 448-49
 word_tag: le Crime et le Ch√¢timent
@@ -12,7 +12,7 @@ rights: No idea
 selection: 
 caption: Portrait of Marjorie Strachey after reading Crime and Punishment, originally
   titled Despair, by Duncan Grant, c. 1909
-order: '093'
+order: '93'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_94/full/250,/0/default.jpg"

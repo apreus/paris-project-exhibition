@@ -1,6 +1,6 @@
 ---
 pid: pci_64
-label: Photo of striking workers on May 1, 1909
+label: striking workers on 1 May 1909
 object_type: contextual-images
 note: 235-59
 word_tag: The first of May
@@ -10,7 +10,7 @@ notes: '1er mai 1909 [la foule] : Manifestation'
 rights: Gallica public domain
 selection: Which first of May?
 caption: Photo of striking workers on May 1, 1909
-order: '063'
+order: '63'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_64/full/250,/0/default.jpg"

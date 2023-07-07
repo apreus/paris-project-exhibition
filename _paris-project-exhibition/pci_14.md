@@ -1,6 +1,6 @@
 ---
 pid: pci_14
-label: Photo of the Sacre Coeur de Montmartre in 1921
+label: the Sacre Coeur de Montmartre in 1921
 object_type: contextual-images
 note: 150-154
 word_tag: Little temples of Mercury
@@ -10,7 +10,7 @@ notes: jullet 1921 Paris, le Sacr√©-C≈ìur
 rights: Gallica public domain
 selection: Which Sacr√© Coeur?
 caption: Photo of the Sacre Coeur de Montmartre, c. July 1921
-order: '013'
+order: '13'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_14/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_60
-label: Photo of anner honoring soldiers from July 1919
+label: banner honoring soldiers from July 1919
 object_type: contextual-images
 note: 275-79
 word_tag: Poilus
@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of a banner honoring soldiers on the Rue du Faubourg Poissonnière on
   13 juillet 1919
-order: '059'
+order: '59'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_60/full/250,/0/default.jpg"

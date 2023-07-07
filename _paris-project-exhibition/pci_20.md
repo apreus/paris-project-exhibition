@@ -1,7 +1,6 @@
 ---
 pid: pci_20
-label: Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of Virtue)
-  by Mantegna
+label: Triumph of the Virtues by Mantegna
 object_type: contextual-images
 note: 117-21
 word_tag: Mantegna's Seven Deadly Sins
@@ -12,7 +11,7 @@ rights: Wikimedia commons public domain
 selection: 
 caption: Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of
   Virtue) by Mantegna c. 1502, held by the Louvre
-order: '019'
+order: '19'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_20/full/250,/0/default.jpg"

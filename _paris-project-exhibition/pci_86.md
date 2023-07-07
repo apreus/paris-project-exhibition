@@ -1,6 +1,6 @@
 ---
 pid: pci_86
-label: Photo of a woman selling lillies of the valley on May 1
+label: woman selling lillies of the valley on 1 May 1911
 object_type: contextual-images
 note: 235-59
 word_tag: Lily of the valley
@@ -10,7 +10,7 @@ notes: 1er mai 1911, le muguet
 rights: Gallica public domain
 selection: Which lily of the vallley?
 caption: Photo of a woman selling lillies of the valley on May 1, 1911
-order: '085'
+order: '85'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_86/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_46
-label: Photo of stand in Les Halles by Eugène Atget
+label: stand in Les Halles
 object_type: contextual-images
 note: '451'
 word_tag: les Halles
@@ -10,7 +10,7 @@ notes: 1898 Eug√®ne Atget Les Halles
 rights: Mus√©e Carnavalet creative commons zero
 selection: Which les Halles?
 caption: Photo of stand in Les Halles by Eugène Atget, c. 1898
-order: '045'
+order: '45'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_46/full/250,/0/default.jpg"

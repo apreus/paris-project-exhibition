@@ -1,6 +1,6 @@
 ---
 pid: pci_3
-label: Poster advertising Zig-Zag rolling papers
+label: poster advertising Zig-Zag rolling papers
 object_type: contextual-images
 note: 3-6
 word_tag: ZIG-ZAG
@@ -12,7 +12,7 @@ notes: |-
 rights: Mus√©e Carnavalet creative commons zero
 selection: 
 caption: Poster advertising Zig-Zag cigarette papers, c.1900. [illustrator unknown]
-order: '002'
+order: '2'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_3/full/250,/0/default.jpg"

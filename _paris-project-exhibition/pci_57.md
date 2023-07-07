@@ -12,7 +12,7 @@ selection: Which Notre Dame fa√ßade?
 caption: Cath√©drale Notre-Dame de Paris, located on the √éle de la Cit√© in the Seine
   between Paris's right and left banks, is one of the city's oldest and most recognizable
   landmarks. This photo was taken in May 1912.
-order: '056'
+order: '56'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_57/full/250,/0/default.jpg"

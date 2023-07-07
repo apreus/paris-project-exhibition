@@ -1,7 +1,6 @@
 ---
 pid: pci_92
-label: Illustration of mourning clothes on the cover of Le Petit √©cho de la mode,
-  October, 1918
+label: illustration of mourning clothes on the cover of Le Petit √©cho de la mode
 object_type: contextual-images
 note: 211-13
 word_tag: Crape veils
@@ -13,7 +12,7 @@ rights:
 selection: Which veils?
 caption: Illustration of mourning clothes on the cover of Le Petit √©cho de la mode
   from October 27, 1918
-order: '091'
+order: '91'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_92/full/250,/0/default.jpg"

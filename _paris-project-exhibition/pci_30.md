@@ -1,6 +1,6 @@
 ---
 pid: pci_30
-label: Poster featuring the Gallic Cock, unofficial symbol of France
+label: Poster featuring the Gallic Cock
 object_type: contextual-images
 note: '77'
 word_tag: cock
@@ -15,7 +15,7 @@ caption: The gallic cock serves as an unnoficial national symbol of France. This
   support the war effort, reading, "Deposit your gold for France. Gold fights for
   victory." The image depicts a German soldier in the process of being crushed by
   a gold coin imprinted with the Gallic cock.
-order: '029'
+order: '29'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_30/full/250,/0/default.jpg"

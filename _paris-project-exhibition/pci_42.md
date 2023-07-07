@@ -1,6 +1,6 @@
 ---
 pid: pci_42
-label: Photo of the monument to French statesman Leon Gambetta in the Cour Napol√©on
+label: monument to French statesman Leon Gambetta in the Cour Napol√©on
 object_type: contextual-images
 note: 34-39
 word_tag: Gambetta
@@ -15,7 +15,7 @@ caption: Photograph of the monument to French statesman Leon Gambetta in the Cou
   Napol√©on in the front of the mus√©e du Louvre, c.1900-19. Gambetta played a significant
   role in the Franco-Prussian War (1870-71) and the founding of France's Third Republic
   (1870-1940).
-order: '041'
+order: '41'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_42/full/250,/0/default.jpg"

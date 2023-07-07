@@ -1,6 +1,6 @@
 ---
 pid: pci_91
-label: Photo of an empty gallery in the Louvre in May, 1918
+label: empty gallery in the Louvre in May 1918
 object_type: contextual-images
 note: 116-22
 word_tag: Louvre
@@ -10,7 +10,7 @@ notes: 'Le Mus√©e du Louvre pendant la guerre : la salle Rubens 24 mai 1918'
 rights: Gallica public domain
 selection: Which empty Louvre?
 caption: Photo of an empty gallery in the Louvre, salle Rubens, on May 24, 1918
-order: '090'
+order: '90'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_91/full/250,/0/default.jpg"

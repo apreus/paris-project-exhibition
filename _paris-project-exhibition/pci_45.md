@@ -1,6 +1,6 @@
 ---
 pid: pci_45
-label: 'The Bird Charmer at the Tuileries gardens, July 14, 1914 '
+label: the Bird Charmer at the Tuileries gardens
 object_type: contextual-images
 note: 20-22
 word_tag: Tuileries
@@ -12,7 +12,7 @@ notes: 14 juillet 1914 Le Charmeur d'oiseaux aux Tuileries
 rights: Gallica public domain
 selection: 
 caption: 'The Bird Charmer at the Tuileries, July 14, 1914 '
-order: '044'
+order: '44'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_45/full/250,/0/default.jpg"

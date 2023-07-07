@@ -1,6 +1,6 @@
 ---
 pid: pci_56
-label: Photo of a door of Notre-Dame in 1918, covered with bags
+label: door of Notre-Dame covered with sandbags
 object_type: contextual-images
 note: Dedication
 word_tag: NOTRE DAME DE PARIS
@@ -12,7 +12,7 @@ notes: |-
 rights: Mus√©e carnavalet creative commons zero
 selection: 
 caption: Photo of a door of Notre-Dame during wartime, covered with bags, c. 1918
-order: '055'
+order: '55'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_56/full/250,/0/default.jpg"

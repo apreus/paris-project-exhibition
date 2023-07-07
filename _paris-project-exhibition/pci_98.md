@@ -1,6 +1,6 @@
 ---
 pid: pci_98
-label: Portrait of the poet Paul Verlaine
+label: portrait of the poet Paul Verlaine
 object_type: contextual-images
 note: '432'
 word_tag: Verlaine
@@ -11,7 +11,7 @@ notes: Portrait du po√®te Paul Marie Verlaine (1844-1896) au "Caf√© Fran�
 rights: Mus√©e carnavalet creative commons zero
 selection: 
 caption: Portrait of the poet Paul Marie Verlaine at the "Caf√© Fran√ßois 1er"
-order: '097'
+order: '97'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_98/full/250,/0/default.jpg"

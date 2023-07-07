@@ -1,6 +1,6 @@
 ---
 pid: pci_17
-label: Poster for the Grand Guignol theatre
+label: poster for the Grand Guignol theatre
 object_type: contextual-images
 note: '131'
 word_tag: Grand Guignol
@@ -12,7 +12,7 @@ rights: Mus√©e Carnavalet creative commons zero
 selection: Which Grand Guignol poster?
 caption: Poster for the Grand Guignol theatre at 20 rue Chaptal by Jules-Alexandre
   Grün, c. 1890
-order: '016'
+order: '16'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_17/full/250,/0/default.jpg"

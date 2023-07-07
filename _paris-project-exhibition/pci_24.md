@@ -1,6 +1,6 @@
 ---
 pid: pci_24
-label: Photo of the Grande Galerie at the Louvre during the war in May 1918
+label: Grand Gallery at the Louvre in May 1918
 object_type: contextual-images
 note: 116-21
 word_tag: Louvre
@@ -10,7 +10,7 @@ notes: 'Le Mus√©e du Louvre pendant la guerre: la Grande Galerie 24 mai 1918'
 rights: Gallica public domain
 selection: Which empty Louvre?
 caption: The Grande Galerie at the Louvre during the war on May 24, 1918
-order: '023'
+order: '23'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_24/full/250,/0/default.jpg"

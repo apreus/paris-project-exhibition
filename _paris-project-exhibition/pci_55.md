@@ -1,6 +1,6 @@
 ---
 pid: pci_55
-label: Map of the Nord-Sud metro line in 1914
+label: map of the Nord-Sud metro line in 1914
 object_type: contextual-images
 note: '2'
 word_tag: NORD-SUD
@@ -10,7 +10,7 @@ notes: Nouveau plan du M√©tropolitain et du Nord-Sud de Paris. 1914.
 rights: Paris Biblioth√®ques Consultable sans restrictions domaine public
 selection: 
 caption: Map of the Nord-Sude metro line, 1914
-order: '054'
+order: '54'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_55/full/250,/0/default.jpg"

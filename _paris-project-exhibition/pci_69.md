@@ -1,6 +1,6 @@
 ---
 pid: pci_69
-label: Photo of a battlefield in the Marne between Souain and Perthes in May 1915
+label: battlefield in the Marne between Souain and Perthes
 object_type: contextual-images
 note: 196-97
 word_tag: Marne
@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: Which Marne?
 caption: May 1915 Bois-Sabot [view of a battlefield in the Marne, between Souain and
   Perthes]
-order: '068'
+order: '68'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_69/full/250,/0/default.jpg"

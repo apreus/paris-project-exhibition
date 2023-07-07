@@ -11,7 +11,7 @@ notes: lots of pictures 1914-18 but not in color, here is a lithograph of the un
 rights: Gallica public domain
 selection: Which Zouaves?
 caption: Lithograph of Zouave's uniforms from the 19th century Arm√©e fran√ßaise
-order: '067'
+order: '67'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_68/full/250,/0/default.jpg"

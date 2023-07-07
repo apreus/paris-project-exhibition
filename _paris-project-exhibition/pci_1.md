@@ -1,6 +1,6 @@
 ---
 pid: pci_1
-label: Photo of Paris's Notre Dame Cathedral in 1912
+label: paris's Notre Dame Cathedral
 object_type: contextual-images
 note: Dedication
 word_tag: NOTRE DAME DE PARIS
@@ -12,7 +12,7 @@ selection: Which Notre Dame fa√ßade?
 caption: Photo of Paris's Notre Dame Cathedral in 1912, located on the Ile de la Cite
   in the Seine between Paris's right and left banks, is one of the city's oldest and
   most recognizable landmarks. This photo was taken in May 1912.
-order: '000'
+order: '0'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_1/full/250,/0/default.jpg"

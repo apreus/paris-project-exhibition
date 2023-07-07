@@ -1,6 +1,6 @@
 ---
 pid: pci_54
-label: Posters for la journée du poilu in the place des Pyramides, 1915
+label: Posters for la journée du poilu in the place des Pyramides
 object_type: contextual-images
 note: 275-79
 word_tag: Rue des Pyramides
@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Posters for la journée du poilu on December 25 & 26, place des Pyramides,
   c. 1915
-order: '053'
+order: '53'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_54/full/250,/0/default.jpg"

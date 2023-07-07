@@ -1,6 +1,6 @@
 ---
 pid: pci_35
-label: The Spinaro (known as Tireur d'√©pine in French or Boy with Thorn in English)
+label: the Spinaro (or Boy with Thorn)
 object_type: contextual-images
 note: '63'
 word_tag: A Roman boy
@@ -13,7 +13,7 @@ caption: The Spinaro (known as Tireur d'√©pine in French or Boy with Thorn in
   is a genre of ancient statue depicting a boy removing a thorn from the bottom of
   his foot. The most famous example of the Spinario genre is held by the Musei Capitolini
   in Rome, but there are many bronze copies dating from the Renaissance onwards.
-order: '034'
+order: '34'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_35/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_10
-label: Pilgrimage to Cythera, so-called The Embarkation for Cythera by Antoine Wasseau
+label: the Embarkation for Cythera by Antoine Wasseau
 object_type: contextual-images
 note: 27-29
 word_tag: Le d√©part pour Cyth√®re
@@ -20,7 +20,7 @@ caption: Antoine Wasseau's 1717 painting P√©lerinage √† l'√Æle de Cyth
   pour Cyth√®re  (Pilgrimage to Cythera, so-called The Embarkation for Cythera), held
   by the Louvre. The painting depicts a large party of couples departing--or according
   to some interpretations, returning--from Cytheria, Venus's island of love.
-order: '009'
+order: '9'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_10/full/250,/0/default.jpg"

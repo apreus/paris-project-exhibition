@@ -1,6 +1,6 @@
 ---
 pid: pci_5
-label: Poster advertising Cacao Blooker Dutch chocolate
+label: poster advertising Cacao Blooker Dutch chocolate
 object_type: contextual-images
 note: 3-6
 word_tag: 'CACAO BLOOKER
@@ -16,7 +16,7 @@ rights: |-
   for information contact ReclameArsenaal
 selection: Which Cacao Blooker?
 caption: Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910
-order: '004'
+order: '4'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_5/full/250,/0/default.jpg"

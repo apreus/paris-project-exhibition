@@ -1,6 +1,6 @@
 ---
 pid: pci_75
-label: Photo of memorial for the dead at Père Lachaise cemetary on November 2, 1917
+label: memorial for the dead at Père Lachaise cemetary on 2 November 1917
 object_type: contextual-images
 note: 175-77
 word_tag: P√®re Lachaise
@@ -10,7 +10,7 @@ notes: '2 novembre 1917 F√™te des morts 1917 au P√®re Lachaise :'
 rights: Gallica public domain
 selection: 
 caption: Photo of memorial for the dead at Père Lachaise cemetary on November 2, 1917
-order: '074'
+order: '74'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_75/full/250,/0/default.jpg"

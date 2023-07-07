@@ -1,6 +1,6 @@
 ---
 pid: pci_71
-label: Photo of a monument with the inscription "Mort au champ d'honneur"
+label: monument with the inscription Mort au champ d'honneur
 object_type: contextual-images
 note: '186'
 word_tag: MORT AU CHAMP D'HONNEUR
@@ -13,7 +13,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of a monument with the inscription "Mort au champ d'honneur" from April
   21, 1922
-order: '070'
+order: '70'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_71/full/250,/0/default.jpg"

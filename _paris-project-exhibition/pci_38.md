@@ -1,6 +1,6 @@
 ---
 pid: pci_38
-label: Photo of the Arc de Triomphe de L'étoile, around 1909-1919
+label: Arc de Triomphe de L'étoile
 object_type: contextual-images
 note: 55-56
 word_tag: Arc de Triomphe
@@ -17,7 +17,7 @@ caption: This photograph depicts the Arc de Triomphe de L'√âtoile c.1909-1919
   victory at Austerlitz.] [A ceremony to commemorate the November 11, 1918 armistice
   takes place at the Arc each year, and it is also the location of France's Tomb of
   the Unknown Solider.]
-order: '037'
+order: '37'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_38/full/250,/0/default.jpg"

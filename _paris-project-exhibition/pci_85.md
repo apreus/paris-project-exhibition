@@ -1,6 +1,6 @@
 ---
 pid: pci_85
-label: Photo of the interior of Bon March√© department store
+label: interior of Bon March√© department store
 object_type: contextual-images
 note: 294-95
 word_tag: Bon March√©
@@ -11,7 +11,7 @@ rights: Wikimedia commons
 selection: Which Bon March√©? I can't find a decent exterior photo of Bon March√©
   in the public domain so this interior photo could be a good alternative -SL
 caption: Photo of the interior of Bon March√© department store, c. 1900
-order: '084'
+order: '84'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_85/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: pci_58
-label: Photo of sphinx statue in the tuileries gardens
+label: sphinx statue in the tuileries gardens
 object_type: contextual-images
 note: 275-79
 word_tag: sphinx
@@ -11,7 +11,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of sphinx statue in the tuileries gardens in the Jardin de Robespierre.
   By Eugène Atget, c.  1908-1922
-order: '057'
+order: '57'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_58/full/250,/0/default.jpg"

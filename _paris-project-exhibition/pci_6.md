@@ -1,6 +1,6 @@
 ---
 pid: pci_6
-label: Photo of the Chambre des D√©put√©s metro station
+label: Chambre des D√©put√©s metro station
 object_type: contextual-images
 note: 7-9
 word_tag: CHAMBRE DES DEPUTES
@@ -14,7 +14,7 @@ rights:
 selection: 
 caption: Photograph of the platform of the Chambre des D√©put√©s Station on the Nord-Sud
   line (date?)
-order: '005'
+order: '5'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_6/full/250,/0/default.jpg"
