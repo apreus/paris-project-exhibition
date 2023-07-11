@@ -4,7 +4,7 @@ title: 'About the Project'
 permalink: /exhibits/the-project/
 ---
 
-The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) and supported by the [Humanities Digital Workshop](https://hdw.wustl.edu/) at Washington University in St. Louis. The text of the digital edition represents a diplomatic transcription of the copy of the first edition held by Washington University Libraries.
+The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries.
 
 
 
@@ -14,50 +14,50 @@ The Paris Project is a collaboratively created digital edition of Hope Mirrlees'
 [Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)<br>
 [Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)<br>
 [Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)<br>
-[Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)<br>
 [Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
+[Melanie Walsh](https://melaniewalsh.org/)<br>
 [Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)<br>
 
 
 
 **Process**
 
-In 2017, we set out to create a digital edition of *Paris* that would make the poem more accessible for contemporary readers. With an explicit investment in feminist digital approaches, and with assistance from an interdisciplinary team of faculty, postdoctoral fellows, library staff, and both undergraduate and graduate students, we have worked to recreate the Hogarth edition of Mirrlees’s poem in digital form. Just as Mirrlees’ writing challenged printing conventions in its time, the poem challenges systems for representing texts digitally today, and attempting to recreate its complex visual design required us to think creatively about how to use digital systems to mimic typesetting decisions made a century ago. What follows is a short description of the process through which we digitized the text. 
+In 2017, we set out to create a digital edition of Paris that would make the poem more accessible for contemporary readers. With an explicit investment in feminist digital approaches, and with contributions from an interdisciplinary team of faculty, postdoctoral fellows, library staff, and undergraduate and graduate students, we have worked to recreate the Hogarth edition of Mirrlees’s poem in digital form. But just as Mirrlees’ writing challenged printing conventions in its time, the poem challenges systems for representing texts digitally today, and attempting to recreate its complex visual design has required us to try to mimic printing decisions made a century ago using digital tools. What follows is a short description of the process through which we digitized the text. 
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_169' %}
 
-In the first year of this project we were fortunate to work with Jaleen Grove, a historian of illustration and graphic design, who encouraged us to look not just at the words on the page, but to see each page as a visual construction in its own right. Given the poem’s layout, the idea that it existed as both text and image conceptually made sense, but it was hard to build that idea into the structure of our digital edition, the basis of which is an XML file that adheres to the [Text Encoding Initiative (TEI)](https://tei-c.org/) Guidelines–a collaboratively built schema for marking up texts in a form that is both human- and machine-readable. Recording the poem’s original layout within the TEI guidelines for encoding verse turned out to be quite difficult, though, since the spacing and layout was so varied. 
+In the first year of this project we were fortunate to work with Jaleen Grove, a historian of illustration and graphic design, who encouraged us to look not just at the words on the page, but to see each page as a visual construction in its own right. Given the poem’s layout, the idea that it existed as both text and image conceptually made sense to us, but it was hard to build that idea into the structure of our digital edition, the basis of which is an XML file that adheres to the [Text Encoding Initiative (TEI)](https://tei-c.org/) Guidelines–a collaboratively built schema for marking up texts in a form that is both human- and machine-readable. Recording the poem’s original layout within the TEI guidelines for encoding verse posed challenges, though, since the spacing and layout of the poem is so varied. 
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_170' %}
 
-Ultimately, what helped us address this issue was a return to the methods that Woolf used when publishing *Paris*. She printed the book on a small press in her dining room, and all she had to work with when creating the layouts for each page were pieces of moveable type that, when inked, made impressions on rectangular surfaces. Focusing on the typesetting process in turn brought our attention to something we did not initially see: whitespace. In letterpress-printed text, whitespace is created through the insertion of individual pieces of spacing material, which function just like regular type but do not make a mark on the page. Wherever Woolf wanted to create spaces in Mirrlees’s poem, she had to insert spacing material, and it was the insertion of these pieces of spacing material that made the complicated layout of the poem possible. In order to copy her layout while preserving the poem as text, we would have to insert individual blocks of digital spacing “material” in our edition as well.
+Ultimately, what helped us address this issue was a return to the methods that Woolf used when publishing *Paris.* She printed the book on a small press in her dining room, and all she had to work with when creating the layouts for each page were pieces of moveable type that, when inked, made impressions on rectangular surfaces. Focusing on the typesetting process in turn brought our attention to something we did not initially see: whitespace. In letterpress-printed text, whitespace is created through the insertion of individual pieces of spacing material, which function just like regular type but do not make a mark on the page. Wherever Woolf wanted to create spaces in Mirrlees’s poem, she had to insert spacing material, and it was the insertion of these pieces of spacing material that made the complicated layout of the poem possible. In order to copy her layout while preserving the poem as text, we would have to insert individual blocks of digital spacing “material” in our edition as well.
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_171' %}
 
-Jaleen began measuring the placement of each line of text and each character within the lines, but promptly ran into issues because all the pages were slightly different sizes and the binding was wonky. To deal with this, she scanned and measured each page, averaged the measurements, and established an idealized page size for our edition.
+Jaleen began by measuring the placement of each line of text and each character within the lines, but promptly ran into issues because all the pages were slightly different sizes and at odd angles due to the stapled binding. To address this, she created high-quality scans of the book, measured the dimensions of each page, averaged the measurements, established idealized page dimensions for our edition, and then recorded measurements for the placement of each word in the poem in documents representing these idealized pages.
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_172' %}
 
-Meanwhile, Anna started trying to figure out how to encode Jaleen’s meticulous measurements in XML. However, because we were capturing so many typographic irregularities, ran into issues using the TEI standards for encoding printed texts and had to turn to manuscript studies conventions. Moreover, because we were measuring to the typographic point–which is 1/72 of an inch–our measurements varied on a smaller scale than could be represented through standardized spacing in modern digital typefaces–another thing we had to figure out. Throughout all of this, Melanie, who was handling content-related editorial work at the time, made sure we were connecting our focus on whitespace back to the text of the poem and to our overall goal of making it more accessible to contemporary readers.
+Once all the measurements for a page were recorded, we encoded those measurements in our TEI transcription of the poem. However, because we were capturing so many visual details, we ran into issues using the TEI standards for encoding printed texts and had to turn to manuscript studies conventions. Moreover, because we were measuring to the typographic point–which is 1/72 of an inch–our measurements could not be represented through standardized spacing in modern digital typefaces (in which a space is a character with particular dimensions). Instead, we had to insert custom space elements (or tags) with exact dimensions for each bit of whitespace on each of the 23 pages in the printed book. These space tags conceptually correspond to the metal spacing material Woolf used to create whitespace in the printed edition.
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_173' %}
 
-After a lot of discussion, measuring, encoding, re-measuring, and re-encoding, we ended up with a transcription of the poem that included customized space tags with exact dimensions for each bit of whitespace on each of the 23 pages in the printed book. 
+With the transcription of the poem--and its layout--complete, we then turned our attention to putting it online. We used [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/), a tool for publishing TEI files, to translate our transcription into HTML. We customized the display and then wrote hundreds of style rules in CSS, so a web browser could interpret each of the custom space tags we had created to represent the whitespace in the poem. We also created options to allow users to select different views of the poem: for example, the default view for the digital edition presents the poem as a continuous scroll, but readers can view the original page breaks, margins, and page numbers by selecting the "pages" view.
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_174' %}
 
-We also transcribed Julia Briggs's original notes to the poem into TEI. We then used TEI Boilerplate to translate the TEI files into HTML for web display. Later, we wrote hundreds of CSS rules, so a browser could interpret each of the custom space tags we had created. Doug Knox and Steve Pentecost then helped us create a customized platform that would allow users to select different views of the poem. For example, the default view for the digital edition presents the poem as a continuous scroll, but readers can view the original page breaks, margins, and numbers by selecting the "pages" view.  
+Throughout this process, we also continued thinking about how to contextualize the poem for contemporary readers. We sought permission to include Julia Briggs's foundational notes on the text and encoded those in XML. We also worked with Sophie Levin to gather historical images of locations, people, advertisements, and works of art referenced in the poem and create a database of contextual images and metadata. With the help of Doug Knox and Stephen Pentecost, we then created options for viewing Briggs's notes and the contextual images within the digital edition. 
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_175' %}
+ 
+ Finally, we created this website, which includes historical essays, a gallery of contextual images, and a facsimile of the first edition, using the minimal computing platform [Wax](https://minicomp.github.io/wax/). The project has been shaped throughout by a tremendously generous group of collaborators without whose contributions this edition would not have been possible.
 
-Once we had mounted the poem online, we were able to begin thinking about our initial goals again and started thinking about how to create a website that was useful and engaging to contemporary readers. To this end, we gathered historical images to include in the edition, added Briggs's notes, built a website using the minimal computing platform Wax, added contextual essays, and created more display options for the poem, including a facsimile of the copy of the 1920 first edition held by the Librares at Washington University in St. Louis. The project has been shaped throughout by the labor and insights of a tremendously generous group of collaborators without whose contributions this edition would not have been possible.
+{% include inline_image.html collection='paris-project-exhibition' pid='pci_176' %}
 
 *By Melanie Micir and Anna Preus* 
-
-
 
 **Credits**
 
 The website was created using [Wax](https://minicomp.github.io/wax/). The digital edition was created using [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/). The notes included in the digital edition were written by Julia Briggs. 
 
-All the files and code used for the project are available on [Github](https://github.com/apreus).
+All the files used for the project and website are available on [Github](https://github.com/apreus).

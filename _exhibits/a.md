@@ -24,4 +24,4 @@ The year after Harrison’s death Mirrlees converted to Catholicism, and for the
 
 After her mother’s death in 1948, Mirrlees moved to South Africa, a country she had visited as a child due to her father’s business interests, and lived there for fifteen years. She returned to England in 1963, settling in the Oxford suburb of Headington, and published three slim poetry volumes in the sixties and early seventies, revised and expanded in *Moods and Tensions* (Amate Press, 1976). Mirrlees died in 1978 at the age of ninety-one.
 
-by Sophia Levin
+by Sophie Levin
