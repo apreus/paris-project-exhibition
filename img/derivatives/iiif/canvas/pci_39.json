@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pci_39.json",
+  "label": "front",
+  "width": 2400,
+  "height": 1708,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_39/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/pci_39.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_39/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_39",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1200,
+        "height": 854
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pci_39.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
