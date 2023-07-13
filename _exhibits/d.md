@@ -1,8 +1,10 @@
 ---
 layout: exhibit
 title: 'About the Poem'
-permalink: /exhibits/the-poem/
+permalink: /exhibits/paris-a-poem/
 ---
+
+*By Ann Marie Jakubowski*
 
 *Paris: A Poem* was a product of Mirrlees’s life in the eponymous city in 1919, where she was studying Russian at the École des Langues Orientales, observing current events, and reading avant-garde poetry.[^1] Contemporary reviews were mixed. The poem’s typographical play drew particular attention: “This little effusion” with its “tricks of type” seems meant “to give an ensemble of the sensations offered to a pilgrim through Paris. But it is certainly not a ‘Poem,’” wrote the anonymous reviewer in the Times Literary Supplement.[^2]The reviewer in The Athenaeum was more positive, explicitly linking Mirrlees’s work to “the idiom of the younger French poets,” including Blaise Cendrars and others known for typographical innovation. “‘Paris’ is immensely literary and immensely accomplished,” the review reads. “One reads it with pleasure and interest, admiring the author’s learning and wit, and the skill with which the verse is handled.”[^3]
 
@@ -14,7 +16,6 @@ Briggs attributes the poem’s obscurity to the relative scarcity of copies in c
 
 Briggs played a pivotal role in recovering the text she called “modernism’s lost masterpiece”[^7]: the 1919 text of Paris, annotated by Briggs, was included in the 2007 anthology Gender in Modernism: New Geographies, Complex Intersections, edited by Bonnie Kime Scott. In 2011, an edition of Mirrlees’s Collected Poems edited by Sandeep Parmar was published by Carcanet Press; it includes Briggs’s commentary on Paris as well as several previously unpublished poems found in the Mirrlees Archive at Newnham College, Cambridge. In 2020, Faber released a centenary edition of Paris with Briggs’s annotations, and a conference to be hosted at the Sorbonne Nouvelle was scheduled for June. In addition to these academic projects, Pegana Press published a deluxe, hand-crafted edition of the poem in 2010, limited to 50 copies.
 
-by Ann Marie Jakubowski
 
 ### Notes
 

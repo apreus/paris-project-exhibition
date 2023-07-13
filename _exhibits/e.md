@@ -1,26 +1,10 @@
 ---
 layout: exhibit
-title: 'About the Project'
-permalink: /exhibits/the-project/
+title: 'Project History'
+permalink: /exhibits/project-history/
 ---
 
-The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris,* edited by [Melanie Micir](https://english.wustl.edu/people/melanie-micir) and [Anna Preus](https://english.washington.edu/people/anna-preus) The text of the digital edition represents a diplomatic transcription of a copy of the first edition held by Washington University Libraries.
-
-
-
-**Contributors**
-
-[Jaleen Grove](https://www.risd.edu/academics/illustration/faculty/jaleen-grove)<br>
-[Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)<br>
-[Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)<br>
-[Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)<br>
-[Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
-[Melanie Walsh](https://melaniewalsh.org/)<br>
-[Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)<br>
-
-
-
-**Process**
+*By Melanie Micir and Anna Preus* 
 
 In 2017, we set out to create a digital edition of Paris that would make the poem more accessible for contemporary readers. With an explicit investment in feminist digital approaches, and with contributions from an interdisciplinary team of faculty, postdoctoral fellows, library staff, and undergraduate and graduate students, we have worked to recreate the Hogarth edition of Mirrlees’s poem in digital form. But just as Mirrlees’ writing challenged printing conventions in its time, the poem challenges systems for representing texts digitally today, and attempting to recreate its complex visual design has required us to try to mimic printing decisions made a century ago using digital tools. What follows is a short description of the process through which we digitized the text. 
 
@@ -54,7 +38,6 @@ Throughout this process, we also continued thinking about how to contextualize t
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_176' %}
 
-*By Melanie Micir and Anna Preus* 
 
 **Credits**
 

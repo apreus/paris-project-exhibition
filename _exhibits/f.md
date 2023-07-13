@@ -1,0 +1,29 @@
+---
+layout: exhibit
+title: 'People'
+permalink: /exhibits/people/
+---
+
+The Paris Project is a collaboratively created digital edition of Hope Mirrlees's modernist long poem *Paris.* 
+
+**Editors**
+
+[Melanie Micir](https://english.wustl.edu/people/melanie-micir), Associate Professor of English at Washington University in St. Louis. 
+
+[Anna Preus](https://english.washington.edu/people/anna-preus), Assistant Professor of English at the University of Washington in Seattle. 
+
+
+**Contributors**
+
+[Jaleen Grove](https://www.risd.edu/academics/illustration/faculty/jaleen-grove)<br>
+[Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)<br>
+[Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)<br>
+[Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)<br>
+[Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
+[Melanie Walsh](https://melaniewalsh.org/)<br>
+[Nikita Willeford Kastrinos](https://english.washington.edu/people/nikita-willeford-kastrinos)<br>
+
+
+**Credits**
+
+The notes included in the digital edition were written by Julia Briggs.

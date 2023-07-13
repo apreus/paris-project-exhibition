@@ -4,6 +4,8 @@ title: 'Hope Mirrlees'
 permalink: /exhibits/mirrlees-bio/
 ---
 
+*By Sophie Levin*
+
 Helen Hope Mirrlees was born in 1887 to Scottish parents William Julius Mirrlees, owner of a successful South African sugar business, and Lina Mirrlees, née Moncrieff, of Scotland’s aristocratic Moncrieff clan. Hope received a formal education at the prestigious St. Leonard’s girls school in St. Andrews and was presented at court as a debutante at the age of nineteen or twenty. She briefly attended the Royal Academy of Dramatic Art studying under the auspices of the actress Mrs. Patrick Campell, but found herself more interested in classics than drama. In 1910 she went up to Newnham College, Cambridge, one of the university’s two women’s colleges, to study classics. At Newnham she began an intimate relationship (the nature of which has been debated by scholars) with famed classicist Jane Ellen Harrison that lasted until Harrison’s death in 1928.
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_132' %}
@@ -23,5 +25,3 @@ In 1925 the pair returned to London and lived at 11 Mecklenburgh Street at Bloom
 The year after Harrison’s death Mirrlees converted to Catholicism, and for the next twenty or so years lived with her mother in South Kensington, London and later Surrey. (TS Eliot staying with them during the war?) For many years Mirrlees worked on a Harrison biography that was never published. She also planned a many volume biography of the 17th century antiquarian Sir Robert Bruce Cotton, and published the first volume as A Fly in Amber (Faber & Faber, 1962).
 
 After her mother’s death in 1948, Mirrlees moved to South Africa, a country she had visited as a child due to her father’s business interests, and lived there for fifteen years. She returned to England in 1963, settling in the Oxford suburb of Headington, and published three slim poetry volumes in the sixties and early seventies, revised and expanded in *Moods and Tensions* (Amate Press, 1976). Mirrlees died in 1978 at the age of ninety-one.
-
-by Sophie Levin
