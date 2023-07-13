@@ -3,7 +3,6 @@ layout: exhibit
 title: 'The Hogarth Press'
 permalink: /exhibits/hogarth-press/
 ---
-
 *By Ann Marie Jakubowski*
 
 Virginia and Leonard Woolf founded the Hogarth Press in 1917 when, for just under £20, they purchased a small hand-printing press and the accessories needed to begin printing out of their home in Surrey, England. Their first publication, *Two Stories*, appeared in July of that year, featuring Leonard’s “Three Jews” and Virginia’s “The Mark on the Wall.” The Press had an enormous impact on Woolf’s work: as Hermione Lee writes, the beginning of their publishing enterprise marks “a completely new direction, the beginning of a new form and a new kind of writing” for Woolf because “the new machine had created the possibility for the new story."[^1]

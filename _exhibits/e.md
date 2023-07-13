@@ -3,10 +3,9 @@ layout: exhibit
 title: 'Project History'
 permalink: /exhibits/project-history/
 ---
-
 *By Melanie Micir and Anna Preus* 
 
-In 2017, we set out to create a digital edition of Paris that would make the poem more accessible for contemporary readers. With an explicit investment in feminist digital approaches, and with contributions from an interdisciplinary team of faculty, postdoctoral fellows, library staff, and undergraduate and graduate students, we have worked to recreate the Hogarth edition of Mirrlees’s poem in digital form. But just as Mirrlees’ writing challenged printing conventions in its time, the poem challenges systems for representing texts digitally today, and attempting to recreate its complex visual design has required us to try to mimic printing decisions made a century ago using digital tools. What follows is a short description of the process through which we digitized the text. 
+In 2017, we set out to create a digital edition of *Paris* that would make the poem more accessible for contemporary readers. With an explicit investment in feminist digital approaches, and with contributions from an interdisciplinary team of faculty, postdoctoral fellows, library staff, and undergraduate and graduate students, we have worked to recreate the 1920 edition of Mirrlees’s poem in digital form. But just as Mirrlees’ writing challenged printing conventions in its time, the poem challenges systems for representing texts digitally today, and attempting to recreate its complex visual design has required us to mimic printing decisions made a century ago using digital tools. What follows is a short description of the process through which we digitized the text. 
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_169' %}
 
@@ -26,21 +25,18 @@ Once all the measurements for a page were recorded, we encoded those measurement
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_173' %}
 
-With the transcription of the poem--and its layout--complete, we then turned our attention to putting it online. We used [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/), a tool for publishing TEI files, to translate our transcription into HTML. We customized the display and then wrote hundreds of style rules in CSS, so a web browser could interpret each of the custom space tags we had created to represent the whitespace in the poem. We also created options to allow users to select different views of the poem: for example, the default view for the digital edition presents the poem as a continuous scroll, but readers can view the original page breaks, margins, and page numbers by selecting the "pages" view.
+With the transcription of the poem--and its layout--complete, we then turned our attention to putting it online. We used [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/), a tool for publishing TEI files, to translate our transcription into HTML. With help from Doug Knox and Steve Pentecost, we customized the display and then wrote hundreds of style rules in CSS, so a web browser could interpret each of the custom space tags we had created to represent the whitespace in the poem. We also created options to allow users to select different views of the poem: for example, the default view for the digital edition presents the poem as a continuous scroll, but readers can view the original page breaks, margins, and page numbers by selecting the "pages" view.
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_174' %}
 
-Throughout this process, we also continued thinking about how to contextualize the poem for contemporary readers. We sought permission to include Julia Briggs's foundational notes on the text and encoded those in XML. We also worked with Sophie Levin to gather historical images of locations, people, advertisements, and works of art referenced in the poem and create a database of contextual images and metadata. With the help of Doug Knox and Stephen Pentecost, we then created options for viewing Briggs's notes and the contextual images within the digital edition. 
+Throughout this process, we also continued thinking about how to contextualize the poem for contemporary readers. We sought permission to include Julia Briggs's foundational notes on the text, encoded them in XML, and created options for viewing them alongside the poem. Sophie Levin and Ann Marie Jakubowski contributed historical essays, and Sophie also gathered all the historical images included in the edition, which we also created options for viewing alongside the text.
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_175' %}
+
+ Finally, we created this website using the minimal computing platform [Wax](https://minicomp.github.io/wax/) in order to bring together the materials we digitized, collected, and created during the process of remediating *Paris*, and to hopefully introduce the poem to new readers.
+
+The project has been shaped throughout by a generous group of collaborators without whose contributions this edition would not have been possible, and we are immensely grateful for their work.
+
  
- Finally, we created this website, which includes historical essays, a gallery of contextual images, and a facsimile of the first edition, using the minimal computing platform [Wax](https://minicomp.github.io/wax/). The project has been shaped throughout by a tremendously generous group of collaborators without whose contributions this edition would not have been possible.
+ 
 
-{% include inline_image.html collection='paris-project-exhibition' pid='pci_176' %}
-
-
-**Credits**
-
-The website was created using [Wax](https://minicomp.github.io/wax/). The digital edition was created using [TEI Boilerplate](https://dcl.ils.indiana.edu/teibp/). The notes included in the digital edition were written by Julia Briggs. 
-
-All the files used for the project and website are available on [Github](https://github.com/apreus).

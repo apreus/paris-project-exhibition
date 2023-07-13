@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'About This Edition'
+title: 'About this Edition'
 permalink: /exhibits/this-edition/
 ---
 *By Melanie Micir and Anna Preus*
@@ -15,7 +15,7 @@ The process of re-mediating Paris has fundamentally changed the way we understan
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_163' %}
 
-In our approach to this project, we have explicitly viewed adaptation as a form of interpretation and collaboration. One of our main aims was to take robust digital tools and apply them to a small-scale project--to one very small book. We wanted to perform a kind of digitally assisted close reading and to re-mediate the poem in a way that aligned with the methods used to print it in the first place. The result of this effort is a diplomatic transcription of a single copy of the 1920 edition of *Paris* held at Washington University in St. Louis. While we aimed to follow the original text as closely as possible in our transcription, the website we created to display it also lifts the poem from the setting of each individual page, allowing it to be presented as continuous text that can be read on a variety of different devices, scaled up and down, copied and pasted, etc. We have created a number of options for viewing the text, which allow users to see the poem in different settings--as unbroken, scrolling text or as text on a page--and also provide options to view scholarly notes by Julia Briggs and contextual images from the period.[^9] We hope that this combination of views helps to highlight the tremendous amount of unseen, collaborative labor that went into the production of hand-printed, typographically and conceptually experimental texts like *Paris.* 
+In our approach to this project, we have explicitly viewed adaptation as a form of interpretation and collaboration. One of our main aims was to take robust digital tools and apply them to a small-scale project--to one very small book. We wanted to perform a kind of digitally assisted close reading and to re-mediate the poem in a way that aligned with the methods used to print it in the first place. The result of this effort is a diplomatic transcription of a single copy of the 1920 edition of *Paris* held at Washington University in St. Louis. While we aimed to follow the original text as closely as possible in our transcription, the website we created to display it also lifts the poem from the setting of each individual page, allowing it to be presented as continuous text that can be read on a variety of different devices, scaled up and down, copied and pasted, etc. We have created a number of options for viewing the text, which allow users to see the poem in different settings--as unbroken, scrolling text or as text on a page--and also provide options to view scholarly notes by Julia Briggs and contextual images from the period.[^5] We hope that this combination of views helps to highlight the tremendous amount of unseen, collaborative labor that went into the production of hand-printed, typographically and conceptually experimental texts like *Paris.* 
 
 {% include inline_image.html collection='paris-project-exhibition' pid='pci_166' %}
 
@@ -38,12 +38,4 @@ The question of how we see the texts we read, study, and teach is contingent upo
 
 [^4]: Julia Briggs, “Modernism’s Lost Hope: Virginia Woolf, Hope Mirrlees, and the Printing of Paris,” Reading Virginia Woolf (Edinburgh: Edinburgh University Press, 2006): 80; Brenda Silver, Virginia Woolf Icon (Chicago: University of Chicago Press, 1999): xi.
 
-[^5]: Two important models for us were The Modernist Journals Project and The Victorian Women Writers Project, which both offer XML transcriptions of printed works. For the Modernist Journals Project see modjourn.org and for The Victorian Women Writers Project see webapp1.dlib.indiana.edu/vwwp/welcome.do.
-
-[^6]: See, for example, the versions of another early Hogarth Press book, Monday or Tuesday, available on [HathiTrust](babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t05x2w944) and The Internet Archive (archive.org/details/cu31924013241066/page/n5).
-
-[^7]: See for example, page 11. How would this series of lines be most logically translated into line groups? Would it be based on variations in the vertical spacing? In the horizontal alignment? In typeface?
-
-[^8]: In the TEI guidelines, the element is defined as containing “a representation of some written source in the form of a set of images rather than as transcribed or encoded text.” See TEI Consortium, eds., “Facsimile,” [Guidelines for Electronic Text Encoding and Interchange](www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html.)
-
-[^9]: You can move between these formats by selecting different options at the top of the page.
+[^5]: You can move between these formats by selecting different options at the top of the page.
