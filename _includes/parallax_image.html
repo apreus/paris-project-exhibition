@@ -7,7 +7,7 @@
 
 {%- capture style -%}
   background-image: url('{{ image | absolute_url }}');
-  background-position: 45% {{ include.y | default: '100%' }};
+  background-position: 45% {{ include.y | default: '80%' }};
 
   {% if include.height %}
   height: {{ include.height }} !important;
