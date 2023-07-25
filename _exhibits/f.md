@@ -16,7 +16,7 @@ The Paris Project is a collaboratively created digital edition of Hope Mirrlees'
 [Jaleen Grove](https://www.risd.edu/academics/illustration/faculty/jaleen-grove)<br>
 [Ann Marie Jakubowski](https://english.wustl.edu/people/ann-marie-jakubowski)<br>
 [Douglas Knox](https://computing.artsci.wustl.edu/people/douglas-knox)<br>
-[Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)
+[Anwesha Kundu](https://www.centre.edu/about/faculty-staff/anwesha-kundu)<br>
 [Stephen Pentecost](https://computing.artsci.wustl.edu/node/13151)<br>
 [Sophie Levin](https://english.wustl.edu/people/sophie-levin)<br>
 [Melanie Walsh](https://melaniewalsh.org/)<br>
