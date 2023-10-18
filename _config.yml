@@ -102,7 +102,7 @@ menu:
   - label: 'The Poem'
     sub:
       - label: 'Digital Edition'
-        link: 'https://apreus.github.io/paris-project/content/paris_current.xml'
+        link: '/digital-edition/content/paris_current.xml'
       - label: 'Facsimile'
         link: 'https://apreus.github.io/paris-flipbook/'
   - label: 'Contexts'
