@@ -43,6 +43,7 @@ incremental: true
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
+    'Access-Control-Allow-Methods': '*'
 kramdown:
  auto_ids:       true
  footnote_nr:    1
