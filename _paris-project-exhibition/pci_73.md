@@ -5,7 +5,7 @@ object_type: contextual-images
 note: 175-77
 word_tag: P√®re Lachaise
 item: P√®re Lachaise person
-link: 'https://www.photo.rmn.fr/archive/12-545832-2C6NU08QYBH1.html '
+link: https://www.photo.rmn.fr/archive/12-545832-2C6NU08QYBH1.html
 notes: Copie d'un portrait peint par Pierre Simon connu par une gravure de Gantrel
   (1694) ; collection de Louis-Philippe au ch√¢teau d'Eu (n¬∞231) ; anciennement ovale,
   agrandi et mis au format rectangulaire avant 1850 ; achat de M. Toupey en 1851 √†
