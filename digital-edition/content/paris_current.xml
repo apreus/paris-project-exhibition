@@ -9,10 +9,14 @@
             <title>Paris</title>
          </titleStmt>
          <publicationStmt>
-            <p part="N">HOLD FOR INFORMATION ABOUT THIS PUBLICATION</p>
+            <p part="N">Diplomatic transcription of copy of first edition of Hope Mirrlees's Paris: A Poem held at the Washinton University in St. Louis Libraries. Originally published by the Hogarth Press in 1920. Transcription created by Anna Preus. Digital edition ©Melanie Micir and Anna Preus</p>
          </publicationStmt>
          <sourceDesc default="false">
-            <p part="N">HOLD FOR INFORMATION ABOUT THE SOURCE</p>
+            <bibl>
+               <title>Paris: A Poem</title>
+               <author>Hope Mirrlees</author>
+               <publisher>Hogarth Press</publisher>
+               <date>1920</date>. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -176,7 +180,6 @@
 
          <space type="whitespace" dim="vertical" unit="pts" quantity="177" resp="Grove"/>
 
-         <!--LANGUAGE: should this be lang. tagged as a group? remove "a"-->
          <div type="dedication" xml:id="g.1" part="N" org="uniform" sample="complete" xml:lang="fr"><l n="0.8" xml:id="l.0.8" part="N"><space
                type="alignL" dim="horizontal" unit="pts" quantity="115" resp="Grove"/>A</l><l n="0.9" xml:id="l.0.9" part="N"><space
                   type="alignL" dim="horizontal" unit="pts" quantity="56" resp="Grove"/><ref type="image"
@@ -250,7 +253,8 @@
 
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
 
-         <l n="12" xml:id="l.12" rendition="#justified" part="I">The Scarlet Woman shouting BYRRH and deafening</l>
+         <l n="12" xml:id="l.12" rendition="#justified" part="I">The Scarlet Woman shouting <ref type="image" target=
+            "img.701">BYRRH</ref> and deafening</l>
 
          <l n="13" xml:id="l.13" part="F"><corr rendition="#handwritten" resp="Woolf" instant="false">St.</corr> John at Patmos</l>
 
@@ -288,7 +292,7 @@
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
 
          <fw type="pageNum" rendition="#type(9 pt Old Style numeral)"><space type="alignL" dim="horizontal" unit="pts" quantity="104" resp="Grove"/>(3)</fw>
-         <space type="margin" dim="vertical" unit="pts" quantity="55" resp="Grove"/><!--MISSING MEASUREMENT-->
+         <space type="margin" dim="vertical" unit="pts" quantity="55" resp="Grove"/>
          <milestone unit="page" n="3"/>
          <milestone unit="spread" n="2"/>
 
@@ -320,7 +324,8 @@
 
          <l n="24" xml:id="l.24" rendition="#justified" part="M">play, are like the newly furled leaves of the horse<seg rendition="#fontsize7pt" part="N">-</seg></l>
 
-         <l n="25" xml:id="l.25" rendition="#justified" part="M">chestnuts ride round and round on wooden horses till</l>
+         <l n="25" xml:id="l.25" rendition="#justified" part="M">chestnuts ride round and round on <ref type="image" target=
+            "img.702">wooden horses till</ref></l>
 
          <l n="26" xml:id="l.26" part="F">their heads turn.</l>
 
@@ -468,7 +473,8 @@
             <foreign xml:lang="fr">Etoile</foreign></ref></l>
 
          <l n="61" xml:id="l.61" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="61" resp="Grove"/>The
-            <foreign xml:lang="fr">Bois</foreign> bores me<space
+            <foreign xml:lang="fr"><ref type="image" target=
+               "img.703">Bois</ref></foreign> bores me<space
                type="internal" dim="horizontal" unit="pts" quantity="1" resp="Grove"/>:</l>
 
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
@@ -476,7 +482,7 @@
          <fw type="pageNum" rendition="#type(9 pt Old Style numeral)"><space type="alignL" dim="horizontal" unit="pts" quantity="101" resp="Grove"/>(<space
                type="character" dim="horizontal" unit="pts" quantity="2.5" resp="Grove"/>5<space
                   type="character" dim="horizontal" unit="pts" quantity="2" resp="Grove"/>)</fw>
-         <space type="margin" dim="vertical" unit="pts" quantity="55" resp="Grove"/><!--MISSING MEASUREMENT-->
+         <space type="margin" dim="vertical" unit="pts" quantity="55" resp="Grove"/>
          <milestone unit="page" n="5"/>
          <milestone unit="spread" n="3"/>
 
@@ -607,7 +613,8 @@
          <l n="89" xml:id="l.90" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="41" resp="Grove"/>Children hung with amulets</l>
 
          <l n="90" xml:id="l.91" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="41" resp="Grove"/>Playing at
-            <foreign xml:lang="fr"><hi rendition="#italic">Pigeon vole</hi></foreign>,</l>
+            <foreign xml:lang="fr"><hi rendition="#italic"><ref type="image" target=
+               "img.713">Pigeon vole</ref></hi></foreign>,</l>
 
          <l n="91" xml:id="l.92" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="61" resp="Grove"/>Red roofs,</l>
 
@@ -697,8 +704,7 @@
 
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
 
-         <l n="114" xml:id="l.115" rendition="#justified" part="I">Did <ref type="image" target=
-            "img.177">Ingres</ref> paint a portrait of <ref type="image" target=
+         <l n="114" xml:id="l.115" rendition="#justified" part="I">Did Ingres paint a portrait of <ref type="image" target=
                "img.187">Madame Jacquemart</ref></l>
 
          <l n="115" xml:id="l.116" part="F">André?</l>
@@ -788,7 +794,8 @@
          <space type="leading" dim="vertical" unit="pts" quantity="19" resp="Grove"/>
 
          <l n="139" xml:id="l.140" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="60" resp="Grove"/><foreign
-               xml:lang="fr">LAIT SUPERIEUR</foreign></l>
+            xml:lang="fr"><ref type="image" target=
+               "img.704">LAIT SUPERIEUR</ref></foreign></l>
 
          <l n="140" xml:id="l.141" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="91" resp="Grove"/><foreign
                xml:lang="fr">DE LA</foreign></l>
@@ -799,10 +806,12 @@
          <space type="leading" dim="vertical" unit="pts" quantity="6" resp="Grove"/>
 
          <l n="142" xml:id="l.143" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="40" resp="Grove"/><foreign
-            xml:lang="fr" rendition="#fontsize11pt">ICI ON CONSULTE</foreign></l>
+            xml:lang="fr" rendition="#fontsize11pt"><ref type="image" target=
+               "img.714">ICI ON CONSULTE</ref></foreign></l>
 
          <l n="143" xml:id="l.144" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="60" resp="Grove"/><foreign
-            xml:lang="fr" rendition="#fontsize11pt">LE BOTTIN</foreign></l>
+            xml:lang="fr" rendition="#fontsize11pt"><ref type="image" target=
+               "img.714">LE BOTTIN</ref></foreign></l>
 
          <space type="leading" dim="vertical" unit="pts" quantity="8" resp="Grove"/>
 
@@ -815,7 +824,8 @@
 
          <space type="leading" dim="vertical" unit="pts" quantity="7" resp="Grove"/>
 
-         <l n="146" xml:id="l.147" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="81" resp="Grove"/><foreign xml:lang="fr">APERITIFS</foreign></l>
+         <l n="146" xml:id="l.147" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="81" resp="Grove"/><foreign xml:lang="fr"><ref type="image" target=
+            "img.705">APERITIFS</ref></foreign></l>
 
          <space type="leading" dim="vertical" unit="pts" quantity="7" resp="Grove"/>
 
@@ -836,7 +846,8 @@
 
          <l n="150" xml:id="l.151" part="N"><space
             type="alignL" dim="horizontal" unit="pts" quantity="50" resp="Grove"/><ref type="image" target=
-               "img.240">Little temples of Mercury</ref><space
+               "img.240">Little temples</ref> of <ref type="image" target=
+                  "img.706">Mercury</ref><space
                type="character" dim="horizontal" unit="pts" quantity="2" resp="Grove"/>;</l>
 
          <l n="151" xml:id="l.152" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="29" resp="Grove"/>The circumference of their
@@ -899,7 +910,8 @@
             <foreign xml:lang="fr"><ref type="image" target=
                "img.264">Nouveau Cirque</ref></foreign></l><!--LANGUAGE: place - should this be tagged-->
 
-         <l n="165" xml:id="l.167" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="70" resp="Grove"/>Cottin.<space
+         <l n="165" xml:id="l.167" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="70" resp="Grove"/><ref type="image" target=
+            "img.707">Cottin</ref>.<space
                type="character" dim="horizontal" unit="pts" quantity="3.5" resp="Grove"/>.<space
                   type="character" dim="horizontal" unit="pts" quantity="4" resp="Grove"/>.<space
                      type="character" dim="horizontal" unit="pts" quantity="3.5" resp="Grove"/>.</l>
@@ -1058,7 +1070,8 @@
             <foreign xml:lang="fr">premier danseur</foreign> in the Ballet Turque </l><!--LANGUAGE: ballet turque?-->
 
          <l n="206" xml:id="l.209" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="61" resp="Grove"/><foreign
-               xml:lang="fr">’Ya bon!</foreign></l><!--LANGUAGE: note slang?-->
+            xml:lang="fr"><ref type="image" target=
+               "img.708">’Ya bon!</ref></foreign></l><!--LANGUAGE: note slang?-->
 
          <l n="207" xml:id="l.210" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="61" resp="Grove"/><foreign
                xml:lang="fr">Mamamouchi</foreign></l><!--LANGUAGE: I think this is French fake Turkish? How note?-->
@@ -1304,10 +1317,12 @@
 
          <l n="278" xml:id="l.282" rendition="#justified" part="M">them in chalks, to be ‘<space
                type="character" dim="horizontal" unit="pts" quantity="0.5" resp="Grove"/>edited<space
-                  type="character" dim="horizontal" unit="pts" quantity="0.5" resp="Grove"/>’ in the Rue des Pyram<seg
+                  type="character" dim="horizontal" unit="pts" quantity="0.5" resp="Grove"/>’ in the <ref type="image" target=
+                     "img.709">Rue des Pyram</ref><seg
                      rendition="#fontsize7pt" part="N">-</seg></l><!--LANGUAGE: should Rue.. be tagged-->
 
-         <l n="279" xml:id="l.283" part="F">ides at 10 francs a copy.</l><!--LANGUAGE: tag 10 francs?-->
+         <l n="279" xml:id="l.283" part="F"><ref type="image" target=
+            "img.709">ides at 10 francs a copy.</ref></l><!--LANGUAGE: tag 10 francs?-->
 
          <space type="leading" dim="vertical" unit="pts" quantity="7" resp="Grove"/>
 
@@ -1371,7 +1386,8 @@
                "img.399">le Bon Marché</ref></foreign>, </l>
 
          <l n="295" xml:id="l.301" part="F"><seg rendition="#alignedR"><space type="alignL" dim="horizontal" unit="pts" quantity="157" resp="Grove"/><foreign
-               xml:lang="fr">la Samaritaine,</foreign></seg></l><!--LANGUAGE: proper nouns tagged correctly?-->
+            xml:lang="fr"><ref type="image" target=
+               "img.710">la Samaritaine</ref>,</foreign></seg></l><!--LANGUAGE: proper nouns tagged correctly?-->
 
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
 
@@ -1713,7 +1729,7 @@
          <space type="leading" dim="vertical" unit="pts" quantity="10" resp="Grove"/>
 
          <l n="377" xml:id="l.384" rendition="#justified" part="N">We went to Benediction in <ref type="image" target=
-            "img.522">Notre<seg
+            "img.711">Notre<seg
             rendition="#fontsize7pt" part="N">-</seg><space
                type="character" dim="horizontal" unit="pts" quantity="0.5" resp="Grove"/>Dame<seg
                   rendition="#fontsize7pt" part="N">-</seg>des<seg
@@ -2009,23 +2025,23 @@
          <space type="leading" dim="vertical" unit="pts" quantity="15" resp="Grove"/>
 
          <l n="446" xml:id="l.455" part="N"><space type="illustration" dim="horizontal" unit="pts" quantity="70" resp="Grove"/><ref type="image" target=
-            "img.613">*</ref></l>
+            "img.712">*</ref></l>
          <space type="leading" dim="vertical" unit="pts" quantity="6" resp="Grove"/>
          <l n="446" xml:id="l.456" part="N"><space type="illustration" dim="horizontal" unit="pts" quantity="91" resp="Grove"/><ref type="image" target=
-            "img.613">*</ref></l>
+            "img.712">*</ref></l>
          <space type="leading" dim="vertical" unit="pts" quantity="2" resp="Grove"/>
          <l n="446" xml:id="l.457" part="N"><space type="illustration" dim="horizontal" unit="pts" quantity="46" resp="Grove"/><ref type="image" target=
-            "img.613">*</ref></l>
+            "img.712">*</ref></l>
          <space type="leading" dim="vertical" unit="pts" quantity=".5" resp="Grove"/>
          <l n="446" xml:id="l.458" part="N"><space type="illustration" dim="horizontal" unit="pts" quantity="126" resp="Grove"/><ref type="image" target=
-            "img.613">*</ref><space
+            "img.712">*</ref><space
                type="illustration" dim="horizontal" unit="pts" quantity="44" resp="Grove"/><ref type="image" target=
-                  "img.613">*</ref></l>
+                  "img.712">*</ref></l>
          <space type="leading" dim="vertical" unit="pts" quantity="20.5" resp="Grove"/>
          <l n="446" xml:id="l.459" part="N"><space type="illustration" dim="horizontal" unit="pts" quantity="128" resp="Grove"/><ref type="image" target=
-            "img.613">*</ref><space
+            "img.712">*</ref><space
                type="illustration" dim="horizontal" unit="pts" quantity="40" resp="Grove"/><ref type="image" target=
-                  "img.613">*</ref></l>
+                  "img.712">*</ref></l>
          <space type="leading" dim="vertical" unit="pts" quantity="20" resp="Grove"/>
 
          <l n="447" xml:id="l.460" part="N"><seg rendition="#alignedR"><space type="alignL" dim="horizontal" unit="pts" quantity="145" resp="Grove"/>3 Rue de Beaune</seg></l><!--JUSTIFICATION-->
