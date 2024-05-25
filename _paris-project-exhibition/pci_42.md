@@ -5,15 +5,13 @@ object_type: contextual-images
 note: 34-39
 word_tag: Gambetta
 item: Gambetta monument
-link: https://regards.monuments-nationaux.fr/fr/asset-17038
+link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/monument-de-leon-gambetta-1838-1882-place-du-carrousel-1er-arrondissement-0#infos-principales
 notes: c.1900-1919
-rights: Wikimedia public domain
+rights: Creative commons 0
 selection: Which Gambetta monument?
-caption: Photograph of the monument to French statesman Leon Gambetta in the Cour
-  Napol√©on in the front of the mus√©e du Louvre, c.1900-19. Gambetta played a significant
-  role in the Franco-Prussian War (1870-71) and the founding of France's Third Republic
-  (1870-1940).
-order: '41'
+caption: Monument to French statesman Leon Gambetta in the Cour Napoléon in front
+  of the Louvre, pictured here c.1890.
+order: '13'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_42/full/250,/0/default.jpg"

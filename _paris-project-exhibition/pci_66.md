@@ -10,9 +10,9 @@ notes: 'Les √©l√©gances Parisiennes : publication officielle des Industrie
   de la mode 1916-1917'
 rights: Met public domain
 selection: Which veils?
-caption: 'Image of women in veils and mourning dresses from Les Elégances Parisiennes:
-  official publication of the French Fashion Industries, 1916-1917'
-order: '65'
+caption: Illustration of typical women's mourning dresses and veils published in Les
+  Elégances Parisiennes, c. 1917.
+order: '61'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_66/full/250,/0/default.jpg"

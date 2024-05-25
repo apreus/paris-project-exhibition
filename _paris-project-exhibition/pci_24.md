@@ -9,8 +9,9 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b90309415
 notes: 'Le Mus√©e du Louvre pendant la guerre: la Grande Galerie 24 mai 1918'
 rights: Gallica public domain
 selection: Which empty Louvre?
-caption: The Grande Galerie at the Louvre during the war on May 24, 1918
-order: '23'
+caption: The Grande Galerie of the Louvre was empty during the war, as pictured here
+  c. 1918.
+order: '31'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_24/full/250,/0/default.jpg"

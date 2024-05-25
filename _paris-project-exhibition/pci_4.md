@@ -13,8 +13,7 @@ rights: Not completely sure, but the image is at least from a legit French gover
   archive site as opposed to a random tumblr post. Here's a link to the permissions
   page that I haven't quite deciphered https://opendata.hauts-de-seine.fr/page/licences/
 selection: 
-caption: Poster advertising Lion Noir (Black Lion) shoe polish, c.1900. [Illustrated
-  by Louis M√©ry]
+caption: 'Poster advertising Lion Noir (Black Lion) shoe polish, c.1900. '
 order: '3'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

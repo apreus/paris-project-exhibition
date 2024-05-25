@@ -12,7 +12,7 @@ rights: Mus√©e carnavalet creative commons zero
 selection: 
 caption: Old house at the corner of rue de Polonceau and rue de la Goutte d'Or - View
   taken from rue de Jessaint, c. October 1905
-order: '10'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_11/full/250,/0/default.jpg"

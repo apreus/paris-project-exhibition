@@ -4,7 +4,7 @@ label: Portrait of Père Lachaise by Pierre Simon
 object_type: contextual-images
 note: 175-77
 word_tag: P√®re Lachaise
-item: P√®re Lachaise person
+item: Père Lachaise person
 link: https://www.photo.rmn.fr/archive/12-545832-2C6NU08QYBH1.html
 notes: Copie d'un portrait peint par Pierre Simon connu par une gravure de Gantrel
   (1694) ; collection de Louis-Philippe au ch√¢teau d'Eu (n¬∞231) ; anciennement ovale,
@@ -16,10 +16,8 @@ rights: "¬© RMN-GP (Ch√¢teau de Versailles) / ¬© G√©rard Blot ; Pour t
   commerciale ou √©ditoriale d'images des collections du Ch√¢teau et du domaine national
   de Versailles, contacter l'Agence photographique de la RMN : ; http://www.photo.rmn.fr/cf/htm/Search_New.aspx"
 selection: 
-caption: Copy of a portrait of Père Lachaise painted by Pierre Simon known from an
-  engraving by Gantrel (1694). From the collection of Louis-Philippe at the Château
-  d'Eu (n¬∞231). Deposited at the Louvre √† Versailles on December 22, 1928.
-order: '72'
+caption: Portrait of Père Lachaise based on an engraving by Pierre Simon.
+order: '54'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_73/full/250,/0/default.jpg"

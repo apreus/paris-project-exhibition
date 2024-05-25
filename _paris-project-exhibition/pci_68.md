@@ -10,8 +10,9 @@ notes: lots of pictures 1914-18 but not in color, here is a lithograph of the un
   from the 19th century Arm√©e fran√ßaise. - Zouaves.
 rights: Gallica public domain
 selection: Which Zouaves?
-caption: Lithograph of Zouave's uniforms from the 19th century Arm√©e fran√ßaise
-order: '67'
+caption: Lithograph of the blue and red Zouave uniform during the Second Empire, c.
+  1852-1870.
+order: '59'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_68/full/250,/0/default.jpg"

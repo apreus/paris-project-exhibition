@@ -10,9 +10,8 @@ notes: 1890 Affiche Le Grand Guignol √† 9h tous les soirs 20 rue Chaptal Jul
   Gr√ºn
 rights: Mus√©e Carnavalet creative commons zero
 selection: Which Grand Guignol poster?
-caption: Poster for the Grand Guignol theatre at 20 rue Chaptal by Jules-Alexandre
-  Grün, c. 1890
-order: '16'
+caption: Poster advertising the Grand Guignol theatre, c. 1890
+order: '38'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_17/full/250,/0/default.jpg"

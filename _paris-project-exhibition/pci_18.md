@@ -9,9 +9,8 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b53005804r
 notes: 18 janvier 1919 Conf√©rence de la Paix, M. Wilson [au quai d'Orsay]
 rights: 
 selection: Which Wilson?
-caption: 'Photo of Woodrow Wilson attending the Paris Peace Conference on January
-  18, 1919 '
-order: '17'
+caption: Woodrow Wilson pictured at the Paris Peace Conference on January 18, 1919.
+order: '37'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_18/full/250,/0/default.jpg"

@@ -9,9 +9,8 @@ link: https://commons.wikimedia.org/wiki/File:Enguerrand_Quarton,_La_Piet%C3%A0_
 notes: Enguerrand Quarton, La Piet√† de Villeneuve-l√®s-Avignon (c. 1455) Louvre
 rights: Wikimedia commons public domain
 selection: 
-caption: Pieta de Villeneuve les avignon by Enguerrand Quarton c. 1455 held by the
-  Louvre
-order: '22'
+caption: The Pietà de Villeneuve-lès-Avignon c.1450-75, held by the Louvre.
+order: '32'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_23/full/250,/0/default.jpg"

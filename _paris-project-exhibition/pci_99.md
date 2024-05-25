@@ -9,8 +9,8 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b53036855j
 notes: mars 1920 Taxis attendant les clients
 rights: SL
 selection: Which taxis?
-caption: Photo of a line of taxis waiting for clients in March, 1920
-order: '98'
+caption: Taxis waiting for customers, c. 1920
+order: '103'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_99/full/250,/0/default.jpg"

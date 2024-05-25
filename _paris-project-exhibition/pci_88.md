@@ -9,8 +9,8 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b9006003d
 notes: 1915 Banania y'a bon affiche
 rights: HOLD
 selection: 
-caption: Advertisement for Banania, a popular chocolate drink, from 1915
-order: '87'
+caption: Poster advertising Banania, a popular chocolate drink, c. 1915.
+order: '60'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_88/full/250,/0/default.jpg"

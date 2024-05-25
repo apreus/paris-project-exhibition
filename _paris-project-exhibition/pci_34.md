@@ -1,6 +1,6 @@
 ---
 pid: pci_34
-label: Portrait of Juliette R√©camier by Jacques-Louis David
+label: Portrait of Juliette Récamier by Jacques-Louis David
 object_type: contextual-images
 note: 64-65
 word_tag: Madame R√©camiers
@@ -11,9 +11,9 @@ rights: This work is in the public domain in its country of origin and other cou
   and areas where the copyright term is the author's life plus 100 years or fewer.
 selection: 
 caption: Jacques-Louis David's 1800 painting Portait of Madame Recamier, held by the
-  Louvre. Juliette Recamier hosted a leading salon of early nineteenth century Paris,
-  regularly attended by such literary stars as Chateaubriand.
-order: '33'
+  Louvre. Juliette Recamier hosted one of the leading salons of early nineteenth century
+  Paris.
+order: '20'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_34/full/250,/0/default.jpg"

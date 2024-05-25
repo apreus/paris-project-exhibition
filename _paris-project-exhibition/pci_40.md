@@ -10,11 +10,9 @@ notes: Francisco Goya, The White Duchess (1795) Liria Palace, Collection of the 
   of Alba, Spain.
 rights: Wikimedia commons
 selection: 
-caption: Francisco Goya's 1795 painting The White Duchess, held by the Liria Palace
-  in Spain. Goya painted Mar√≠a Cayetana de Silva, 13th Duchess of Alba, on several
-  occasions, including in The Black Duchess (1797), which depicts the duchess in morning
-  following her husband's death.
-order: '39'
+caption: Francisco Goya's 1795 painting The White Duchess depicts María Cayetana de
+  Silva, 13th Duchess of Alba, and is held by the Liria Palace in Madrid.
+order: '14'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_40/full/250,/0/default.jpg"

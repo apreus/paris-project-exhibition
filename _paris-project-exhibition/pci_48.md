@@ -10,9 +10,9 @@ notes: 1898 Eug√®ne Atget Cochers et bouquinistes, quai Voltaire, 7√®me ar
   Paris
 rights: Mus√©e carnavalet creative commons zero
 selection: Which bouqinistes?
-caption: Coachmen and booksellers at Quai Voltaire, 7th arrondissement, Eugène Atget
-  c. 1898
-order: '47'
+caption: Photograph of bouquinistes selling their wares at Quai Voltaire in the 7th
+  arrondissement by Eugène Atget, c. 1898.
+order: '102'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_48/full/250,/0/default.jpg"

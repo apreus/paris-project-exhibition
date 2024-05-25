@@ -9,9 +9,9 @@ link: https://gallica.bnf.fr/ark:/12148/bpt6k572879j
 notes: Newspaper headline a few weeks after Landru's 1919 arrest
 rights: Gallica public domain
 selection: Which Landru image?  (1919)
-caption: Newspaper article about murderer Henri Landru a few weeks afte rhis arrest
-  in 1919
-order: '89'
+caption: Newspaper article about the trial of serial killer Henri Landru following
+  his arrest, c. 1919.
+order: '48'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_90/full/250,/0/default.jpg"

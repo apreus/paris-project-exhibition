@@ -9,8 +9,8 @@ link: https://commons.wikimedia.org/wiki/Category:Historical_photographs_of_the_
 notes: aerial view C 1909
 rights: 
 selection: 
-caption: Aerial photograph of he Louvre and gardens, c. 1909
-order: '79'
+caption: Aerial photograph of the Louvre and gardens, c. 1909
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_80/full/250,/0/default.jpg"

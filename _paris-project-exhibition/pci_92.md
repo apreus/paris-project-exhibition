@@ -10,9 +10,8 @@ notes: Mourning clothes including veil on the cover of Le Petit √©cho de la m
   octobre 1918
 rights: 
 selection: Which veils?
-caption: Illustration of mourning clothes on the cover of Le Petit √©cho de la mode
-  from October 27, 1918
-order: '91'
+caption: Illustration of mourning clothes on the cover of a women's magazine, c.1918.
+order: ADD?
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_92/full/250,/0/default.jpg"

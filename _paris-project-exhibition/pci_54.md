@@ -10,9 +10,9 @@ notes: 1915 Diff√©rentes affiches de la journ√©e du poilu du 25 & 26 d√�
   sur un panneau, place des Pyramides √† Paris
 rights: Gallica public domain
 selection: 
-caption: Posters for la journée du poilu on December 25 & 26, place des Pyramides,
-  c. 1915
-order: '53'
+caption: Posters for la journée du poilu on December 25 & 26, Place des Pyramides,
+  c. 1915.
+order: '68'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_54/full/250,/0/default.jpg"

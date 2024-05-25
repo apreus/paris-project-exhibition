@@ -10,8 +10,8 @@ notes: c. 1920-1935 Branger, Maurice-Louis (1874-1950) Palais du Louvre Cour car
 rights: Minist√®re de la Culture (France), M√©diath√®que de l'architecture et du patrimoine,
   diffusion RMN-GP
 selection: Which Louvre exterior?
-caption: Photo of the Louvre and courtyard, c. 1920-1935
-order: '83'
+caption: Photo of the Louvre and courtyard by Maurice-Louis Branger, c. 1920-1935
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_84/full/250,/0/default.jpg"

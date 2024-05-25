@@ -9,11 +9,10 @@ link: https://commons.wikimedia.org/wiki/File:Anne-Louis_Girodet-Trioson_006.jpg
 notes: C 1808
 rights: 
 selection: 
-caption: Anne-Louis Girodet-Trioson's c.1808 painting Chateaubriand Meditating on
+caption: 'Anne-Louis Girodet-Trioson''s c.1808 painting Chateaubriand Meditating on
   the Ruins of Rome, held by the Museum of the History of the Town and the Pays Malouin
-  in Chateaubriand's birthplace of Saint-Malo, Brittany. Chateaubriand was a famous
-  writer and statesman in nineteenth century France.
-order: '32'
+  in Chateaubriand''s birthplace of Saint-Malo, Brittany. '
+order: '21'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_33/full/250,/0/default.jpg"

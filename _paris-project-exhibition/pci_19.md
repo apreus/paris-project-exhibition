@@ -9,8 +9,8 @@ link: https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Sim%C3%A9on_Chardin_
 notes: J.B.S. Chardin most famous painting in my opinion, held by the Louvre
 rights: Wikimedia commons public domain
 selection: 
-caption: The Ray by Jean Siméon Chardin c. 1728, held by the Louvre
-order: '18'
+caption: Jean Siméon Chardin's The Ray c.1728, held by the Louvre.
+order: '36'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_19/full/250,/0/default.jpg"

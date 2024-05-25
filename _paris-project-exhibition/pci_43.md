@@ -9,8 +9,8 @@ link: https://www.parismuseescollections.paris.fr/fr/node/765792
 notes: Cour de l‚Äôh√¥pital de la Maternit√©, Port-Royal, 14√®me arrondissement, Paris
 rights: Mus√©e carnavalet creative commons zero
 selection: Which Port-Royal?
-caption: Courtyard of the Maternity Hospital, Port-Royal, 14√®me arrondissement
-order: '42'
+caption: Courtyard of the Port-Royal Maternity Hospital in the 14th arrondissement.
+order: '109'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_43/full/250,/0/default.jpg"

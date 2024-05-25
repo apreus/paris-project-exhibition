@@ -10,9 +10,8 @@ notes: mai 1915 Bois-Sabot [vue d'un champ de bataille dans la Marne, entre Soua
   et Perthes]
 rights: Gallica public domain
 selection: Which Marne?
-caption: May 1915 Bois-Sabot [view of a battlefield in the Marne, between Souain and
-  Perthes]
-order: '68'
+caption: Photograph of a field in the area detroyed by the Battle of the Marne, c.1915
+order: '57'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_69/full/250,/0/default.jpg"

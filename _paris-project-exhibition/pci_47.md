@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: German tank in the Place de la Concorde on October 20, 1918, exhibited for
   the loan of the liberation
-order: '46'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_47/full/250,/0/default.jpg"

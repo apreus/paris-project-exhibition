@@ -11,9 +11,8 @@ notes: I am pretty sure this is the "scarlet lady" Byrrh poster that the poem is
 rights: Could not find it in the public domain anywhere. The link is a site where
   you can buy a download for under $10, but not sure how that works with usage.
 selection: 
-caption: Poster advertising Byrrh wine-based ap√©ritif, c.1909. [Illustrated by Jules
-  Alexandre Gr√ºn.]
-order: '6'
+caption: Poster advertising Byrrh apéritif, c.1909.
+order: '7'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_7/full/250,/0/default.jpg"

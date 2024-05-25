@@ -10,9 +10,9 @@ notes: Duncan Grant painting of Marjorie Strachey after reading Crime and Punish
   Originally titled Despair. 1909
 rights: No idea
 selection: 
-caption: Portrait of Marjorie Strachey after reading Crime and Punishment, originally
-  titled Despair, by Duncan Grant, c. 1909
-order: '93'
+caption: Portrait of Marjorie Strachey after reading Crime and Punishment by Duncan
+  Grant, c. 1909.
+order: '110'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_94/full/250,/0/default.jpg"

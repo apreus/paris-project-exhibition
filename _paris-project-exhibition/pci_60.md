@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of a banner honoring soldiers on the Rue du Faubourg Poissonnière on
   13 juillet 1919
-order: '59'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_60/full/250,/0/default.jpg"

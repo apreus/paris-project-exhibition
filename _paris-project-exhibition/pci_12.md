@@ -10,9 +10,8 @@ notes: Urinoir avec √©cran √©lev√© √† une stalle en ma√ßonnerie,
   arrondissement, Paris.  Marville, Charles photographe c.1858-78
 rights: Mus√©e carnavalet creative commons zero
 selection: Which pissoir?
-caption: Urinal with a raised screen in a masonry stall in the square des Batignolles,
-  17th arrondissement, Paris, c. 1858-78
-order: '11'
+caption: A "pissoir" or "urinoir" (urinal) in the 17th arrondissement, c. 1858-78.
+order: '46'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_12/full/250,/0/default.jpg"

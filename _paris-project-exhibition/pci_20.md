@@ -9,9 +9,9 @@ link: https://commons.wikimedia.org/wiki/File:Minerve_chassant_les_Vices_du_jard
 notes: Andrea Mantegna Minerve chassant les Vices du jardin des Vertus c.1502
 rights: Wikimedia commons public domain
 selection: 
-caption: Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of
-  Virtue) by Mantegna c. 1502, held by the Louvre
-order: '19'
+caption: Mantegna's Triumph of the Virtues (or Minerva Expelling the Vices from the
+  Garden of Virtue) c.1502, held by the Louvre.
+order: '35'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_20/full/250,/0/default.jpg"

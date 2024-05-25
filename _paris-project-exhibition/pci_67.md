@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of a Zouave examining a German trench through a telescope from September
   1915
-order: '66'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_67/full/250,/0/default.jpg"

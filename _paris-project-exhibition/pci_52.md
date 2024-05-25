@@ -11,7 +11,7 @@ notes: Anonymous, Prise de la Bastille, 14 juillet 1789. Versailles. For more se
 rights: Wikimedia commons
 selection: 
 caption: Anonymous painting of the Storming of the Bastille, July 14, 1789 at Versailles
-order: '51'
+order: '70'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_52/full/250,/0/default.jpg"

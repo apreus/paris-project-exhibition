@@ -11,11 +11,9 @@ rights: wikimedia This work is in the public domain in its country of origin and
   countries and areas where the copyright term is the author's life plus 100 years
   or fewer.
 selection: 
-caption: N√©lie Jacquemart (1841-1912) was an art patron, collector, and painter in
-  her own right. This c.1880 self portrait is held by the Mus√©e Jacquemart-Andr√©e,
-  which was established following N√©lie Jacquemart's death in her and husband √âdouard
-  Andr√©'s former home on the Boulevard Haussman.
-order: '24'
+caption: Nélie Jacquemart's self portrait c.1880, currently held by the Jacquemart-André
+  museum in her former home on the Boulevard Haussman.
+order: '30'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_25/full/250,/0/default.jpg"

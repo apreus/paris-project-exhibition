@@ -10,7 +10,7 @@ notes: 14 juillet 1914 Le Charmeur d'oiseaux aux Tuileries
 rights: Gallica public domain
 selection: 
 caption: 'The Bird Charmer at the Tuileries, July 14, 1914 '
-order: '44'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_45/full/250,/0/default.jpg"

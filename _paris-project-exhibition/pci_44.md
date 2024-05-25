@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: German helmets at the Tuileries gardens, trophees of the campaign for the
   "Liberation Loan", October 20, 1918
-order: '43'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_44/full/250,/0/default.jpg"

@@ -9,9 +9,9 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b10516647g
 notes: c.  1908-1922 Eug√®ne Atget Tuileries - Jardin de Robespierre
 rights: Gallica public domain
 selection: 
-caption: Photo of sphinx statue in the tuileries gardens in the Jardin de Robespierre.
-  By Eugène Atget, c.  1908-1922
-order: '57'
+caption: Photograph of the famous sphinx statue in the Tuileries by Eugène Atget,
+  c.1908-1922.
+order: '67'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_58/full/250,/0/default.jpg"

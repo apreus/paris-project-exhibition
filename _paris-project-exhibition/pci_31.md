@@ -11,7 +11,7 @@ rights: Gallica public domain
 selection: 
 caption: This photograph depicts a hot-chestnut seller (vendeur des marrons-chauds)
   on the streets of Paris, c.1908.
-order: '30'
+order: '23'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_31/full/250,/0/default.jpg"

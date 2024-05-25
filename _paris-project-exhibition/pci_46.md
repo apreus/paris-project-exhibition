@@ -9,8 +9,8 @@ link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/et
 notes: 1898 Eug√®ne Atget Les Halles
 rights: Mus√©e Carnavalet creative commons zero
 selection: Which les Halles?
-caption: Photo of stand in Les Halles by Eugène Atget, c. 1898
-order: '45'
+caption: Photograph of a fish stand in Les Halles by Eugène Atget, c. 1898.
+order: '111'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_46/full/250,/0/default.jpg"

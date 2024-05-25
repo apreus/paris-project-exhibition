@@ -10,9 +10,8 @@ notes: '1900 Absinthe extra-sup√©rieure J. Edouard Pernot : [affiche] / [Leon
   Cappiello]'
 rights: Gallica public domain
 selection: Which Absinthe?
-caption: Advertisement for Absinthe extra-superior J. Edouard Pernot, by Leonetto
-  Cappiello, c. 1900
-order: '96'
+caption: Advertisement for Absinthe extra-superior J. Edouard Pernot, c. 1900.
+order: '107'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_97/full/250,/0/default.jpg"

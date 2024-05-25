@@ -4,7 +4,7 @@ label: Remembrance of Civil War by Ernest Messonier
 object_type: contextual-images
 note: 290-93
 word_tag: Massacres des Jours de Juin
-item: Les journ√©es de juin
+item: Les journées de juin
 link: https://commons.wikimedia.org/wiki/File:Meissonier_Barricade.jpg
 notes: Ernest MEISSONIER (Lyon, 1815 - Poissy, 1891) ; The Barricade, Rue de la Mortellerie,
   June 1848, also known as Remembrance of Civil War. Louvre. For more see the Louvre
@@ -13,7 +13,7 @@ rights: Wikimedia commons
 selection: 
 caption: The Barricade, Rue de la Mortellerie, June 1848,  or Remembrance of Civil
   War by Ernest Messonierv
-order: '52'
+order: '69'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_53/full/250,/0/default.jpg"

@@ -11,7 +11,7 @@ rights: wikimedia commons public domain
 selection: 
 caption: Illustration of the constellation ursa major, engraved by Sidney Hall, c.
   1825
-order: '92'
+order: '112'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_93/full/250,/0/default.jpg"

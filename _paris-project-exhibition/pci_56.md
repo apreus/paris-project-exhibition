@@ -11,7 +11,7 @@ notes: Notre Dame during the war years ; 1918 Portail de Notre-Dame, portail Sai
 rights: Mus√©e carnavalet creative commons zero
 selection: 
 caption: Photo of a door of Notre-Dame during wartime, covered with bags, c. 1918
-order: '55'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_56/full/250,/0/default.jpg"

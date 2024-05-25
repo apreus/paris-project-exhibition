@@ -11,7 +11,7 @@ notes: Jacques-Louis David Le Serment du Jeu de paume, 20 juin 1789 (esquisse) (
 rights: Wikimedia commons
 selection: 
 caption: The Jeu de Paume Oath by Jacques-Louis David, c. 1790 - 1792
-order: '50'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_51/full/250,/0/default.jpg"

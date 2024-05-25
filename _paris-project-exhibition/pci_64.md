@@ -10,7 +10,7 @@ notes: '1er mai 1909 [la foule] : Manifestation'
 rights: Gallica public domain
 selection: Which first of May?
 caption: Photo of striking workers on May 1, 1909
-order: '63'
+order: '62'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_64/full/250,/0/default.jpg"

@@ -10,8 +10,8 @@ notes: Portrait du po√®te Paul Marie Verlaine (1844-1896) au "Caf√© Fran�
   69 boulevard Saint-Michel, 5√®me arrondissement, Paris.
 rights: Mus√©e carnavalet creative commons zero
 selection: 
-caption: Portrait of the poet Paul Marie Verlaine at the "Caf√© Fran√ßois 1er"
-order: '97'
+caption: Paul Verlaine at the Café François 1er in the 5th arrondissement, c. 1890-96.
+order: '106'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_98/full/250,/0/default.jpg"

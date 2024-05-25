@@ -10,7 +10,7 @@ notes: Nouveau plan du M√©tropolitain et du Nord-Sud de Paris. 1914.
 rights: Paris Biblioth√®ques Consultable sans restrictions domaine public
 selection: 
 caption: Map of the Nord-Sude metro line, 1914
-order: '54'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_55/full/250,/0/default.jpg"

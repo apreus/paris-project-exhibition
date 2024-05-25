@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: 'Article from Life in the great outdoors: an illustrated review of all sports
   about Captain Judge and his trained seals seals, from September 22, 1901'
-order: '76'
+order: '49'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_77/full/250,/0/default.jpg"

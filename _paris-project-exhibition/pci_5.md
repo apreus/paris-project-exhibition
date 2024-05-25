@@ -11,7 +11,7 @@ rights: Not completely sure, but the image is from a legitimate government museu
   archive site from the Netherlands. Source ; RA/00045 (affiche), 150 jaar Nederlandse
   reclame, ReclameArsenaal ; Copyright ; for information contact ReclameArsenaal
 selection: Which Cacao Blooker?
-caption: Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910
+caption: Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910.
 order: '4'
 layout: paris-project-exhibition
 collection: paris-project-exhibition

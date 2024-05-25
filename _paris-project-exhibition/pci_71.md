@@ -11,9 +11,9 @@ notes: 'Monument with inscription Mort au champ d''honneur example (it''s possib
   aux acteurs morts au Champ d‚ÄôHonneur 21 avril 1922'
 rights: Gallica public domain
 selection: 
-caption: Photo of a monument with the inscription "Mort au champ d'honneur" from April
-  21, 1922
-order: '70'
+caption: World War I monument by sculptor Auguste Maillard with the inscription "Mort
+  au champ d'honneur" (Dead on the field of honor).
+order: '56'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_71/full/250,/0/default.jpg"

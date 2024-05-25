@@ -9,8 +9,9 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b9030968t
 notes: 'Le Mus√©e du Louvre pendant la guerre : la salle Rubens 24 mai 1918'
 rights: Gallica public domain
 selection: Which empty Louvre?
-caption: Photo of an empty gallery in the Louvre, salle Rubens, on May 24, 1918
-order: '90'
+caption: 'Photograph of an empty gallery in the Louvre, c. 1918. During the war, paintings
+  were removed from galleries stored underground for their safety. '
+order: ADD?
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_91/full/250,/0/default.jpg"

@@ -12,9 +12,8 @@ notes: This image from the Ligne 12 twitter feed is the only one I could find of
   renamed Assembl√© Nationale in 1990.
 rights: 
 selection: 
-caption: Photograph of the platform of the Chambre des D√©put√©s Station on the Nord-Sud
-  line (date?)
-order: '5'
+caption: Platform of the Chambre des Députés Station on the Nord-Sud metro line.
+order: '6'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_6/full/250,/0/default.jpg"

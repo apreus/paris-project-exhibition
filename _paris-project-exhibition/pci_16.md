@@ -9,8 +9,8 @@ link: https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001887926
 notes: Photo of butcher shop at 7, rue des Charbonniers in 1913
 rights: 
 selection: 
-caption: Photo of butcher shop at 7, rue des Charbonniers in 1913
-order: '15'
+caption: Paris butcher shop with sign reading "Charcuterie Comestibles," c.1913
+order: '41'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_16/full/250,/0/default.jpg"

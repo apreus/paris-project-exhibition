@@ -9,9 +9,9 @@ link: https://gallica.bnf.fr/ark:/12148/btv1b90327999
 notes: 26 ao√ªt 1919 M. Poincar√© re√ßoit un bouquet de fleurs d'une jeune veuve
 rights: Gallica public domain
 selection: 
-caption: Photo of Raymond Poincaré, President of France, receiving a boquet of flowers
-  from a young widow on August 26, 1919
-order: '64'
+caption: Photograph of President Raymond Poincaré receiving a boquet of flowers from
+  a young widow, c. 1919
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_65/full/250,/0/default.jpg"

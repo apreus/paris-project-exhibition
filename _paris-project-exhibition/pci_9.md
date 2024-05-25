@@ -13,10 +13,8 @@ rights: Droits Reproduction r√©serv√©e √† un usage strictement priv√
   la source obligatoire. Source Ville de Paris / BHVP
 selection: 
 caption: The Tuileries are a large public garden in between the Place de la Concorde
-  and the Louvre on the right bank of Paris. This aerial photograph of the Jardin
-  des Tuileries contains one of the garden's several decorative fountains and shows
-  the left bank in the background on the other side of the Seine, c.1878.
-order: '8'
+  and the Louvre on the right bank, pictured c.1878.
+order: '9'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_9/full/250,/0/default.jpg"

@@ -5,7 +5,7 @@ layout: none
   {
     "pid": "pci_1",
     "label": "Photo of Paris's Notre Dame Cathedral",
-    "caption": "Photo of Paris's Notre Dame Cathedral in 1912, located on the Ile de la Cite in the Seine between Paris's right and left banks, is one of the city's oldest and most recognizable landmarks. This photo was taken in May 1912.",
+    "caption": "Notre Dame Cathedral located on the Île de la Cite, c.1912.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_1/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_1",
@@ -14,7 +14,7 @@ layout: none
   {
     "pid": "pci_10",
     "label": "The Embarkation for Cythera by Antoine Wasseau",
-    "caption": "Antoine Wasseau's 1717 painting P√©lerinage √† l'√Æle de Cyth√®re, dit L'Embarquement pour Cyth√®re  (Pilgrimage to Cythera, so-called The Embarkation for Cythera), held by the Louvre. The painting depicts a large party of couples departing--or according to some interpretations, returning--from Cytheria, Venus's island of love.",
+    "caption": "Antoine Wasseau's 1717 painting, held by the Louvre, depicts a large party of couples departing for Cytheria, Venus's island of love.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_10/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_10",
@@ -23,7 +23,7 @@ layout: none
   {
     "pid": "pci_100",
     "label": "Photo of horse and carriage",
-    "caption": "Photo of a horse and carriage by Eugène Atget, c. 1910",
+    "caption": "Photograph of a typical fiacre (horse-drawn carriage) by Eugène Atget, c. 1910.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_100/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_100",
@@ -32,7 +32,7 @@ layout: none
   {
     "pid": "pci_101",
     "label": "Photo of Mistinguett (performer at the Moulin Rouge)",
-    "caption": "Photo of Mistinguett, performer at the Moulin Rouge and other Paris nightclubs",
+    "caption": null,
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_101/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_101",
@@ -40,8 +40,8 @@ layout: none
   },
   {
     "pid": "pci_102",
-    "label": "Photo of Pont Solf√©rino",
-    "caption": "Photo of Pont Solf√©rino in 1929",
+    "label": "Photo of Pont Solférino",
+    "caption": "Photograph of Pont Solférino, c. 1929.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_102/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_102",
@@ -50,7 +50,7 @@ layout: none
   {
     "pid": "pci_103",
     "label": "Photo of the Petit-Palais",
-    "caption": "Photo of the Petit-Palais",
+    "caption": "Photograph of the Petit-Palais, c. 1920-1935.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_103/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_103",
@@ -59,7 +59,7 @@ layout: none
   {
     "pid": "pci_104",
     "label": "Front page of La Presse on 8 May 1919",
-    "caption": "Front page of newspaper La Presse on 8 May, 1919",
+    "caption": "Front page of Paris newspaper La Presse on May 2, 1919. The newspaper did not publish an issue the previous day due to the general strike (la grève).",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_104/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_104",
@@ -68,7 +68,7 @@ layout: none
   {
     "pid": "pci_105",
     "label": "Front page of La Liberté on 8 May 1919",
-    "caption": "Front page of newspaper La Liberté on 8 May, 1919",
+    "caption": "Front page of Paris newspaper La Liberté on May 2, 1919. The newspaper did not publish an issue the previous day due to the general strike (la grève).",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_105/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_105",
@@ -77,7 +77,7 @@ layout: none
   {
     "pid": "pci_106",
     "label": "Portrait of La Comtesse de Lafayette (1634-1693)",
-    "caption": "Portrait of Marie-Madeleine Pioche de La Vergne, comtesse de La Fayette from the book \"Iconography French or choice of two hundred portraits of men and women, c. 1840",
+    "caption": "Portrait of Madame de La Fayette after an engraving by Étienne-Jehandier Desrochers, c. 1840",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_106/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_106",
@@ -86,7 +86,7 @@ layout: none
   {
     "pid": "pci_107",
     "label": "Flier for the 1908 Salon d'Automne",
-    "caption": "Flier for the annual Salon d'Automne at the Grand Palais des Champs-Elys√©es from October 1 to November 8, 1908, illustrated by Dethomas, Maxime",
+    "caption": "Flier for the annual Salon d'Automne at the Grand Palais des Champs-Elysées, c. 1908. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_107/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_107",
@@ -94,8 +94,8 @@ layout: none
   },
   {
     "pid": "pci_108",
-    "label": "Portrait of Fran√ßois VI duc de La Rochefoucauld",
-    "caption": "Portrait of Fran√ßois VI, duc de La Rochefoucauld by Theodore Chasseriau",
+    "label": "Portrait of François VI duc de La Rochefoucauld",
+    "caption": "Portrait of François VI, duc de La Rochefoucauld by Theodore Chasseriau, c. 1836.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_108/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_108",
@@ -104,7 +104,7 @@ layout: none
   {
     "pid": "pci_109",
     "label": "Portrait of Ad√®le Hugo n√©e Foucher",
-    "caption": "Portrait of Ad√®le Hugo n√©e Foucher by Louis Boulanger, c. 1839",
+    "caption": "Portrait of Adèle Hugo née Foucher by Louis Boulanger, c. 1839.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_109/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_109",
@@ -122,7 +122,7 @@ layout: none
   {
     "pid": "pci_110",
     "label": "Photo of Charles-Augustin Sainte-Beuve",
-    "caption": "Photo of Charles-Augustin Sainte-Beuve by Charles-Albert d'Arnoux Bertall, c. 1860s",
+    "caption": "Photograph of Charles-Augustin Sainte-Beuve by Charles-Albert d'Arnoux Bertall, c. 1860-70.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_110/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_110",
@@ -131,7 +131,7 @@ layout: none
   {
     "pid": "pci_111",
     "label": "Photo of Avenue des Champs-Elysées",
-    "caption": "Photo of Avenue des Champs-Élysées from the top of the Arc de Triomphe de l'Etoile by George Rose, c. 1912",
+    "caption": "Avenue des Champs-Élysées seen from the top of the Arc de Triomphe, c. 1912.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_111/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_111",
@@ -140,7 +140,7 @@ layout: none
   {
     "pid": "pci_112",
     "label": "Plaque marking the location of François-René de Chateaubriand's death",
-    "caption": "Plaque marking the location of François-René de Chateaubriand's death",
+    "caption": "Plaque marking the location of Chateaubriand's death.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_112/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_112",
@@ -149,7 +149,7 @@ layout: none
   {
     "pid": "pci_113",
     "label": "Plaque marking the location of Voltaire's death",
-    "caption": "Plaque marking the location of Voltaire's death",
+    "caption": "Plaque marking the location of Voltaire's death.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_113/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_113",
@@ -158,7 +158,7 @@ layout: none
   {
     "pid": "pci_114",
     "label": "Plaque marking the location of Molière's death",
-    "caption": "Plaque marking the location of Molière's death",
+    "caption": "Plaque marking the location of Molière's death.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_114/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_114",
@@ -167,7 +167,7 @@ layout: none
   {
     "pid": "pci_115",
     "label": "Photo of Nusch and Paul Eluard by Man Ray",
-    "caption": "Photo of Nusch and Paul Eluard, Impasse des Deux-Anges, by Man Ray, c. 2934",
+    "caption": "Paul Eluard and his wife Nusch at the Impasse des Deux-Anges in the 6th arrondissement photographed by Man Ray, c. 1934",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_115/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_115",
@@ -176,7 +176,7 @@ layout: none
   {
     "pid": "pci_116",
     "label": "Photo of l'Eglise Saint-Thomas-d'Aquin",
-    "caption": "Photo of the l'eglise Saint Thomas d'Aquin, c. 1920-1935",
+    "caption": "The Église Saint Thomas d'Aquin in the 7th arrondissement, c. 1920-1935",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_116/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_116",
@@ -185,7 +185,7 @@ layout: none
   {
     "pid": "pci_117",
     "label": "Photo of place des Vosges (home of Victor Hugo)",
-    "caption": "Photo of Place des Vosges, home of Victor Hugo, in December 18, 1916.",
+    "caption": "The Place des Vosges in the 4th arrondissement, c. 1916.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_117/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_117",
@@ -194,7 +194,7 @@ layout: none
   {
     "pid": "pci_118",
     "label": "Photo of Hôtel d'Auterive (former)",
-    "caption": "Photo of Hôtel d'Auterive (or Hôtel de Saint-Simon) √éle-de-France At  3 rue de Beaune by Eugène Atget",
+    "caption": "The Hôtel de l'Élysée at 3 rue de Beaune photographed by Eugène Atget, c. 1909",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_118/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_118",
@@ -203,7 +203,7 @@ layout: none
   {
     "pid": "pci_119",
     "label": "Photo of Paris's Hôtel de Ville in 1913",
-    "caption": "Photo of the Hôtel de Ville in 1913",
+    "caption": "Hôtel de Ville viewed from the Left Bank of the Seine, c. 1913.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_119/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_119",
@@ -212,7 +212,7 @@ layout: none
   {
     "pid": "pci_12",
     "label": "Photo of urinal in square des Batignolles",
-    "caption": "Urinal with a raised screen in a masonry stall in the square des Batignolles, 17th arrondissement, Paris, c. 1858-78",
+    "caption": "A \"pissoir\" or \"urinoir\" (urinal) in the 17th arrondissement, c. 1858-78.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_12/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_12",
@@ -221,7 +221,7 @@ layout: none
   {
     "pid": "pci_120",
     "label": "Photo of gardens at the Palais Royal from 1912",
-    "caption": "Photo of the gardens at the Palais Royal from 20 October, 1912",
+    "caption": "The gardens at the Palais Royal, c. 1912.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_120/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_120",
@@ -230,7 +230,7 @@ layout: none
   {
     "pid": "pci_121",
     "label": "Photo of front entrance of the Ritz Hotel",
-    "caption": "Photo of the front entrance of the Ritz Hotel in 1926",
+    "caption": "Front entrance of the Ritz Hotel, c.1926.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_121/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_121",
@@ -239,7 +239,7 @@ layout: none
   {
     "pid": "pci_122",
     "label": "Photo of the Louvre by Maurice-Louis Branger",
-    "caption": "Photo of the Louvre by Maurice-Louis Branger, c. 1920-1935",
+    "caption": "Louvre museum exterior photographed by Maurice-Louis Branger, c. 1920-1935.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_122/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_122",
@@ -248,7 +248,7 @@ layout: none
   {
     "pid": "pci_123",
     "label": "Photo of a shop window displaying first communion dresses",
-    "caption": "Photo of shop window displaying first communion dresses, likely Le Printemps store, boulevard Haussmann, 9√®me arrondissement, Paris",
+    "caption": "Window display of communion dresses at Printemps department store, c. 1928.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_123/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_123",
@@ -257,7 +257,7 @@ layout: none
   {
     "pid": "pci_124",
     "label": "Photo of the Galeries Lafayette displaying a banner honoring soldiers",
-    "caption": "Photo of the exterior of the Galeries Lafayette displaying a banner honoring soldiers, c. June-July, 1919",
+    "caption": "Photograph of the Galeries Lafayette with the banner \"Honneur à nos poilus\" (\"Honor to our soldiers\"), c. 1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_124/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_124",
@@ -266,7 +266,7 @@ layout: none
   {
     "pid": "pci_125",
     "label": "Photo of Paris's Pont Neuf",
-    "caption": "Photo of Pont Neuf taken from the Quai de l'Horloge, c. 1910-1925",
+    "caption": "Photograph of Pont Neuf taken from the Quai de l'Horloge, c. 1910-1925.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_125/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_125",
@@ -275,7 +275,7 @@ layout: none
   {
     "pid": "pci_126",
     "label": "Photo of l'eglise Notre Dame des Champs by Jean Roubier",
-    "caption": "Photo of the l'eglise Notre Dame des Champs by Jean Roubier, c. 1932-38",
+    "caption": "Église Notre Dame des Champs in the 6th arrondissement, c. 1932-38.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_126/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_126",
@@ -284,7 +284,7 @@ layout: none
   {
     "pid": "pci_127",
     "label": "Photo of sisters of Saint-Vincent de Paul in Cornettes leaving for the front",
-    "caption": "Photo of the Sisters of Saint-Vincent de Paul wearing Cornettes, leaving for the front in August 1914 ",
+    "caption": "Sisters of Saint-Vincent de Paul wearing Cornettes, c. 1914. The sisters in this photograph were leaving for the front to nurse the wounded. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_127/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_127",
@@ -293,7 +293,7 @@ layout: none
   {
     "pid": "pci_128",
     "label": "Aerial photo of the Bois de Boulogne",
-    "caption": "The Bois de Boulogne is a large public park on the Western edge of Paris's city limits. Formerly royal property, Napoleon III and Baron Haussman transformed the land into a center for leisure as part of a massive urban renewal program in the 1850s. This aerial photo depicts the Bois de Boulogne with the Seine in the background, c.1853 ‚Äì70.",
+    "caption": "Aerial photograph of the Bois de Boulogne on the western edge of Paris, c.1853–70. Formerly royal property, Napoleon III and Baron Haussman transformed the land into a center for leisure as part of a massive urban renewal program in the 1850s. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_128/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_128",
@@ -302,7 +302,7 @@ layout: none
   {
     "pid": "pci_129",
     "label": "Poster advertising pure sterilized milk",
-    "caption": "Poster advertising pure, sterilized milk",
+    "caption": "Poster advertising pure, sterilized milk, c. 1894.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_129/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_129",
@@ -311,7 +311,7 @@ layout: none
   {
     "pid": "pci_13",
     "label": "Photo of kiosk and carriages by Eug√®ne Atget",
-    "caption": "Photo of a kiosk and carriages by Eug√®ne Atget, c.1898-1902",
+    "caption": "Photograph of a typical Parisian news kiosk by Eugène Atget, c. 1898-1902",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_13/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_13",
@@ -320,7 +320,7 @@ layout: none
   {
     "pid": "pci_130",
     "label": "Photo of shop advertising beverages",
-    "caption": "Photo of shop advertising wine, beer, and liquor, c. 1920-1925",
+    "caption": "Paris restaurant with a window sign advertising \"Apéritifs du choix,\" c. 1920-25.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_130/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_130",
@@ -329,7 +329,7 @@ layout: none
   {
     "pid": "pci_131",
     "label": "Front page of Le Petit Parisien announcing the attempted assassination of Clemenceau",
-    "caption": "Front page of Le Petit Parisien announcing the assassination attempt on Emile Cottin Clemenceau",
+    "caption": "Front page of Le Petit Parisien newspaper the day after anarchist Emile Cottin's failed attempt to assissinate Prime Minister Georges Clemenceau, 20 February 1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_131/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_131",
@@ -410,7 +410,7 @@ layout: none
   {
     "pid": "pci_14",
     "label": "Photo of the Sacre Coeur de Montmartre in 1921",
-    "caption": "Photo of the Sacre Coeur de Montmartre, c. July 1921",
+    "caption": "Sacre Coeur cathedral in Montmartre, c. 1921.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_14/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_14",
@@ -509,7 +509,7 @@ layout: none
   {
     "pid": "pci_15",
     "label": "Photo of a 24-hour shop at 6 rue de Sèvres",
-    "caption": "Photo of 24-hour shop at 6 rue de Sèvres, 6th arrondissement, c. 1893-98",
+    "caption": "Wall of posters, including an advertisement for \"Deuils complets\" at speciality store Au Sablier, c. 1893-98",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_15/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_15",
@@ -608,7 +608,7 @@ layout: none
   {
     "pid": "pci_16",
     "label": "Photo of butcher shop at 7 rue des Charbonniers",
-    "caption": "Photo of butcher shop at 7, rue des Charbonniers in 1913",
+    "caption": "Paris butcher shop with sign reading \"Charcuterie Comestibles,\" c.1913",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_16/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_16",
@@ -707,7 +707,7 @@ layout: none
   {
     "pid": "pci_17",
     "label": "Poster for the Grand Guignol theatre",
-    "caption": "Poster for the Grand Guignol theatre at 20 rue Chaptal by Jules-Alexandre Grün, c. 1890",
+    "caption": "Poster advertising the Grand Guignol theatre, c. 1890",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_17/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_17",
@@ -777,94 +777,157 @@ layout: none
     "lunr_id": 85
   },
   {
+    "pid": "pci_177",
+    "label": "Children ride a carousel in a Paris park, c. 1929.",
+    "caption": "Children ride a carousel in a Paris park, c. 1929.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_177/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_177",
+    "lunr_id": 86
+  },
+  {
+    "pid": "pci_178",
+    "label": "La Samaritaine",
+    "caption": "La Samaritaine department store, c. 1928.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_178/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_178",
+    "lunr_id": 87
+  },
+  {
+    "pid": "pci_179",
+    "label": "Photograph of people playing pigeon vole.",
+    "caption": "Photograph of people playing pigeon vole.",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_179/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_179",
+    "lunr_id": 88
+  },
+  {
     "pid": "pci_18",
     "label": "Photo of Woodrow Wilson attending the Paris Peace Conference",
-    "caption": "Photo of Woodrow Wilson attending the Paris Peace Conference on January 18, 1919 ",
+    "caption": "Woodrow Wilson pictured at the Paris Peace Conference on January 18, 1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_18/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_18",
-    "lunr_id": 86
+    "lunr_id": 89
+  },
+  {
+    "pid": "pci_180",
+    "label": "Photo of Grand Cafe du Commerce",
+    "caption": null,
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_180/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_180",
+    "lunr_id": 90
+  },
+  {
+    "pid": "pci_181",
+    "label": "Photo of Hope Mirrlees and Jane Ellen Harrison",
+    "caption": "Photo of Hope Mirrlees and Jane Ellen Harrison in Pontigny, France, c. 1924-25",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_181/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_181",
+    "lunr_id": 91
+  },
+  {
+    "pid": "pci_182",
+    "label": "Portrait photo of Hope Mirrlees and Jane Ellen Harrison",
+    "caption": "Portrait photo of Hope Mirrlees and Jane Ellen Harrison, c. 1924",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_182/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_182",
+    "lunr_id": 92
+  },
+  {
+    "pid": "pci_183",
+    "label": "View of Place de la Concorde",
+    "caption": "View of Place de la Concorde",
+    "collection": "paris-project-exhibition",
+    "thumbnail": "/img/derivatives/iiif/images/pci_183/full/250,/0/default.jpg",
+    "permalink": "/paris-project-exhibition/pci_183",
+    "lunr_id": 93
   },
   {
     "pid": "pci_19",
     "label": "The Ray by Jean Siméon Chardin",
-    "caption": "The Ray by Jean Siméon Chardin c. 1728, held by the Louvre",
+    "caption": "Jean Siméon Chardin's The Ray c.1728, held by the Louvre.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_19/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_19",
-    "lunr_id": 87
+    "lunr_id": 94
   },
   {
     "pid": "pci_2",
     "label": "Photo of Nord-Sud metro station in 1918",
-    "caption": "The Nord-Sud line connecting Montmartre and Montparnasse opened to the public in November 1910. During the war years, the Nord-Sud station pictured in this image (February 1918) served as a refuge (\"abri\") from potential German air raids.",
+    "caption": "The Nord-Sud line connecting Montmartre and Montparnasse opened to the public in November 1910. During the war years, stations on the Nord-Sud line served as refuge (\"abri\") from potential German air raids, as pictured here c.1918.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_2/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_2",
-    "lunr_id": 88
+    "lunr_id": 95
   },
   {
     "pid": "pci_20",
     "label": "Triumph of the Virtues by Mantegna",
-    "caption": "Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of Virtue) by Mantegna c. 1502, held by the Louvre",
+    "caption": "Mantegna's Triumph of the Virtues (or Minerva Expelling the Vices from the Garden of Virtue) c.1502, held by the Louvre.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_20/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_20",
-    "lunr_id": 89
+    "lunr_id": 96
   },
   {
     "pid": "pci_21",
     "label": "Pierrot by Jean-Antoine Watteau",
-    "caption": "Pierrot, formerly known as Gilles by Jean-Antoine Watteau c. 1717-1719 held by the Louvre",
+    "caption": "Jean-Antoine Watteau's Pierrot, formerly known as Gilles, c.1717-1719, held by the Louvre.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_21/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_21",
-    "lunr_id": 90
+    "lunr_id": 97
   },
   {
     "pid": "pci_22",
     "label": "Olympia by Edouard Manet",
-    "caption": "Olympia by Edouard Manet c. 1863, held by Musée d'Orsay",
+    "caption": "Edouard Manet's 1863 painting Olympia, held by the Louvre c.1919 and currently held by Musée d'Orsay.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_22/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_22",
-    "lunr_id": 91
+    "lunr_id": 98
   },
   {
     "pid": "pci_23",
     "label": "Pieta de Villeneuve les avignon by Enguerrand Quarton",
-    "caption": "Pieta de Villeneuve les avignon by Enguerrand Quarton c. 1455 held by the Louvre",
+    "caption": "The Pietà de Villeneuve-lès-Avignon c.1450-75, held by the Louvre.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_23/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_23",
-    "lunr_id": 92
+    "lunr_id": 99
   },
   {
     "pid": "pci_24",
     "label": "Grand Gallery at the Louvre in May 1918",
-    "caption": "The Grande Galerie at the Louvre during the war on May 24, 1918",
+    "caption": "The Grande Galerie of the Louvre was empty during the war, as pictured here c. 1918.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_24/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_24",
-    "lunr_id": 93
+    "lunr_id": 100
   },
   {
     "pid": "pci_25",
     "label": "Self-portrait of Nélie Jacquemart",
-    "caption": "N√©lie Jacquemart (1841-1912) was an art patron, collector, and painter in her own right. This c.1880 self portrait is held by the Mus√©e Jacquemart-Andr√©e, which was established following N√©lie Jacquemart's death in her and husband √âdouard Andr√©'s former home on the Boulevard Haussman.",
+    "caption": "Nélie Jacquemart's self portrait c.1880, currently held by the Jacquemart-André museum in her former home on the Boulevard Haussman.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_25/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_25",
-    "lunr_id": 94
+    "lunr_id": 101
   },
   {
     "pid": "pci_26",
     "label": "Photo of Joseph Pernet-Ducher",
-    "caption": "This photograph of award-winning rosarian Joseph Pernet-Ducher and his specimens was originally included as a plate in a 1925 issue of Les Amis des roses: journal de la Soci√©t√© fran√ßaise de rosi√©ristes. Pernet-Ducher developed a new hybrid tea-rose in 1913 and named it \"Mme Edouard Herriot\" after the wife of the then mayor of Lyon",
+    "caption": "Photograph of award-winning rose expert Joseph Pernet-Ducher, who developed a new hybrid tea-rose in 1913 and named it \"Mme Edouard Herriot\" after the wife of the mayor of Lyon.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_26/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_26",
-    "lunr_id": 95
+    "lunr_id": 102
   },
   {
     "pid": "pci_27",
@@ -873,43 +936,43 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_27/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_27",
-    "lunr_id": 96
+    "lunr_id": 103
   },
   {
     "pid": "pci_28",
     "label": "Engraving of a Lyon rose in Revue Horticole",
-    "caption": "This c.1910 engraving of a Lyon rose orignally appeared in France's Revue Horticole (Horitcultural Review). Lyon has been known for its expert breeding hybrid roses, including the scentless variety named after the city, since the nineteenth century.",
+    "caption": "Engraving of Lyon's trademark sentless hybrid rose orignally published in France's Revue Horticole c. 1910.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_28/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_28",
-    "lunr_id": 97
+    "lunr_id": 104
   },
   {
     "pid": "pci_29",
     "label": "Poster for Au Bon Marche",
-    "caption": "Au Bon March√©, located between the rue de Babylone and the rue de Sevres in the left bank's fashionable 7eme arrondisement, was one of Paris's first modern department stores in the nineteenth century. This c.1920 poster advertises a general exposition at the store.",
+    "caption": "Catalogue for upcoming \"Exposition des toilettes d'été\" at Le Bon Marché department store, c. 1914.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_29/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_29",
-    "lunr_id": 98
+    "lunr_id": 105
   },
   {
     "pid": "pci_3",
     "label": "Poster advertising Zig-Zag rolling papers",
-    "caption": "Poster advertising Zig-Zag cigarette papers, c.1900. [illustrator unknown]",
+    "caption": "Poster advertising Zig-Zag cigarette papers, c.1900.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_3/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_3",
-    "lunr_id": 99
+    "lunr_id": 106
   },
   {
     "pid": "pci_30",
     "label": "Poster featuring the Gallic Cock",
-    "caption": "The gallic cock serves as an unnoficial national symbol of France. This poster c.1915 uses the iconography of the Gallic cock to encourage the French people to support the war effort, reading, \"Deposit your gold for France. Gold fights for victory.\" The image depicts a German soldier in the process of being crushed by a gold coin imprinted with the Gallic cock.",
+    "caption": "This 1915 poster uses the iconography of the Gallic cock to encourage the French people to support the war effort, reading, \"Deposit your gold for France. Gold fights for victory.\" ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_30/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_30",
-    "lunr_id": 100
+    "lunr_id": 107
   },
   {
     "pid": "pci_31",
@@ -918,124 +981,124 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_31/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_31",
-    "lunr_id": 101
+    "lunr_id": 108
   },
   {
     "pid": "pci_32",
     "label": "Photo of corner of Rue Saint-Honoré√© and rue Croix-des-Petits-Champs",
-    "caption": "The rue Saint-Honor√© is a major shopping street in the 1er arrondisement. This photograph shows the intersection of the rue Saint-Honor√© and the rue Croix-des-Petits-Champs, just North of the Louvre, c.1910.",
+    "caption": "The rue Saint-Honoré is a major shopping street in the first arrondisement. This photograph shows the intersection of the rue Saint-Honoré and the rue Croix-des-Petits-Champs, just North of the Louvre, c.1910.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_32/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_32",
-    "lunr_id": 102
+    "lunr_id": 109
   },
   {
     "pid": "pci_33",
     "label": "Chateaubriand Meditating on the Ruins of Rome by Anne-Louis Girodet-Trioson",
-    "caption": "Anne-Louis Girodet-Trioson's c.1808 painting Chateaubriand Meditating on the Ruins of Rome, held by the Museum of the History of the Town and the Pays Malouin in Chateaubriand's birthplace of Saint-Malo, Brittany. Chateaubriand was a famous writer and statesman in nineteenth century France.",
+    "caption": "Anne-Louis Girodet-Trioson's c.1808 painting Chateaubriand Meditating on the Ruins of Rome, held by the Museum of the History of the Town and the Pays Malouin in Chateaubriand's birthplace of Saint-Malo, Brittany. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_33/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_33",
-    "lunr_id": 103
+    "lunr_id": 110
   },
   {
     "pid": "pci_34",
-    "label": "Portrait of Juliette R√©camier by Jacques-Louis David",
-    "caption": "Jacques-Louis David's 1800 painting Portait of Madame Recamier, held by the Louvre. Juliette Recamier hosted a leading salon of early nineteenth century Paris, regularly attended by such literary stars as Chateaubriand.",
+    "label": "Portrait of Juliette Récamier by Jacques-Louis David",
+    "caption": "Jacques-Louis David's 1800 painting Portait of Madame Recamier, held by the Louvre. Juliette Recamier hosted one of the leading salons of early nineteenth century Paris.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_34/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_34",
-    "lunr_id": 104
+    "lunr_id": 111
   },
   {
     "pid": "pci_35",
     "label": "Sculpture of the Spinaro (or Boy with Thorn)",
-    "caption": "The Spinaro (known as Tireur d'√©pine in French or Boy with Thorn in English) is a genre of ancient statue depicting a boy removing a thorn from the bottom of his foot. The most famous example of the Spinario genre is held by the Musei Capitolini in Rome, but there are many bronze copies dating from the Renaissance onwards.",
+    "caption": "Roman bronze \"Spinario\" statue from the first century B.C. held by the Musei Capitolini in Rome.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_35/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_35",
-    "lunr_id": 105
+    "lunr_id": 112
   },
   {
     "pid": "pci_36",
     "label": "Photo of women walking in the Bois de Boulogne in 1914",
-    "caption": "Photo of women walking in the Bois de Boulogne in 1914",
+    "caption": "Women walking in the Bois de Boulogne, c. 1914.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_36/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_36",
-    "lunr_id": 106
+    "lunr_id": 113
   },
   {
     "pid": "pci_37",
     "label": "Photo of the sculpture gallery at the Musée de Luxembourg",
-    "caption": "This photograph depicts the Mus√©e de Luxembourg's sculpture gallery, c.1912. French painter Gustave Caillebotte bequeathed his collection of impressionist paintings to the state, and the paintings were put on display in 1897 in a gallery named after Caillebotte in the Mus√©e du Luxembourg.",
+    "caption": "The sculpture gallery at the Musée de Luxembourg, c.1912.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_37/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_37",
-    "lunr_id": 107
+    "lunr_id": 114
   },
   {
     "pid": "pci_38",
     "label": "Photo of Arc de Triomphe de L'étoile",
-    "caption": "This photograph depicts the Arc de Triomphe de L'√âtoile c.1909-1919. The Champs √âlys√©es runs from the Arc de Triomphe in the West to the Place de la Concorde in the East. [The monument was commissed by Napoleon to commemorate his 1805 military victory at Austerlitz.] [A ceremony to commemorate the November 11, 1918 armistice takes place at the Arc each year, and it is also the location of France's Tomb of the Unknown Solider.]",
+    "caption": "The Arc de Triomphe, c. 1920. A ceremony to commemorate the November 11, 1918 armistice takes place at the Arc each year, and it is also the location of France's Tomb of the Unknown Solider.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_38/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_38",
-    "lunr_id": 108
+    "lunr_id": 115
   },
   {
     "pid": "pci_39",
     "label": "Photo of Place de L'étoile",
-    "caption": "Twelve avenues, including the Avenue des Champs √âlys√©es, intersect to form a star (√©toile) pattern with the Arc de Triomphe at the center at the Place de L'√âtoile. This aerial photograph of the √âtoile was taken c.1909-19.",
+    "caption": "Twelve avenues, including the Avenue des Champs Élysées, intersect to form a star pattern with the Arc de Triomphe at the center at the Place de L'Étoile, pictured here c.1909-19.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_39/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_39",
-    "lunr_id": 109
+    "lunr_id": 116
   },
   {
     "pid": "pci_4",
     "label": "Poster advertising Lion Noir shoe polish",
-    "caption": "Poster advertising Lion Noir (Black Lion) shoe polish, c.1900. [Illustrated by Louis M√©ry]",
+    "caption": "Poster advertising Lion Noir (Black Lion) shoe polish, c.1900. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_4/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_4",
-    "lunr_id": 110
+    "lunr_id": 117
   },
   {
     "pid": "pci_40",
     "label": "Portrait of the Duchess of Alba by Francisco Goya",
-    "caption": "Francisco Goya's 1795 painting The White Duchess, held by the Liria Palace in Spain. Goya painted Mar√≠a Cayetana de Silva, 13th Duchess of Alba, on several occasions, including in The Black Duchess (1797), which depicts the duchess in morning following her husband's death.",
+    "caption": "Francisco Goya's 1795 painting The White Duchess depicts María Cayetana de Silva, 13th Duchess of Alba, and is held by the Liria Palace in Madrid.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_40/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_40",
-    "lunr_id": 111
+    "lunr_id": 118
   },
   {
     "pid": "pci_41",
     "label": "Photo of LA Lévêque's Nymphe statue in the Jardin des Tuileries",
-    "caption": "Photograph of L.A. L√©v√™que's Nymphe stautue in the Jardin des Tuileries by Eug√®ne Atget, c.1906.",
+    "caption": "Photograph of L.A. Lévêque's Nymphe stautue in the Tuileries by Eugène Atget, c.1906.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_41/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_41",
-    "lunr_id": 112
+    "lunr_id": 119
   },
   {
     "pid": "pci_42",
     "label": "Photo of monument to French statesman Leon Gambetta in the Cour Napol√©on",
-    "caption": "Photograph of the monument to French statesman Leon Gambetta in the Cour Napol√©on in the front of the mus√©e du Louvre, c.1900-19. Gambetta played a significant role in the Franco-Prussian War (1870-71) and the founding of France's Third Republic (1870-1940).",
+    "caption": "Monument to French statesman Leon Gambetta in the Cour Napoléon in front of the Louvre, pictured here c.1890.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_42/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_42",
-    "lunr_id": 113
+    "lunr_id": 120
   },
   {
     "pid": "pci_43",
     "label": "Photo of the courtyard of the Maternity Hospital in Port-Royal",
-    "caption": "Courtyard of the Maternity Hospital, Port-Royal, 14√®me arrondissement",
+    "caption": "Courtyard of the Port-Royal Maternity Hospital in the 14th arrondissement.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_43/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_43",
-    "lunr_id": 114
+    "lunr_id": 121
   },
   {
     "pid": "pci_44",
@@ -1044,7 +1107,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_44/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_44",
-    "lunr_id": 115
+    "lunr_id": 122
   },
   {
     "pid": "pci_45",
@@ -1053,16 +1116,16 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_45/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_45",
-    "lunr_id": 116
+    "lunr_id": 123
   },
   {
     "pid": "pci_46",
     "label": "Photo of stand in Les Halles",
-    "caption": "Photo of stand in Les Halles by Eugène Atget, c. 1898",
+    "caption": "Photograph of a fish stand in Les Halles by Eugène Atget, c. 1898.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_46/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_46",
-    "lunr_id": 117
+    "lunr_id": 124
   },
   {
     "pid": "pci_47",
@@ -1071,16 +1134,16 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_47/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_47",
-    "lunr_id": 118
+    "lunr_id": 125
   },
   {
     "pid": "pci_48",
     "label": "Photo of coachmen and booksellers at Quai Voltaire",
-    "caption": "Coachmen and booksellers at Quai Voltaire, 7th arrondissement, Eugène Atget c. 1898",
+    "caption": "Photograph of bouquinistes selling their wares at Quai Voltaire in the 7th arrondissement by Eugène Atget, c. 1898.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_48/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_48",
-    "lunr_id": 119
+    "lunr_id": 126
   },
   {
     "pid": "pci_49",
@@ -1089,25 +1152,25 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_49/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_49",
-    "lunr_id": 120
+    "lunr_id": 127
   },
   {
     "pid": "pci_5",
     "label": "Poster advertising Cacao Blooker Dutch chocolate",
-    "caption": "Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910",
+    "caption": "Poster advertising Cacao Blooker Dutch chocolate, c.1900-1910.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_5/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_5",
-    "lunr_id": 121
+    "lunr_id": 128
   },
   {
     "pid": "pci_50",
     "label": "Poster advertising the apéritif Dubonnet",
-    "caption": "Poster for Dubonnet, a sweet wine often served as an apéritif, designed by Jules Chéret, c. 1896",
+    "caption": "Poster for Dubonnet apéritif, c. 1896",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_50/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_50",
-    "lunr_id": 122
+    "lunr_id": 129
   },
   {
     "pid": "pci_51",
@@ -1116,7 +1179,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_51/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_51",
-    "lunr_id": 123
+    "lunr_id": 130
   },
   {
     "pid": "pci_52",
@@ -1125,7 +1188,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_52/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_52",
-    "lunr_id": 124
+    "lunr_id": 131
   },
   {
     "pid": "pci_53",
@@ -1134,16 +1197,16 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_53/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_53",
-    "lunr_id": 125
+    "lunr_id": 132
   },
   {
     "pid": "pci_54",
     "label": "Posters for la journée du poilu in the place des Pyramides",
-    "caption": "Posters for la journée du poilu on December 25 & 26, place des Pyramides, c. 1915",
+    "caption": "Posters for la journée du poilu on December 25 & 26, Place des Pyramides, c. 1915.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_54/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_54",
-    "lunr_id": 126
+    "lunr_id": 133
   },
   {
     "pid": "pci_55",
@@ -1152,7 +1215,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_55/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_55",
-    "lunr_id": 127
+    "lunr_id": 134
   },
   {
     "pid": "pci_56",
@@ -1161,7 +1224,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_56/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_56",
-    "lunr_id": 128
+    "lunr_id": 135
   },
   {
     "pid": "pci_57",
@@ -1170,34 +1233,34 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_57/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_57",
-    "lunr_id": 129
+    "lunr_id": 136
   },
   {
     "pid": "pci_58",
     "label": "Photo of sphinx statue in the tuileries gardens",
-    "caption": "Photo of sphinx statue in the tuileries gardens in the Jardin de Robespierre. By Eugène Atget, c.  1908-1922",
+    "caption": "Photograph of the famous sphinx statue in the Tuileries by Eugène Atget, c.1908-1922.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_58/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_58",
-    "lunr_id": 130
+    "lunr_id": 137
   },
   {
     "pid": "pci_59",
     "label": "Autochrome of soldiers having lunch in April 1917",
-    "caption": "Autochrome of soldiers having lunch in April 1917 by Paul Castelnau",
+    "caption": "Autochrome photograph of French soldiers or \"poilus\" in their trademark blue uniforms by Paul Castelnau, c. 1917.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_59/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_59",
-    "lunr_id": 131
+    "lunr_id": 138
   },
   {
     "pid": "pci_6",
     "label": "Photo of Chambre des D√©put√©s metro station",
-    "caption": "Photograph of the platform of the Chambre des D√©put√©s Station on the Nord-Sud line (date?)",
+    "caption": "Platform of the Chambre des Députés Station on the Nord-Sud metro line.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_6/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_6",
-    "lunr_id": 132
+    "lunr_id": 139
   },
   {
     "pid": "pci_60",
@@ -1206,25 +1269,25 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_60/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_60",
-    "lunr_id": 133
+    "lunr_id": 140
   },
   {
     "pid": "pci_61",
     "label": "Photo of the Eiffel Tower in April 1919",
-    "caption": "Photo of the Eiffel Tower in April 1919",
+    "caption": "The Eiffel Tower, c. 1919. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_61/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_61",
-    "lunr_id": 134
+    "lunr_id": 141
   },
   {
     "pid": "pci_62",
     "label": "Photo of the Arc de Triomphe du Carrousel with tulips",
-    "caption": "Photo of the Arc de Triomphe du Carrousel with tulips from May 3, 1924",
+    "caption": "The Place du Carrousel, including  the Arc de Triomphe du Carrousel and the Louvre, c. 1924.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_62/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_62",
-    "lunr_id": 135
+    "lunr_id": 142
   },
   {
     "pid": "pci_63",
@@ -1233,7 +1296,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_63/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_63",
-    "lunr_id": 136
+    "lunr_id": 143
   },
   {
     "pid": "pci_64",
@@ -1242,25 +1305,25 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_64/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_64",
-    "lunr_id": 137
+    "lunr_id": 144
   },
   {
     "pid": "pci_65",
     "label": "President of France Poincaré receiving a boquet from a young widow",
-    "caption": "Photo of Raymond Poincaré, President of France, receiving a boquet of flowers from a young widow on August 26, 1919",
+    "caption": "Photograph of President Raymond Poincaré receiving a boquet of flowers from a young widow, c. 1919",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_65/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_65",
-    "lunr_id": 138
+    "lunr_id": 145
   },
   {
     "pid": "pci_66",
     "label": "Image of women in mourning attire from Les Elégances Parisiennes",
-    "caption": "Image of women in veils and mourning dresses from Les Elégances Parisiennes: official publication of the French Fashion Industries, 1916-1917",
+    "caption": "Illustration of typical women's mourning dresses and veils published in Les Elégances Parisiennes, c. 1917.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_66/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_66",
-    "lunr_id": 139
+    "lunr_id": 146
   },
   {
     "pid": "pci_67",
@@ -1269,70 +1332,70 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_67/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_67",
-    "lunr_id": 140
+    "lunr_id": 147
   },
   {
     "pid": "pci_68",
     "label": "Lithograph of Zouave's uniforms",
-    "caption": "Lithograph of Zouave's uniforms from the 19th century Arm√©e fran√ßaise",
+    "caption": "Lithograph of the blue and red Zouave uniform during the Second Empire, c. 1852-1870.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_68/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_68",
-    "lunr_id": 141
+    "lunr_id": 148
   },
   {
     "pid": "pci_69",
     "label": "Photo of battlefield in the Marne between Souain and Perthes",
-    "caption": "May 1915 Bois-Sabot [view of a battlefield in the Marne, between Souain and Perthes]",
+    "caption": "Photograph of a field in the area detroyed by the Battle of the Marne, c.1915",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_69/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_69",
-    "lunr_id": 142
+    "lunr_id": 149
   },
   {
     "pid": "pci_7",
     "label": "Poster advertising Byrrh wine-based ap√©ritif",
-    "caption": "Poster advertising Byrrh wine-based ap√©ritif, c.1909. [Illustrated by Jules Alexandre Gr√ºn.]",
+    "caption": "Poster advertising Byrrh apéritif, c.1909.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_7/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_7",
-    "lunr_id": 143
+    "lunr_id": 150
   },
   {
     "pid": "pci_70",
     "label": "Photo of the Grands Boulevards in May 1919",
-    "caption": "Photo of the Grands Boulevards in May 1919",
+    "caption": "Daily life on the Grands Boulevards, c.1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_70/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_70",
-    "lunr_id": 144
+    "lunr_id": 151
   },
   {
     "pid": "pci_71",
     "label": "Photo of monument with the inscription Mort au champ d'honneur",
-    "caption": "Photo of a monument with the inscription \"Mort au champ d'honneur\" from April 21, 1922",
+    "caption": "World War I monument by sculptor Auguste Maillard with the inscription \"Mort au champ d'honneur\" (Dead on the field of honor).",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_71/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_71",
-    "lunr_id": 145
+    "lunr_id": 152
   },
   {
     "pid": "pci_72",
     "label": "The Hungry Lion Attacking an Antelope by Henri Rousseau",
-    "caption": "Le lion, ayant faim, se jette sur l‚Äôantilope (The Hungry Lion Attacking an Antelope) Henri Rousseau, c. 1905. Held by the  Beyeler Foundation, Basel  and exhibited at the Salon d'automne in 1905",
+    "caption": "The Hungry Lion Throws Itself on the Antelope (1905) by Henri Rousseau is typical of the painter's style.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_72/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_72",
-    "lunr_id": 146
+    "lunr_id": 153
   },
   {
     "pid": "pci_73",
     "label": "Portrait of Père Lachaise by Pierre Simon",
-    "caption": "Copy of a portrait of Père Lachaise painted by Pierre Simon known from an engraving by Gantrel (1694). From the collection of Louis-Philippe at the Château d'Eu (n¬∞231). Deposited at the Louvre √† Versailles on December 22, 1928.",
+    "caption": "Portrait of Père Lachaise based on an engraving by Pierre Simon.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_73/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_73",
-    "lunr_id": 147
+    "lunr_id": 154
   },
   {
     "pid": "pci_74",
@@ -1341,7 +1404,7 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_74/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_74",
-    "lunr_id": 148
+    "lunr_id": 155
   },
   {
     "pid": "pci_75",
@@ -1350,16 +1413,16 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_75/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_75",
-    "lunr_id": 149
+    "lunr_id": 156
   },
   {
     "pid": "pci_76",
     "label": "Portrait of Jacques-B√©nigne Bossuet",
-    "caption": "Portrait of Jacques-B√©nigne Bossuet by Hyacinthe Rigaud, c. 1702, held by the Louvre",
+    "caption": "Portrait of bishop and preacher Jacques Benigne Bossuet by Hyacinthe Rigaud, c. 1702.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_76/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_76",
-    "lunr_id": 150
+    "lunr_id": 157
   },
   {
     "pid": "pci_77",
@@ -1368,160 +1431,160 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_77/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_77",
-    "lunr_id": 151
+    "lunr_id": 158
   },
   {
     "pid": "pci_78",
     "label": "Poster for the Nouveau Cirque",
-    "caption": "Poster for the Nouveau Cirque from 1894",
+    "caption": "Poster advertising a bear routine at the Nouveau Cirque, c. 1894.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_78/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_78",
-    "lunr_id": 152
+    "lunr_id": 159
   },
   {
     "pid": "pci_79",
     "label": "Poster in support of the eight-hour workday",
-    "caption": "Poster in support of the eight-hour workday from the Union des syndicat ourvriers de la Seine",
+    "caption": "Poster in support of the eight-hour workday from the Union des syndicat ourvriers de la Seine, c. 1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_79/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_79",
-    "lunr_id": 153
+    "lunr_id": 160
   },
   {
     "pid": "pci_8",
     "label": "Photo of Place de la Concorde",
-    "caption": "The Place de la Concorde is an important public square on the right bank of Paris. This photograph of the Place de la Concorde was taken from the Pont de la Concorde with the Luxor Ob√©lisque visible in the background, c.1906-7.  [During the French Revolution the Place de la Concorde was renamed Place de la R√©volution, and Louis XVI was famously executed there in 1793.]",
+    "caption": "Canons from the recently concluded war on display at the Place de la Concorde, c. 1919. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_8/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_8",
-    "lunr_id": 154
+    "lunr_id": 161
   },
   {
     "pid": "pci_80",
     "label": "Aerial photo of he Louvre and gardens",
-    "caption": "Aerial photograph of he Louvre and gardens, c. 1909",
+    "caption": "Aerial photograph of the Louvre and gardens, c. 1909",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_80/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_80",
-    "lunr_id": 155
+    "lunr_id": 162
   },
   {
     "pid": "pci_81",
     "label": "Photo of the Moulin Rouge in 1914",
-    "caption": "Photo of the Moulin Rouge, famous cabaret, in 1914",
+    "caption": "Famed cabaret the Moulin Rouge, c. 1914",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_81/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_81",
-    "lunr_id": 156
+    "lunr_id": 163
   },
   {
     "pid": "pci_82",
-    "label": "Photo of Rue Sant Antoine",
-    "caption": "Photo of Rue Sant Antoine in the 4th arondissement from 1917",
+    "label": "Photo of Rue Saint Antoine",
+    "caption": "Rue Saint Antoine in the 4th arrondissement photographed by Charles Lansiaux, c. 1917",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_82/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_82",
-    "lunr_id": 157
+    "lunr_id": 164
   },
   {
     "pid": "pci_83",
-    "label": "Photo of the corner of √éle Saint-Louis",
-    "caption": "Photo of the corner of √éle Saint-Louis on September 13, 1929",
+    "label": "Photo of the corner of Île Saint-Louis",
+    "caption": "The Île Saint-Louis viewed from the east, c. 1929.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_83/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_83",
-    "lunr_id": 158
+    "lunr_id": 165
   },
   {
     "pid": "pci_84",
     "label": "Photo of the Louvre and courtyard",
-    "caption": "Photo of the Louvre and courtyard, c. 1920-1935",
+    "caption": "Photo of the Louvre and courtyard by Maurice-Louis Branger, c. 1920-1935",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_84/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_84",
-    "lunr_id": 159
+    "lunr_id": 166
   },
   {
     "pid": "pci_85",
-    "label": "Photo of Bon March√© department store",
-    "caption": "Photo of the interior of Bon March√© department store, c. 1900",
+    "label": "image, caption not appearing. Appearing in gallery here: https://www.paris-a-poem.com/paris-project-exhibition/pci_85/ . Keep or cut?",
+    "caption": "Photo of the interior of Bon Marché department store, c. 1900.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_85/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_85",
-    "lunr_id": 160
+    "lunr_id": 167
   },
   {
     "pid": "pci_86",
     "label": "Photo of woman selling lillies of the valley on 1 May 1911",
-    "caption": "Photo of a woman selling lillies of the valley on May 1, 1911",
+    "caption": "Photograph of a woman selling lillies of the valley on May 1, 1911",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_86/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_86",
-    "lunr_id": 161
+    "lunr_id": 168
   },
   {
     "pid": "pci_87",
     "label": "Photo of police blocking demonstrators on 1 May 1920",
-    "caption": "Photo of police blocking demonstrators at the crossroads of boulevard de Magenta and rue Beaurepaire on May 1, 1920",
+    "caption": "Photograph of police blocking demonstrators at the crossroads of boulevard de Magenta and rue Beaurepaire on May 1, 1920",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_87/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_87",
-    "lunr_id": 162
+    "lunr_id": 169
   },
   {
     "pid": "pci_88",
     "label": "Advertisement for Banania",
-    "caption": "Advertisement for Banania, a popular chocolate drink, from 1915",
+    "caption": "Poster advertising Banania, a popular chocolate drink, c. 1915.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_88/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_88",
-    "lunr_id": 163
+    "lunr_id": 170
   },
   {
     "pid": "pci_89",
     "label": "Portrait of Queen Henrietta Maria",
-    "caption": "Portrait of Queen Henrietta Maria  with Sir Jeffrey Hudson by Anthony van Dyck, c. 1633, held by the National Gallery of Art",
+    "caption": "Bossuet gave a famous funeral oration for Queen Henrietta Maria of England, pictured here in a portrait by Anthony van Dyck, c. 1633.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_89/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_89",
-    "lunr_id": 164
+    "lunr_id": 171
   },
   {
     "pid": "pci_9",
     "label": "Aerial photo of the Tuileries gardens",
-    "caption": "The Tuileries are a large public garden in between the Place de la Concorde and the Louvre on the right bank of Paris. This aerial photograph of the Jardin des Tuileries contains one of the garden's several decorative fountains and shows the left bank in the background on the other side of the Seine, c.1878.",
+    "caption": "The Tuileries are a large public garden in between the Place de la Concorde and the Louvre on the right bank, pictured c.1878.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_9/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_9",
-    "lunr_id": 165
+    "lunr_id": 172
   },
   {
     "pid": "pci_90",
     "label": "Newspaper article about murderer Henri Landru",
-    "caption": "Newspaper article about murderer Henri Landru a few weeks afte rhis arrest in 1919",
+    "caption": "Newspaper article about the trial of serial killer Henri Landru following his arrest, c. 1919.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_90/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_90",
-    "lunr_id": 166
+    "lunr_id": 173
   },
   {
     "pid": "pci_91",
     "label": "Photo of empty gallery in the Louvre in May 1918",
-    "caption": "Photo of an empty gallery in the Louvre, salle Rubens, on May 24, 1918",
+    "caption": "Photograph of an empty gallery in the Louvre, c. 1918. During the war, paintings were removed from galleries stored underground for their safety. ",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_91/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_91",
-    "lunr_id": 167
+    "lunr_id": 174
   },
   {
     "pid": "pci_92",
     "label": "Illustration of mourning clothes on the cover of Le Petit √©cho de la mode",
-    "caption": "Illustration of mourning clothes on the cover of Le Petit √©cho de la mode from October 27, 1918",
+    "caption": "Illustration of mourning clothes on the cover of a women's magazine, c.1918.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_92/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_92",
-    "lunr_id": 168
+    "lunr_id": 175
   },
   {
     "pid": "pci_93",
@@ -1530,16 +1593,16 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_93/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_93",
-    "lunr_id": 169
+    "lunr_id": 176
   },
   {
     "pid": "pci_94",
     "label": "Portrait of Marjorie Strachey by Duncan Grant",
-    "caption": "Portrait of Marjorie Strachey after reading Crime and Punishment, originally titled Despair, by Duncan Grant, c. 1909",
+    "caption": "Portrait of Marjorie Strachey after reading Crime and Punishment by Duncan Grant, c. 1909.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_94/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_94",
-    "lunr_id": 170
+    "lunr_id": 177
   },
   {
     "pid": "pci_95",
@@ -1548,42 +1611,42 @@ layout: none
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_95/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_95",
-    "lunr_id": 171
+    "lunr_id": 178
   },
   {
     "pid": "pci_96",
     "label": "Photo of M et Mme Poincar√© in June 1922",
-    "caption": "Photo of M. et Mme. Poincar√© in London in June 1922",
+    "caption": "M. et Mme. Poincaré photographed in London, c. 1922.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_96/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_96",
-    "lunr_id": 172
+    "lunr_id": 179
   },
   {
     "pid": "pci_97",
     "label": "Advertisement for absinthe",
-    "caption": "Advertisement for Absinthe extra-superior J. Edouard Pernot, by Leonetto Cappiello, c. 1900",
+    "caption": "Advertisement for Absinthe extra-superior J. Edouard Pernot, c. 1900.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_97/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_97",
-    "lunr_id": 173
+    "lunr_id": 180
   },
   {
     "pid": "pci_98",
     "label": "Portrait of the poet Paul Verlaine",
-    "caption": "Portrait of the poet Paul Marie Verlaine at the \"Caf√© Fran√ßois 1er\"",
+    "caption": "Paul Verlaine at the Café François 1er in the 5th arrondissement, c. 1890-96.",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_98/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_98",
-    "lunr_id": 174
+    "lunr_id": 181
   },
   {
     "pid": "pci_99",
     "label": "Photo of a line of taxis",
-    "caption": "Photo of a line of taxis waiting for clients in March, 1920",
+    "caption": "Taxis waiting for customers, c. 1920",
     "collection": "paris-project-exhibition",
     "thumbnail": "/img/derivatives/iiif/images/pci_99/full/250,/0/default.jpg",
     "permalink": "/paris-project-exhibition/pci_99",
-    "lunr_id": 175
+    "lunr_id": 182
   }
 ]

@@ -15,7 +15,7 @@ caption: J. A. D. Ingres (1780-1867) is best known today for his neoclassical pa
   but he also completed several commissioned portraits in the late years of his career.
   A hypothetical Ingres portrait of Mme Jacquemart-Andr√© might resemble his 1845
   Portrait of Comtesse d'Haussonville, held by the  Frick Collection.
-order: '26'
+order: '29'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_27/full/250,/0/default.jpg"

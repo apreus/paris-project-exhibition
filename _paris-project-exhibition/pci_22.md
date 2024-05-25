@@ -12,8 +12,9 @@ notes: Edouard Manet, Olympia 1863. Currently in the Mus√©e d'Orsay (founded 
   since HM names it here. Could do more research to confirm.
 rights: Wikimedia commons public domain
 selection: 
-caption: Olympia by Edouard Manet c. 1863, held by Musée d'Orsay
-order: '21'
+caption: Edouard Manet's 1863 painting Olympia, held by the Louvre c.1919 and currently
+  held by Musée d'Orsay.
+order: '33'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_22/full/250,/0/default.jpg"

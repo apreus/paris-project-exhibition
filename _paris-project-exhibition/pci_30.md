@@ -10,12 +10,10 @@ notes: 1915 poster Deposit your gold for France. Gold fights for victory. (Galli
   cock design on coin)
 rights: Library of Congress No known restrictions on publication.
 selection: 
-caption: The gallic cock serves as an unnoficial national symbol of France. This poster
-  c.1915 uses the iconography of the Gallic cock to encourage the French people to
-  support the war effort, reading, "Deposit your gold for France. Gold fights for
-  victory." The image depicts a German soldier in the process of being crushed by
-  a gold coin imprinted with the Gallic cock.
-order: '29'
+caption: 'This 1915 poster uses the iconography of the Gallic cock to encourage the
+  French people to support the war effort, reading, "Deposit your gold for France.
+  Gold fights for victory." '
+order: '24'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_30/full/250,/0/default.jpg"

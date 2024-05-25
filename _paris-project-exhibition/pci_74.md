@@ -12,7 +12,7 @@ rights: Gallica public domain
 selection: 
 caption: Photo of graves in Père Lachaise cemetery, damaged due to bombardments, from
   April 1918
-order: '73'
+order: CUT
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_74/full/250,/0/default.jpg"

@@ -10,9 +10,9 @@ notes: Anthony van Dyck  (1599‚Äì1641) Queen Henrietta Maria with Sir Jeffre
   1633 National Gallery of Art
 rights: Wikimedia commons
 selection: Which Henrietta Maria portrait?
-caption: Portrait of Queen Henrietta Maria  with Sir Jeffrey Hudson by Anthony van
-  Dyck, c. 1633, held by the National Gallery of Art
-order: '88'
+caption: Bossuet gave a famous funeral oration for Queen Henrietta Maria of England,
+  pictured here in a portrait by Anthony van Dyck, c. 1633.
+order: '53'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_89/full/250,/0/default.jpg"

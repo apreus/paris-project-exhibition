@@ -438,9 +438,44 @@ layout: none
       "label": "pci_176"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_177/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_177"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_178/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_178"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_179/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_179"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_18/manifest.json",
       "@type": "sc:Manifest",
       "label": "pci_18"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_180/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_180"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_181/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_181"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_182/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_182"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_183/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pci_183"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pci_19/manifest.json",

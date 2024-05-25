@@ -9,8 +9,9 @@ link: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/im
 notes: Photo of 24-hour shop at 6 rue de Sèvres
 rights: Mus√©e carnavalet creative commons zero
 selection: 
-caption: Photo of 24-hour shop at 6 rue de Sèvres, 6th arrondissement, c. 1893-98
-order: '14'
+caption: Wall of posters, including an advertisement for "Deuils complets" at speciality
+  store Au Sablier, c. 1893-98
+order: '43'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_15/full/250,/0/default.jpg"

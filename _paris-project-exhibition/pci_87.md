@@ -10,9 +10,9 @@ notes: Photo of police blocking demonstrators at the crossroads of boulevard de 
   and rue Beaurepaire on May 1, 1920
 rights: Gallica public domain
 selection: 
-caption: Photo of police blocking demonstrators at the crossroads of boulevard de
-  Magenta and rue Beaurepaire on May 1, 1920
-order: '86'
+caption: Photograph of police blocking demonstrators at the crossroads of boulevard
+  de Magenta and rue Beaurepaire on May 1, 1920
+order: ADD?
 layout: paris-project-exhibition
 collection: paris-project-exhibition
 thumbnail: "/img/derivatives/iiif/images/pci_87/full/250,/0/default.jpg"

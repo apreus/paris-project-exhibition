@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pci_181",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1186,
+  "height": 1846,
+  "sizes": [
+    {
+      "width": 1186,
+      "height": 1846
+    },
+    {
+      "width": 250,
+      "height": 389
+    },
+    {
+      "width": 1140,
+      "height": 1774
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

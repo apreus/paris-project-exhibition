@@ -10,7 +10,7 @@ notes: "*better scan I think of the same poster c.1900 Zig-Zag papier √† cig
   affiche"
 rights: Mus√©e Carnavalet creative commons zero
 selection: 
-caption: Poster advertising Zig-Zag cigarette papers, c.1900. [illustrator unknown]
+caption: Poster advertising Zig-Zag cigarette papers, c.1900.
 order: '2'
 layout: paris-project-exhibition
 collection: paris-project-exhibition
