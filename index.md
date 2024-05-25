@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: paris-project-exhibition
   pid: pci_183
-  y: 45%
+  y: 35%
   height: '500px'
 ---
 
