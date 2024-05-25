@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: paris-project-exhibition
-  pid: pci_8
+  pid: pci_183
   y: 25%
   height: '500px'
 ---
