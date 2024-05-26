@@ -2057,7 +2057,7 @@
          <milestone unit="page" n="22"/>
 
          <space type="margin" dim="vertical" unit="pts" quantity="36" resp="Grove"/>
-
+         <space type="display" dim="vertical" unit="pts" quantity="36" resp="Grove"/>
          <div xml:id="g.105" part="N" org="uniform" sample="complete"><head n="463" xml:id="l.463"><space
             type="alignL" dim="horizontal" unit="pts" quantity="91" resp="Grove"/>NOTES</head><!--JUSTIFICATION-->
 
