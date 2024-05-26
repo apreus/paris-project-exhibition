@@ -109,36 +109,15 @@
                                   <p>This digital edition of Hope
                                   Mirrlees’s <i>Paris</i> is based on
                                   the text of the 1920 Hogarth Press
-                                  edition. The poem is presented here
-                                  as scrolling text, but otherwise its
-                                  original layout and size have been
-                                  preserved. To increase the size of
-                                  the text, please use the zoom
-                                  functions on your browser. </p>
-
-                                  <p>There are various options for
-                                  viewing the poem, which can be
-                                  selected and combined by clicking
-                                  the check boxes at the top of the
-                                  page. </p>
+                                  edition. It is presented here alongside notes and contextual images, as well as with multiple options for display. To select or deselect these options, use the menu bar at the top of the page.</p>
 
                                   <ul>
-                                    <li>Select “pages” to view the
-                                    text within the original page
-                                    layouts.</li>
-                                    <li>Select “notes” to view the
-                                    text alongside scholarly notes by
-                                    Julia Briggs.</li>
-                                    <li>Select “images” to reveal
-                                    links to contextual images. Click
-                                    the links to view the images.</li>
+                                    <li>Pages: view the text within the original page layouts.</li>
+                                    <li>Notes: view the text alongside scholarly notes by Julia Briggs.</li>
+                                    <li>Images: reveal links to contextual images. Click the links to view the images.</li>
                                   </ul>
 
-                                  <p>If you want to remove any of the
-                                  view options you have selected,
-                                  simply uncheck the boxes and you
-                                  will be returned to the default
-                                  scrolling view.</p>
+                                  <p>The default view of the poem is as scrolling text, but otherwise we have tried to preserve its original layout and size. To increase the size of the text, please use the zoom functions on your browser.</p>
                                 </div>
 
 				<xsl:copy-of select="$htmlFooter"/>
