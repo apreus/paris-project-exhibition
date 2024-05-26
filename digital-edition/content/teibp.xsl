@@ -114,7 +114,7 @@
                                   <ul>
                                     <li>Pages: view the text within the original page layouts.</li>
                                     <li>Notes: view the text alongside scholarly notes by Julia Briggs.</li>
-                                    <li>Images: reveal links to contextual images. Click the links to view the images.</li>
+                                    <li>Images: reveal links to contextual images--click to view images.</li>
                                   </ul>
 
                                   <p>The default view of the poem is as scrolling text, but otherwise we have tried to preserve its original layout and size. To increase the size of the text, please use the zoom functions on your browser.</p>
