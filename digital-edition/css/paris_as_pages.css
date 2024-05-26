@@ -222,6 +222,12 @@ space[type="leading"][quantity="2"]{
       height: 1pt;
       width: 216pt;
   }
+
+  space[type="display"][quantity="36"]{
+    display:block;
+    height: .1pt;
+    width: 216pt;
+  }
   
 /* imports */
 
