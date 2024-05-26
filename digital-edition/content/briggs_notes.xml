@@ -43,10 +43,10 @@
     <text>
         <body>
             <div>
-                <note xml:id="briggs.01" resp="Preus" anchored="true" target="#l.0.7">
+                <note xml:id="briggs.01" resp="Preus" anchored="true" target="#l.0.8">
                     Notes by Julia Briggs, originally published in "Hope Mirrlees and Continental Modernism," Chapter 8 of <hi rendition="#italic">Gender in Modernism: New Geographies, Complex Intersections"</hi>(2007), edited by Bonnie Kime Scott.
                 </note>
-                <note xml:id="briggs.1" resp="Briggs" anchored="true" target="#range(l.0.8, l.0.11)">
+                <note xml:id="briggs.1" resp="Briggs" anchored="true" target="#l.0.11">
                 Dedication: "To our lady of Paris in recognition of graces granted." "Our Lady of Paris," both the Virgin Mary
                 and the <seg xml:id="briggs.1.1">cathedral</seg> dedicated to her on the Ile-de-la-Cite, at the center of Paris, with an echo of the prayer
                 "Ave Maria, gratia piena" ("Hail Mary, full of grace"——see line 445). The frame suggests that of a votive plaque
