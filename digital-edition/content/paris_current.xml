@@ -359,7 +359,7 @@
          <space type="leading" dim="vertical" unit="pts" quantity="7" resp="Grove"/>
 
          <l n="34" xml:id="l.34" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="80" resp="Grove"/><ref type="image" target=
-            "img.114.1">Gambetta</ref></l>
+            "img.114">Gambetta</ref></l>
 
          <l n="35" xml:id="l.35" rendition="#alignedR" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="21" resp="Grove"/>A red stud in the button-hole of his frock-coat</l>
 
@@ -903,12 +903,11 @@
                "img.256">La journée de huit heures</ref>,</foreign></l><!--CHECK ALIGNL-->
 
          <l n="163" xml:id="l.165" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="50" resp="Grove"/>Whether <ref type="image" target=
-            "img.258.1">Landru</ref> is a Sadist,</l>
+            "img.258">Landru</ref> is a Sadist,</l>
 
          <l n="164" xml:id="l.166" rendition="#alignedR" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="50" resp="Grove"/>The <ref type="image" target=
             "img.268">learned seal</ref> at the
-            <foreign xml:lang="fr"><ref type="image" target=
-               "img.264">Nouveau Cirque</ref></foreign></l><!--LANGUAGE: place - should this be tagged-->
+            <foreign xml:lang="fr">Nouveau Cirque</foreign></l><!--LANGUAGE: place - should this be tagged-->
 
          <l n="165" xml:id="l.167" part="N"><space type="alignL" dim="horizontal" unit="pts" quantity="70" resp="Grove"/><ref type="image" target=
             "img.707">Cottin</ref>.<space
@@ -1557,10 +1556,10 @@
 
          <l n="339" xml:id="l.347" rendition="#justified" part="I">In the <ref type="image" target=
             "img.456">Ile Saint<seg rendition="#fontsize7pt" part="N">-</seg>Louis</ref>, in the <ref type="image" target=
-               "img.462.1">rue Saint Antoine</ref>, in</l>
+               "img.462">rue Saint Antoine</ref>, in</l>
 
          <l n="340" xml:id="l.348" part="F">the <ref type="image" target=
-            "img.473.1">Place des Vosges</ref></l>
+            "img.473">Place des Vosges</ref></l>
 
          <l n="341" xml:id="l.349" part="N"><seg rendition="#justification">The Seventeenth Century lies exquisitely dying.<space
                type="character" dim="horizontal" unit="pts" quantity="3.5" resp="Grove"/>.<space
