@@ -106,6 +106,8 @@ menu:
         link: '/digital-edition/content/paris_current.xml'
       - label: 'Facsimile'
         link: 'https://apreus.github.io/paris-flipbook/'
+      - label: 'Downloads'
+        link: '/exhibits/downloads/'
   - label: 'Contexts'
     sub:
       - label: 'Hope Mirrlees'
