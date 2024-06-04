@@ -12,8 +12,8 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 **Additional File Formats**
 
-[PDF]("../digital-edition/content/paris_a_poem.pdf")<br>
-[Plain Text]("../digital-edition/content/mirrlees_paris-a-poem.txt")<br>
-[TEI (XML)]("../digital-edition/content/paris_current.xml")<br>
+[PDF]("/img/paris_a_poem.pdf")<br>
+[Plain Text]("img/mirrlees_paris-a-poem.txt")<br>
+[TEI (XML)]("/img/paris_current.xml")<br>
 
 All other files available on [GitHub](https://github.com/apreus/paris-project-exhibition).
